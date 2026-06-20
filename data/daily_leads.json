@@ -1,0 +1,56 @@
+[
+  {
+    "id": "seed0001",
+    "company": "AMD",
+    "title": "Software Engineering Intern - GPU Systems",
+    "location": "Austin, TX",
+    "date_found": "2026-06-20",
+    "source": "GitHub",
+    "url": "https://www.amd.com/en/careers.html"
+  },
+  {
+    "id": "seed0002",
+    "company": "Stripe",
+    "title": "Software Engineer Intern, Infrastructure",
+    "location": "Remote",
+    "date_found": "2026-06-20",
+    "source": "Greenhouse",
+    "url": "https://stripe.com/jobs"
+  },
+  {
+    "id": "seed0003",
+    "company": "Palantir",
+    "title": "Forward Deployed Software Engineer Intern",
+    "location": "Denver, CO",
+    "date_found": "2026-06-20",
+    "source": "Lever",
+    "url": "https://www.palantir.com/careers/"
+  },
+  {
+    "id": "seed0004",
+    "company": "NVIDIA",
+    "title": "Hardware Engineering Intern - Architecture",
+    "location": "Santa Clara, CA",
+    "date_found": "2026-06-19",
+    "source": "GitHub",
+    "url": "https://www.nvidia.com/en-us/about-nvidia/careers/"
+  },
+  {
+    "id": "seed0005",
+    "company": "Databricks",
+    "title": "Software Engineer Intern, Distributed Systems",
+    "location": "San Francisco, CA",
+    "date_found": "2026-06-19",
+    "source": "Levels.fyi",
+    "url": "https://www.databricks.com/company/careers"
+  },
+  {
+    "id": "seed0006",
+    "company": "Figma",
+    "title": "Software Engineering Intern",
+    "location": "San Francisco, CA",
+    "date_found": "2026-06-19",
+    "source": "Otta",
+    "url": "https://www.figma.com/careers/"
+  }
+]

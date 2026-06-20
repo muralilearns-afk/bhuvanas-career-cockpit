@@ -1,0 +1,62 @@
+name: Daily Job Sync
+
+# Runs the sourcing engine once a day at 5:00 PM CST.
+# CST is UTC-6 in winter and UTC-5 during US daylight saving (CDT).
+# GitHub Actions cron is always UTC and does not shift with DST, so this
+# fires at 11:00 PM UTC (= 5:00 PM CST, winter) most of the year. During
+# CDT (roughly mid-March to early November) the same cron line lands at
+# 6:00 PM CDT instead of 5:00 PM. If you want it pinned to the wall-clock
+# 5pm exactly year-round, switch to two cron lines (one per DST season)
+# as shown in the commented-out block below.
+"on":
+  schedule:
+    - cron: "0 23 * * *"      # 11:00 PM UTC = 5:00 PM CST (standard time)
+    # - cron: "0 22 * * *"    # uncomment for 5:00 PM CDT (daylight time)
+  workflow_dispatch: {}        # lets you trigger a run manually from the Actions tab
+
+permissions:
+  contents: write             # needed so the workflow can commit daily_leads.json back
+
+concurrency:
+  group: daily-job-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Cache pip dependencies
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run sourcing engine
+        run: python fetch_all_opportunities.py
+
+      - name: Commit updated leads
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: daily internship leads sync"
+          file_pattern: "data/daily_leads.json .sourcing_cache/**"
+          commit_user_name: "career-cockpit-bot"
+          commit_user_email: "actions@users.noreply.github.com"
+
+  # GitHub Pages note:
+  # If Pages is configured under Settings > Pages as "Deploy from a branch"
+  # (branch: main, folder: / root), a push from the commit step above is
+  # all it takes - GitHub redeploys the site automatically within a
+  # minute or two. No extra deploy job is needed for that setup, which is
+  # why there isn't one here. See the setup guide for the one-time Pages
+  # configuration step.
