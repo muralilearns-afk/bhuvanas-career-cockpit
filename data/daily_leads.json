@@ -1,85 +1,185 @@
 {
-  "last_updated": "2026-06-21 00:22",
+  "last_updated": "2026-06-21 01:03",
   "leads": [
     {
-      "id": "seed0001",
-      "company": "AMD",
-      "title": "Software Engineering Intern - GPU Systems",
-      "location": "Austin, TX",
-      "country": "United States",
-      "date_found": "2026-06-20",
-      "source": "GitHub",
-      "url": "https://www.amd.com/en/careers.html"
-    },
-    {
-      "id": "seed0002",
+      "id": "29e82bc9b501",
       "company": "Stripe",
-      "title": "Software Engineer Intern, Infrastructure",
-      "location": "Remote",
-      "country": "Remote",
-      "date_found": "2026-06-20",
+      "title": "PhD Data Scientist, Intern",
+      "location": "Toronto, Ontario, Canada",
+      "country": "Canada",
+      "date_found": "2026-06-21",
       "source": "Greenhouse",
-      "url": "https://stripe.com/jobs"
+      "url": "https://stripe.com/jobs/search?gh_jid=7285974"
     },
     {
-      "id": "seed0003",
+      "id": "5aa4bf3b242d",
+      "company": "Stripe",
+      "title": "Software Engineer, Intern",
+      "location": "Sydney, Australia",
+      "country": "Australia",
+      "date_found": "2026-06-21",
+      "source": "Greenhouse",
+      "url": "https://stripe.com/jobs/search?gh_jid=7532256"
+    },
+    {
+      "id": "d19b7516967c",
       "company": "Palantir",
-      "title": "Forward Deployed Software Engineer Intern",
-      "location": "Denver, CO",
-      "country": "United States",
-      "date_found": "2026-06-20",
+      "title": "Deployment Strategist, Internship",
+      "location": "Paris, France",
+      "country": "France",
+      "date_found": "2026-06-21",
       "source": "Lever",
-      "url": "https://www.palantir.com/careers/"
+      "url": "https://jobs.lever.co/palantir/774cf5c9-bf6a-4d77-bf60-d50ef1beb1a0"
     },
     {
-      "id": "seed0004",
-      "company": "NVIDIA",
-      "title": "Hardware Engineering Intern - Architecture",
-      "location": "Santa Clara, CA",
+      "id": "6a9811d9829c",
+      "company": "Palantir",
+      "title": "Deployment Strategist, Internship - US Government",
+      "location": "Honolulu, HI",
       "country": "United States",
-      "date_found": "2026-06-19",
-      "source": "GitHub",
-      "url": "https://www.nvidia.com/en-us/about-nvidia/careers/"
+      "date_found": "2026-06-21",
+      "source": "Lever",
+      "url": "https://jobs.lever.co/palantir/a49d4181-a289-435a-b581-7f5af0497c8e"
     },
     {
-      "id": "seed0005",
+      "id": "73e7b8a0aa94",
+      "company": "Palantir",
+      "title": "Forward Deployed Software Engineer, Internship",
+      "location": "Paris, France",
+      "country": "France",
+      "date_found": "2026-06-21",
+      "source": "Lever",
+      "url": "https://jobs.lever.co/palantir/1b6f1d82-d459-4dea-8bc2-8d2ffe6f881a"
+    },
+    {
+      "id": "08892fc127e2",
+      "company": "Palantir",
+      "title": "Forward Deployed Software Engineer, Internship - AUS Government",
+      "location": "Sydney, Australia",
+      "country": "Australia",
+      "date_found": "2026-06-21",
+      "source": "Lever",
+      "url": "https://jobs.lever.co/palantir/395a4483-fc3d-4b77-a500-501923fd0976"
+    },
+    {
+      "id": "d542fdbcd625",
+      "company": "Palantir",
+      "title": "Forward Deployed Software Engineer, Internship - Defense Tech",
+      "location": "Washington, D.C.",
+      "country": "United States",
+      "date_found": "2026-06-21",
+      "source": "Lever",
+      "url": "https://jobs.lever.co/palantir/cccfe1bd-f15b-4fe5-b044-c793e7961c1b"
+    },
+    {
+      "id": "b8c01d6c8209",
+      "company": "Palantir",
+      "title": "Forward Deployed Software Engineer, Internship - France",
+      "location": "New York, NY",
+      "country": "United States",
+      "date_found": "2026-06-21",
+      "source": "Lever",
+      "url": "https://jobs.lever.co/palantir/ac0dc094-2480-43c2-8495-26ade227ff4f"
+    },
+    {
+      "id": "40b8323e3b01",
+      "company": "Palantir",
+      "title": "Forward Deployed Software Engineer, Internship - Poland",
+      "location": "New York, NY",
+      "country": "United States",
+      "date_found": "2026-06-21",
+      "source": "Lever",
+      "url": "https://jobs.lever.co/palantir/d582cd84-14fd-4aa3-b413-15982d286bd9"
+    },
+    {
+      "id": "0a59dfdc5319",
+      "company": "Palantir",
+      "title": "Forward Deployed Software Engineer, Internship - US Government",
+      "location": "Honolulu, HI",
+      "country": "United States",
+      "date_found": "2026-06-21",
+      "source": "Lever",
+      "url": "https://jobs.lever.co/palantir/315f695d-04d1-4a9a-848e-cb2bec7a997e"
+    },
+    {
+      "id": "c4c679c3556d",
+      "company": "Palantir",
+      "title": "Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial",
+      "location": "New York, NY",
+      "country": "United States",
+      "date_found": "2026-06-21",
+      "source": "Lever",
+      "url": "https://jobs.lever.co/palantir/e6789b17-62fb-4226-a079-f8c17ff19e2d"
+    },
+    {
+      "id": "5aa891a376ff",
+      "company": "Palantir",
+      "title": "Year at Palantir - Forward Deployed Software Engineer, Internship - USG",
+      "location": "Washington, D.C.",
+      "country": "United States",
+      "date_found": "2026-06-21",
+      "source": "Lever",
+      "url": "https://jobs.lever.co/palantir/5c4c65c5-77da-4d36-856c-4ade87631019"
+    },
+    {
+      "id": "04fd705ea83c",
+      "company": "Palantir",
+      "title": "Year at Palantir - Software Engineer, Internship",
+      "location": "New York, NY",
+      "country": "United States",
+      "date_found": "2026-06-21",
+      "source": "Lever",
+      "url": "https://jobs.lever.co/palantir/655f9937-a4ce-4e7d-80e2-a6659af07329"
+    },
+    {
+      "id": "899162411f76",
       "company": "Databricks",
-      "title": "Software Engineer Intern, Distributed Systems",
-      "location": "San Francisco, CA",
+      "title": "PhD GenAI Research Scientist Intern",
+      "location": "San Francisco, California",
       "country": "United States",
-      "date_found": "2026-06-19",
-      "source": "Levels.fyi",
-      "url": "https://www.databricks.com/company/careers"
-    },
-    {
-      "id": "seed0006",
-      "company": "Figma",
-      "title": "Software Engineering Intern",
-      "location": "San Francisco, CA",
-      "country": "United States",
-      "date_found": "2026-06-19",
-      "source": "Otta",
-      "url": "https://www.figma.com/careers/"
-    },
-    {
-      "id": "seed0007",
-      "company": "Razorpay",
-      "title": "Software Engineering Intern - Payments",
-      "location": "Bangalore, India",
-      "country": "India",
-      "date_found": "2026-06-20",
-      "source": "Lever",
-      "url": "https://razorpay.com/jobs/"
-    },
-    {
-      "id": "seed0008",
-      "company": "Revolut",
-      "title": "Software Engineer Intern - Backend",
-      "location": "London, UK",
-      "country": "United Kingdom",
-      "date_found": "2026-06-18",
+      "date_found": "2026-06-21",
       "source": "Greenhouse",
-      "url": "https://www.revolut.com/careers/"
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7011263002"
+    },
+    {
+      "id": "bbed809cc23b",
+      "company": "Airbnb",
+      "title": "Communications Intern, LATAM",
+      "location": "S\u00e3o Paulo, Brazil",
+      "country": "Brazil",
+      "date_found": "2026-06-21",
+      "source": "Greenhouse",
+      "url": "https://careers.airbnb.com/positions/7900153?gh_jid=7900153"
+    },
+    {
+      "id": "644ec4cbdb44",
+      "company": "Airbnb",
+      "title": "Field Sales Intern, EMEA Services",
+      "location": "Barcelona, Spain, Milan, Italy, Paris, France",
+      "country": "France",
+      "date_found": "2026-06-21",
+      "source": "Greenhouse",
+      "url": "https://careers.airbnb.com/positions/7904319?gh_jid=7904319"
+    },
+    {
+      "id": "53177deabffc",
+      "company": "Airbnb",
+      "title": "Legal Intern, Brazil",
+      "location": "S\u00e3o Paulo, Brazil",
+      "country": "Brazil",
+      "date_found": "2026-06-21",
+      "source": "Greenhouse",
+      "url": "https://careers.airbnb.com/positions/7886515?gh_jid=7886515"
+    },
+    {
+      "id": "755ee66f8575",
+      "company": "Airbnb",
+      "title": "Sales Operations Intern, Italy",
+      "location": "Milan, Italy",
+      "country": "Italy",
+      "date_found": "2026-06-21",
+      "source": "Greenhouse",
+      "url": "https://careers.airbnb.com/positions/7979270?gh_jid=7979270"
     }
   ]
 }
