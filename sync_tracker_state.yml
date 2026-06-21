@@ -1,0 +1,84 @@
+name: Sync Tracker State
+
+# Triggered when the dashboard's "Sync to Cloud" button opens a pre-filled
+# GitHub issue labeled "tracker-sync". The dashboard's JavaScript never
+# holds a token of any kind - opening that issue just uses the browser's
+# own already-authenticated github.com session. This workflow then runs
+# with its own repo-scoped GITHUB_TOKEN, which GitHub provisions
+# automatically per run and which never appears in any file here.
+#
+# Note: GitHub only attaches a label from the issues/new?labels= URL
+# parameter if the person creating the issue has permission to set labels
+# on the repo (i.e. is a collaborator). A random visitor opening an issue
+# on a public repo cannot get themselves labeled "tracker-sync", so the
+# `if:` check below is also a meaningful access gate, not just a filter.
+"on":
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: sync-tracker-state
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    if: contains(github.event.issue.labels.*.name, 'tracker-sync')
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Parse and merge tracker state
+        id: merge
+        env:
+          ISSUE_BODY: ${{ github.event.issue.body }}
+        run: python sync_tracker_state.py
+
+      - name: Commit updated tracker state
+        if: steps.merge.outputs.merged == 'true'
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: sync tracker state from issue #${{ github.event.issue.number }}"
+          file_pattern: "data/tracker_state.json"
+          commit_user_name: "career-cockpit-bot"
+          commit_user_email: "actions@users.noreply.github.com"
+
+      - name: Comment and close on success
+        if: steps.merge.outputs.merged == 'true'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const count = "${{ steps.merge.outputs.count }}";
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              body: `Synced ${count} status update(s) into \`data/tracker_state.json\`.`,
+            });
+            await github.rest.issues.update({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              state: "closed",
+            });
+
+      - name: Comment on failure
+        if: steps.merge.outputs.merged != 'true'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              body: "Couldn't find a valid `tracker-sync` JSON block in this issue body. Leaving it open - please check the format, or open a fresh sync from the dashboard's \"Sync to Cloud\" button.",
+            });

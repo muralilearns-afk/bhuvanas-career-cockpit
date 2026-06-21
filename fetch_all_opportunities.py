@@ -96,6 +96,79 @@ INTERN_KEYWORDS = re.compile(r"\bintern(ship)?\b", re.IGNORECASE)
 AGE_DAY_PATTERN = re.compile(r"(\d+)\s*d\b", re.IGNORECASE)
 MAX_AGE_DAYS = 2  # GitHub-diff fallback window when no cache exists yet
 
+# --------------------------------------------------------------------------
+# Location/country standardization - feeds the dashboard's Country filter.
+# Best-effort: these sources are overwhelmingly US tech-internship boards,
+# so an unmatched token falls back to "United States" rather than leaving
+# a dead "Unknown" bucket in the filter dropdown.
+# --------------------------------------------------------------------------
+
+US_STATE_ABBREVIATIONS = {
+    "AL", "AK", "AZ", "AR", "CA", "CO", "CT", "DE", "FL", "GA", "HI", "ID",
+    "IL", "IN", "IA", "KS", "KY", "LA", "ME", "MD", "MA", "MI", "MN", "MS",
+    "MO", "MT", "NE", "NV", "NH", "NJ", "NM", "NY", "NC", "ND", "OH", "OK",
+    "OR", "PA", "RI", "SC", "SD", "TN", "TX", "UT", "VT", "VA", "WA", "WV",
+    "WI", "WY", "DC",
+}
+
+US_STATE_NAMES = {
+    "alabama", "alaska", "arizona", "arkansas", "california", "colorado",
+    "connecticut", "delaware", "florida", "georgia", "hawaii", "idaho",
+    "illinois", "indiana", "iowa", "kansas", "kentucky", "louisiana",
+    "maine", "maryland", "massachusetts", "michigan", "minnesota",
+    "mississippi", "missouri", "montana", "nebraska", "nevada",
+    "new hampshire", "new jersey", "new mexico", "new york",
+    "north carolina", "north dakota", "ohio", "oklahoma", "oregon",
+    "pennsylvania", "rhode island", "south carolina", "south dakota",
+    "tennessee", "texas", "utah", "vermont", "virginia", "washington",
+    "west virginia", "wisconsin", "wyoming", "district of columbia",
+}
+
+COUNTRY_ALIASES = {
+    "usa": "United States", "us": "United States", "u.s.": "United States",
+    "u.s.a.": "United States", "united states": "United States",
+    "united states of america": "United States",
+    "uk": "United Kingdom", "u.k.": "United Kingdom",
+    "united kingdom": "United Kingdom", "england": "United Kingdom",
+    "scotland": "United Kingdom", "wales": "United Kingdom",
+    "india": "India", "canada": "Canada", "germany": "Germany",
+    "france": "France", "ireland": "Ireland", "singapore": "Singapore",
+    "australia": "Australia", "china": "China", "japan": "Japan",
+    "netherlands": "Netherlands", "israel": "Israel",
+    "switzerland": "Switzerland", "spain": "Spain", "italy": "Italy",
+    "sweden": "Sweden", "poland": "Poland", "brazil": "Brazil",
+    "mexico": "Mexico", "south korea": "South Korea", "korea": "South Korea",
+}
+
+
+def standardize_location(raw_location: str) -> tuple[str, str]:
+    """Returns (cleaned_location, country) derived from a free-text location
+    string like 'Austin, TX', 'Remote', or 'London, UK'."""
+    loc = (raw_location or "").strip()
+    if not loc or loc.lower() in ("unspecified", "n/a", "tbd", "-"):
+        return (loc or "Unspecified"), "Unspecified"
+
+    if loc.lower() == "remote":
+        return "Remote", "Remote"
+
+    # Some tracker rows list multiple offices separated by ';' - use the first.
+    first = re.split(r"\s*;\s*", loc)[0].strip()
+    parts = [p.strip() for p in first.split(",")]
+    last = parts[-1] if parts else ""
+    last_lower = last.lower()
+
+    if last.upper() in US_STATE_ABBREVIATIONS or last_lower in US_STATE_NAMES:
+        return first, "United States"
+
+    if last_lower in COUNTRY_ALIASES:
+        return first, COUNTRY_ALIASES[last_lower]
+
+    if "remote" in loc.lower() and "us" in loc.lower():
+        return first, "United States"
+
+    # No confident match - default to United States rather than "Unknown".
+    return first, "United States"
+
 logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s [%(levelname)s] %(message)s",
@@ -109,6 +182,7 @@ class Lead:
     company: str
     title: str
     location: str
+    country: str
     date_found: str
     source: str
     url: str
@@ -169,6 +243,7 @@ def _row_to_lead(row: str, source_label: str) -> Lead | None:
 
     location = cells[2] if len(cells) > 2 else ""
     location = re.sub(r"\*\*|\[|\]\(.*?\)", "", location).strip() or "Unspecified"
+    location, country = standardize_location(location)
 
     age_match = AGE_DAY_PATTERN.search(row)
     age_days = int(age_match.group(1)) if age_match else None
@@ -177,6 +252,7 @@ def _row_to_lead(row: str, source_label: str) -> Lead | None:
         company=company,
         title=title,
         location=location,
+        country=country,
         date_found=datetime.now(timezone.utc).date().isoformat(),
         source=source_label,
         url=url,
@@ -246,11 +322,13 @@ def fetch_greenhouse() -> list[Lead]:
             if not INTERN_KEYWORDS.search(title):
                 continue
             location = (job.get("location") or {}).get("name", "Unspecified")
+            location, country = standardize_location(location)
             leads.append(
                 Lead(
                     company=slug.capitalize(),
                     title=title,
                     location=location,
+                    country=country,
                     date_found=datetime.now(timezone.utc).date().isoformat(),
                     source="Greenhouse",
                     url=job.get("absolute_url", ""),
@@ -286,11 +364,13 @@ def fetch_lever() -> list[Lead]:
                 continue
             categories = posting.get("categories", {}) or {}
             location = categories.get("location", "Unspecified")
+            location, country = standardize_location(location)
             leads.append(
                 Lead(
                     company=slug.capitalize(),
                     title=title,
                     location=location,
+                    country=country,
                     date_found=datetime.now(timezone.utc).date().isoformat(),
                     source="Lever",
                     url=posting.get("hostedUrl", ""),
@@ -341,11 +421,13 @@ def fetch_levels_fyi() -> list[Lead]:
         company = job.get("company") or job.get("companyName") or ""
         if not title or not company or not INTERN_KEYWORDS.search(title):
             continue
+        location, country = standardize_location(job.get("location", "Unspecified"))
         leads.append(
             Lead(
                 company=company,
                 title=title,
-                location=job.get("location", "Unspecified"),
+                location=location,
+                country=country,
                 date_found=datetime.now(timezone.utc).date().isoformat(),
                 source="Levels.fyi",
                 url=job.get("url") or job.get("applyUrl") or url,
@@ -416,11 +498,13 @@ def fetch_otta() -> list[Lead]:
         company = job.get("company") or job.get("companyName") or job.get("organizationName") or ""
         if not title or not company or not INTERN_KEYWORDS.search(title):
             continue
+        location, country = standardize_location(job.get("location", "Unspecified"))
         leads.append(
             Lead(
                 company=company,
                 title=title,
-                location=job.get("location", "Unspecified"),
+                location=location,
+                country=country,
                 date_found=datetime.now(timezone.utc).date().isoformat(),
                 source="Otta",
                 url=job.get("url") or url,
@@ -446,12 +530,20 @@ def dedupe(leads: Iterable[Lead]) -> list[Lead]:
 def write_output(leads: list[Lead]) -> None:
     DATA_DIR.mkdir(parents=True, exist_ok=True)
     ordered = sorted(leads, key=lambda l: (l.date_found, l.company.lower()), reverse=True)
-    payload = [
+    leads_payload = [
         {"id": lead.id(), **asdict(lead)}
         for lead in ordered
     ]
+    # Stamped right before the write so it reflects exactly when this run
+    # finished. GitHub Actions runners are always UTC - the dashboard knows
+    # to treat this as UTC and converts it to each viewer's local time.
+    last_updated = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M")
+    payload = {"last_updated": last_updated, "leads": leads_payload}
     OUTPUT_PATH.write_text(json.dumps(payload, indent=2), encoding="utf-8")
-    log.info("Wrote %d leads to %s", len(payload), OUTPUT_PATH)
+    log.info(
+        "Wrote %d leads to %s (last_updated=%s UTC)",
+        len(leads_payload), OUTPUT_PATH, last_updated,
+    )
 
 
 def main() -> None:
