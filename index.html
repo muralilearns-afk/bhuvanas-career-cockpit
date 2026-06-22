@@ -4379,6 +4379,14 @@ function withinDateFilter(dateStr, filter) {
   if (filter === "7d") return diffMs <= 7 * 24 * 60 * 60 * 1000;
   return true;
 }
+
+// Case-insensitive match against one or more fields (company, title/role).
+// An empty query always matches, so this is a no-op until the user types.
+function matchesQuery(query, ...fields) {
+  if (!query || !query.trim()) return true;
+  const q = query.trim().toLowerCase();
+  return fields.some(f => (f || "").toLowerCase().includes(q));
+}
 function formatLastUpdated(raw) {
   if (!raw || typeof raw !== "string") return null;
   // The sourcing script stamps this as "YYYY-MM-DD HH:MM" in UTC (GitHub
@@ -4522,11 +4530,16 @@ function OpportunitiesTracker() {
   const [activeBucket, setActiveBucket] = useState("yet");
   const [countryFilter, setCountryFilter] = useState("All");
   const [dateFilter, setDateFilter] = useState("all");
+  const [searchQuery, setSearchQuery] = useState("");
   const [lastSyncRequestedAt, setLastSyncRequestedAt] = useState(loadLastSyncRequestedAt);
   const [lastUpdated, setLastUpdated] = useState(null);
   useEffect(() => {
     let cancelled = false;
-    fetch(LEADS_DATA_PATH).then(r => {
+    // Safari aggressively caches same-URL fetches, so it can keep serving a
+    // stale daily_leads.json after a fresh nightly sync. Appending a
+    // timestamp query param makes every page load look like a new URL,
+    // forcing Safari (and any other browser/proxy) to bypass its cache.
+    fetch(`${LEADS_DATA_PATH}?t=${new Date().getTime()}`).then(r => {
       if (!r.ok) throw new Error("daily_leads.json not reachable");
       return r.json();
     }).then(data => {
@@ -4618,9 +4631,9 @@ function OpportunitiesTracker() {
     id,
     ...v
   })), [tracker]);
-  const yetToApplyLeads = useMemo(() => leads.filter(l => !tracker[l.id] && (countryFilter === "All" || l.country === countryFilter) && withinDateFilter(l.date_found, dateFilter)), [leads, tracker, countryFilter, dateFilter]);
-  const appliedEntries = useMemo(() => trackerEntries.filter(e => e.status === "applied" && (countryFilter === "All" || e.country === countryFilter) && withinDateFilter(e.changedAt, dateFilter)), [trackerEntries, countryFilter, dateFilter]);
-  const discardedEntries = useMemo(() => trackerEntries.filter(e => e.status === "discarded" && (countryFilter === "All" || e.country === countryFilter) && withinDateFilter(e.changedAt, dateFilter)), [trackerEntries, countryFilter, dateFilter]);
+  const yetToApplyLeads = useMemo(() => leads.filter(l => !tracker[l.id] && (countryFilter === "All" || l.country === countryFilter) && withinDateFilter(l.date_found, dateFilter) && matchesQuery(searchQuery, l.company, l.title)), [leads, tracker, countryFilter, dateFilter, searchQuery]);
+  const appliedEntries = useMemo(() => trackerEntries.filter(e => e.status === "applied" && (countryFilter === "All" || e.country === countryFilter) && withinDateFilter(e.changedAt, dateFilter) && matchesQuery(searchQuery, e.company, e.role)), [trackerEntries, countryFilter, dateFilter, searchQuery]);
+  const discardedEntries = useMemo(() => trackerEntries.filter(e => e.status === "discarded" && (countryFilter === "All" || e.country === countryFilter) && withinDateFilter(e.changedAt, dateFilter) && matchesQuery(searchQuery, e.company, e.role)), [trackerEntries, countryFilter, dateFilter, searchQuery]);
   const counts = {
     yet: yetToApplyLeads.length,
     applied: appliedEntries.length,
@@ -4686,7 +4699,17 @@ function OpportunitiesTracker() {
     value: "24h"
   }, "Past 24 Hours"), /*#__PURE__*/React.createElement("option", {
     value: "7d"
-  }, "Past 7 Days"))), /*#__PURE__*/React.createElement("div", {
+  }, "Past 7 Days"))), /*#__PURE__*/React.createElement("label", {
+    className: "flex flex-col gap-1"
+  }, /*#__PURE__*/React.createElement("span", {
+    className: "text-[11px] font-semibold text-slate-500 uppercase tracking-wide"
+  }, "Search"), /*#__PURE__*/React.createElement("input", {
+    type: "text",
+    placeholder: "🔍 Search company or title...",
+    value: searchQuery,
+    onChange: e => setSearchQuery(e.target.value),
+    className: "text-[12.5px] border border-slate-300 rounded-md px-2 py-1.5 bg-white min-w-[200px]"
+  })), /*#__PURE__*/React.createElement("div", {
     className: "flex flex-col gap-1"
   }, /*#__PURE__*/React.createElement("span", {
     className: "text-[11px] font-semibold text-slate-500 uppercase tracking-wide"
