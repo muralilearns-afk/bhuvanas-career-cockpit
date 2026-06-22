@@ -21,6 +21,10 @@ SOURCES
                                    evasion, no Workday/Cloudflare bypass.
 5. Otta / Welcome to the Jungle - best-effort parse of the embedded
                                    page JSON, same constraints as above.
+6. Simplify.jobs                - structured listings.json feed (the same
+                                   public, machine-readable data that backs
+                                   Simplify's own internship board), filtered
+                                   to Software/Hardware/Data Science/Systems.
 
 Design notes
 ------------
@@ -76,7 +80,11 @@ RATE_LIMIT_SECONDS = 1.0  # politeness delay between requests to the same host
 # trackers (the "main" branch is often just a redirect/readme stub).
 GITHUB_REPOS = [
     {"repo": "vanshb03/Summer2027-Internships", "branch": "dev", "path": "README.md"},
-    {"repo": "SimplifyJobs/Summer2026-Internships", "branch": "dev", "path": "README.md"},
+    # SimplifyJobs/Summer2026-Internships is intentionally NOT diffed here as
+    # raw markdown. That repo publishes a structured listings.json sidecar
+    # file - the same data backing Simplify.jobs' own board - which gives
+    # clean company/title/url/date fields directly. See fetch_simplify_jobs()
+    # below; dedupe() still protects against any overlap either way.
 ]
 
 # Companies known to use Greenhouse's public job board API.
@@ -515,6 +523,156 @@ def fetch_otta() -> list[Lead]:
 
 
 # --------------------------------------------------------------------------
+# SOURCE 6 - Simplify.jobs structured listings feed
+# --------------------------------------------------------------------------
+#
+# Simplify.jobs doesn't publish a documented public REST API. What IS public
+# is the structured JSON file the SimplifyJobs/Summer2026-Internships repo
+# ships alongside its README - the same machine-readable data that drives
+# Simplify's own internship board. Pulling that file directly gives clean
+# company/title/url/date fields with no markdown-table scraping involved.
+
+SIMPLIFY_LISTINGS_URL = (
+    "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships"
+    "/dev/.github/scripts/listings.json"
+)
+
+# Per spec: only keep postings that map cleanly onto one of these four
+# categories. Keyword-based, since the feed's own category labels (if any)
+# vary in naming across schema revisions - this is the same defensive,
+# "match a stable-enough signature" approach used by _find_job_like_dicts
+# for the other best-effort sources above.
+SIMPLIFY_CATEGORY_KEYWORDS: dict[str, re.Pattern] = {
+    "Software Engineering": re.compile(
+        r"software|full[\s-]?stack|front[\s-]?end|back[\s-]?end|\bweb\b|mobile|\bios\b|android|\bsde\b|\bswe\b",
+        re.IGNORECASE,
+    ),
+    "Hardware Engineering": re.compile(
+        r"hardware|embedded|firmware|electrical|\basic\b|\bfpga\b|\bpcb\b|mechanical|silicon|\bchip\b",
+        re.IGNORECASE,
+    ),
+    "Data Science": re.compile(
+        r"data scien|machine learning|\bml\b|\bai\b|analytics|data engineer|applied scientist|research scientist",
+        re.IGNORECASE,
+    ),
+    "Systems": re.compile(
+        r"systems engineer|infrastructure|platform engineer|site reliability|\bsre\b|devops|distributed systems|cloud engineer|network engineer",
+        re.IGNORECASE,
+    ),
+}
+
+
+def _classify_simplify_category(title: str) -> str | None:
+    """Maps a job title onto one of the four categories this source is
+    scoped to. Returns None (caller skips the row) for everything else -
+    e.g. product, design, or finance internships that also live in this
+    feed but fall outside what was asked for."""
+    for category, pattern in SIMPLIFY_CATEGORY_KEYWORDS.items():
+        if pattern.search(title or ""):
+            return category
+    return None
+
+
+def _simplify_date_added(job: dict) -> str:
+    """'Date Added' has shown up in a few different shapes across this
+    feed's schema revisions (unix seconds, unix milliseconds, ISO string).
+    Try each; fall back to today (UTC) so a schema drift never crashes the
+    run - same philosophy as the rest of this file's best-effort sources."""
+    raw = (
+        job.get("date_posted")
+        or job.get("date_added")
+        or job.get("datePosted")
+        or job.get("createdAt")
+    )
+    if isinstance(raw, (int, float)):
+        try:
+            ts = raw / 1000 if raw > 10_000_000_000 else raw
+            return datetime.fromtimestamp(ts, tz=timezone.utc).date().isoformat()
+        except (ValueError, OSError, OverflowError):
+            pass
+    if isinstance(raw, str):
+        try:
+            return datetime.fromisoformat(raw.replace("Z", "+00:00")).date().isoformat()
+        except ValueError:
+            pass
+    return datetime.now(timezone.utc).date().isoformat()
+
+
+def fetch_simplify_jobs() -> list[Lead]:
+    """
+    Source 6: Simplify.jobs structured internship feed.
+
+    Filtered to 'position: Internship' (via INTERN_KEYWORDS, same gate every
+    other source uses) and to postings that map onto Software Engineering,
+    Hardware Engineering, Data Science, or Systems. Rows explicitly marked
+    closed (active/is_visible == False) are skipped.
+    """
+    resp = _get(SIMPLIFY_LISTINGS_URL)
+    time.sleep(RATE_LIMIT_SECONDS)
+    if resp is None:
+        return []
+
+    try:
+        listings = resp.json()
+    except ValueError:
+        log.warning("Simplify.jobs: listings.json was not valid JSON")
+        return []
+
+    if not isinstance(listings, list):
+        log.warning(
+            "Simplify.jobs: listings.json was not a list (got %s) - schema may have changed",
+            type(listings).__name__,
+        )
+        return []
+
+    leads: list[Lead] = []
+    for job in listings:
+        if not isinstance(job, dict):
+            continue
+
+        # "active"/"is_visible" reflect whether Simplify still considers
+        # the posting live - skip anything explicitly marked closed.
+        if job.get("active") is False or job.get("is_visible") is False:
+            continue
+
+        title = (job.get("title") or "").strip()
+        company = (job.get("company_name") or job.get("company") or "").strip()
+        if not title or not company or not INTERN_KEYWORDS.search(title):
+            continue  # not an internship posting - "position: Internship" gate
+
+        if _classify_simplify_category(title) is None:
+            continue  # outside Software/Hardware/Data Science/Systems - skip
+
+        locations = job.get("locations")
+        if isinstance(locations, list) and locations:
+            raw_location = locations[0]
+        elif isinstance(locations, str) and locations:
+            raw_location = locations
+        else:
+            raw_location = job.get("location", "Unspecified")
+        location, country = standardize_location(raw_location)
+
+        url = job.get("url") or job.get("company_url") or job.get("apply_url") or ""
+        if not url and job.get("id"):
+            url = f"https://simplify.jobs/p/{job['id']}"
+
+        leads.append(
+            Lead(
+                company=company,
+                title=title,
+                location=location,
+                country=country,
+                date_found=_simplify_date_added(job),
+                source="Simplify",
+                url=url,
+            )
+        )
+
+    log.info("  -> %d intern postings parsed from Simplify.jobs", len(leads))
+    return leads
+
+
+# --------------------------------------------------------------------------
 # DEDUPE + OUTPUT
 # --------------------------------------------------------------------------
 
@@ -556,6 +714,7 @@ def main() -> None:
         fetch_lever,
         fetch_levels_fyi,
         fetch_otta,
+        fetch_simplify_jobs,
     ]
     for fn in source_fns:
         try:
