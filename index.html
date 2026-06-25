@@ -3108,6 +3108,258 @@ window.DATA.interviewerTracks = [
   }
 ];
 
+// ---------------------------------------------------------------------------
+// CORE KNOWLEDGE CENTER
+// Source: Bhuvana - Core Knowledge Center.pdf
+// Merges all 10 completed UT Austin ECE courses into 4 industrial-grade
+// builds. Each build (key "1".."4") links 1:1 to a project of the same key.
+// ---------------------------------------------------------------------------
+window.DATA.coreKnowledge = {
+  intro:
+    "This is the definitive, end-to-end master guide for your summer engineering portfolio. It merges all 10 of your completed UT Austin ECE subjects into 4 highly structured, industrial-grade projects — replacing exam-cramming with instinctive, hands-on engineering intuition.",
+
+  courseMatrix: [
+    {
+      course: "EE 302",
+      name: "Intro to EE",
+      concepts: "KVL/KCL, nodal analysis, RC/RL circuit transient behaviors, time constants (τ = RC), signal rise/fall times.",
+      builds: ["4"]
+    },
+    {
+      course: "EE 316",
+      name: "Digital Logic Design",
+      concepts: "Finite State Machines (FSMs), combinational logic paths, gate propagation delays (t_pd), setup/hold timing constraints, metastability.",
+      builds: ["4"]
+    },
+    {
+      course: "EE 306",
+      name: "Intro to Computing",
+      concepts: "Custom Instruction Set Architecture (ISA) definition, binary opcode/operand bit allocation, the sequential Fetch/Decode/Execute microcode clock cycle.",
+      builds: ["1"]
+    },
+    {
+      course: "EE 319K",
+      name: "Introduction to Embedded Systems",
+      concepts: "Bitwise operations (AND, OR, XOR, shifting), bitmasking algorithms, condition code flag computation (N, Z, V status flags), register-transfer logic.",
+      builds: ["1"]
+    },
+    {
+      course: "EE 362K",
+      name: "Microcomputer Architecture",
+      concepts: "Asynchronous hardware interrupts, software interrupt vector jumping, architectural context switching, CPU register state stacking/popping.",
+      builds: ["1"]
+    },
+    {
+      course: "EE 312",
+      name: "Software Design & Implementation",
+      concepts: "Low-level pointer manipulation, manual dynamic resource memory allocation (new/delete), runtime memory layout boundaries (Text vs. Stack vs. Heap).",
+      builds: ["1", "2"]
+    },
+    {
+      course: "EE 411",
+      name: "Engineering Computation",
+      concepts: "Object-oriented systems engineering, rigorous class hierarchies, encapsulation, clean separation of structural system components.",
+      builds: ["1", "2"]
+    },
+    {
+      course: "EE 360C",
+      name: "Algorithms",
+      concepts: "Graph representations (Adjacency Lists vs. Matrices), Big-O asymptotic notation space-time complexities, Dijkstra’s/A* optimization, Dynamic Programming via Memoization lookup tables.",
+      builds: ["2"]
+    },
+    {
+      course: "EE 313",
+      name: "Linear Systems & Signals",
+      concepts: "Set theory logic, discrete functional mapping, Gaussian (Normal) and Exponential probability distributions, calculation of continuous mean (μ) and rolling variance (σ).",
+      builds: ["2", "3"]
+    },
+    {
+      course: "EE 351K",
+      name: "Probability & Random Processes",
+      concepts: "Continuous-time to discrete digital sampling thresholds, Nyquist Criterion violations (aliasing), Fast Fourier Transforms (FFT) for Time-to-Frequency domain mapping, digital stochastic filtering.",
+      builds: ["3"]
+    }
+  ],
+
+  builds: [
+    {
+      key: "1",
+      icon: "\u{1F39B}️",
+      name: "The Silicon Hardware & ISA Simulator",
+      focus: "Moving from pure software down to physical register-transfer logic.",
+      concepts: [
+        { title: "Instruction Set Architecture (EE 306)", body: "Mapping opcodes, registers, and memory operands into 8-bit binary strings." },
+        { title: "The Instruction Cycle (EE 306)", body: "Coding the precise Fetch, Decode, and Execute sequencing loops." },
+        { title: "Bitwise Logic Gates (EE 319K)", body: "Implementing an ALU using bitwise AND, OR, XOR, and shift operations to compute flags (N, Z, V)." },
+        { title: "Memory & Pointer Mechanics (EE 312/411)", body: "Simulating a hardware Program Counter (PC) and Stack Pointer (SP) with manual push/pop operations." },
+        { title: "Interrupt Handling (EE 362K)", body: "Simulating context switching by saving register states to her custom stack when a mock I/O flag triggers." }
+      ],
+      breakageTest: "Write an assembly routine that deliberately forces a Stack Overflow or corrupts program instructions in memory, then use a custom debugger view to track down the exact faulty address pointer."
+    },
+    {
+      key: "2",
+      icon: "\u{1F310}",
+      name: "High-Performance Network Routing Engine",
+      focus: "Complex data structures, algorithmic efficiency, and spatial resource management.",
+      concepts: [
+        { title: "Graph Representations (EE 360C)", body: "Coding and comparing the space-time trade-offs of Adjacency Lists vs. Adjacency Matrices." },
+        { title: "Pathfinding Optimization (EE 360C)", body: "Implementing Dijkstra’s or A* algorithms to route packets efficiently across a simulated topology." },
+        { title: "Dynamic Memory Management (EE 312)", body: "Instantiating and freeing packet objects gracefully to ensure zero memory leaks." },
+        { title: "Set Theory & Network Topology (EE 302/313)", body: "Applying discrete functions to validate acyclic routing paths and eliminate data loops." },
+        { title: "Dynamic Programming & Memoization (EE 360C Add-on)", body: "Optimizing path counts from a slow recursive brute-force search into a sub-millisecond lookup table." }
+      ],
+      breakageTest: "Abruptly drop a critical node out of the active graph mid-transit. Code a dynamic re-routing routine that cleanly deletes lost packets, cleans up memory, and recalculates alternative paths instantly without dropping the system thread."
+    },
+    {
+      key: "3",
+      icon: "\u{1F4CA}",
+      name: "Real-Time Telemetry Analytics & Signal Pipeline",
+      focus: "Statistical analysis, digital signal manipulation, and predictive logic.",
+      concepts: [
+        { title: "Continuous to Discrete Sampling (EE 316/351K Add-on)", body: "Simulating continuous analog wave feeds and testing different digital sampling frequencies." },
+        { title: "Sampling Theory & Aliasing (EE 351K Add-on)", body: "Intentionally violating the Nyquist Rate to visually observe signal distortion on a plot." },
+        { title: "Frequency-Domain Transformations (EE 351K/316 Add-on)", body: "Applying a Fast Fourier Transform (FFT) to convert chaotic time-domain sensor feeds into crisp frequency spikes." },
+        { title: "Stochastic Filtering & Noise Reduction (EE 351K/316)", body: "Implementing rolling digital averages to isolate system signals from static background noise." },
+        { title: "Probability Distributions & Anomalies (EE 313)", body: "Mapping Gaussian distributions and calculating rolling standard deviations/Z-scores to mathematically identify abnormal voltage or thermal spikes." }
+      ],
+      breakageTest: "Inject sudden data drift (simulating a degraded sensor failing over time). Her code must flag the structural anomaly, isolate the faulty data vector, and output a system alert based on probability thresholds."
+    },
+    {
+      key: "4",
+      icon: "⚡",
+      name: "Pure Gate-Level Circuit & Timing Validation Lab",
+      focus: "Combinational logic constraints, finite state machine states, and electrical transients.",
+      concepts: [
+        { title: "Finite State Machine Design (EE 316)", body: "Constructing a fully functional sequential logic circuit (like a sequence detector) in a gate-level simulator." },
+        { title: "Timing Constraints & Setup/Hold Times (EE 316)", body: "Calculating exact gate propagation delays across combined logic gates and D flip-flops." },
+        { title: "Circuit Nodal Analysis (EE 302)", body: "Building fundamental RC and RLC networks in an open-source circuit simulator like LTspice." },
+        { title: "Transient Behaviors & Time Constants (EE 302)", body: "Plotting transient voltage curves to observe the exact physical behavior of a capacitor charging through the time constant (τ = RC)." }
+      ],
+      breakageTest: "Overclock the clock signal frequency in the gate simulator to deliberately violate setup and hold parameters. Watch the flip-flops glitch into a metastable state, then apply delay adjustments to bring the circuit back to timing compliance."
+    }
+  ],
+
+  projects: [
+    {
+      key: "1",
+      icon: "\u{1F6E0}️",
+      name: "The Full-Stack Hardware & ISA Simulator",
+      tracks: "Embedded Systems, Silicon Infrastructure, Firmware Engineering",
+      courses: "EE 306, EE 319K, EE 312, EE 411, EE 362K",
+      launchpad: "Direct Launchpad for EE 460N",
+      overview: "When silicon giants like NVIDIA, AMD, or Apple design a new microarchitecture, they do not print physical chips immediately. Teams of hardware validation and firmware engineers build software-based, cycle-accurate architectural simulators to test the Instruction Set Architecture (ISA), map register-transfer logic, and write low-level firmware before tape-out.",
+      concepts: [
+        { title: "ISA Specification & Machine Code Execution (EE 306)", body: "Define an original 8-bit or 16-bit ISA. Explicitly map out opcode bits, register specifier bits, and immediate operand fields. Implement the fundamental CPU instruction cycle: Fetch (read from simulated instruction memory), Decode (parse opcodes via bitmasking), and Execute (alter register or memory states)." },
+        { title: "Bitwise ALU & Condition Code Flags (EE 319K)", body: "Code an Arithmetic Logic Unit module using pure bitwise operations (&, |, ^, ~, <<, >>). The ALU must dynamically update architectural status flags: Negative (N), Zero (Z), and Overflow (V)." },
+        { title: "Memory Layout, Pointers, and Call Stacks (EE 312 / EE 411)", body: "Simulate a contiguous block of RAM memory. Explicitly separate this memory array into a Text section (instructions), a Heap section, and a Stack section. Implement an architectural Program Counter (PC) and a Stack Pointer (SP) that accurately moves memory addresses during data operations." },
+        { title: "Hardware Interrupts & Context Switching (EE 362K)", body: "Model a basic asynchronous I/O peripheral (like a timer or keyboard status register). When the interrupt flag fires, the simulator must pause execution, push the current PC and register files onto the hardware stack, jump to an Interrupt Service Routine (ISR) vector address, and pop the state back upon completion." }
+      ],
+      phases: [
+        { title: "Phase 1 (The Storage Elements)", body: "Define the system architecture variables: an array for 64KB of RAM, an array for 8 general-purpose registers, a 16-bit PC, and a 16-bit SP." },
+        { title: "Phase 2 (The Instruction Set)", body: "Build the decoding logic using bit-shifting and bit-masking. Support at least 6 core instructions: LOAD, STORE, ADD, AND, BR (Branch on condition flags), and CALL/RET." },
+        { title: "Phase 3 (The Software Assembler)", body: "Write a companion Python script that reads a text file of mock assembly instructions and parses them into a binary or hexadecimal array that loads into your simulator’s RAM array." }
+      ],
+      breakage: {
+        stressTest: "Intentionally write a mock assembly script containing an infinite recursive loop without a base case. Run it through the simulator.",
+        diagnostics: "Watch how the Stack Pointer moves deeper into memory until it crosses the threshold boundary into your Heap or Text space. Use a debugging script to log the exact memory addresses where the collision occurs.",
+        patch: "Implement a hardware boundary-check directly into the simulator's microcode loop. If SP <= Boundary_Address, throw a hardware Stack Overflow Exception and halt execution safely."
+      },
+      explainOutLoud: "How does an Instruction Set Architecture balance the trade-off between the number of available registers and the number of bits allocated for immediate operands within a fixed instruction width?",
+      keywords: ["Fetch/Decode/Execute", "Bitmasking", "Signed Overflow", "Stack Pointer", "Context Switching", "ISR vector"]
+    },
+    {
+      key: "2",
+      icon: "\u{1F310}",
+      name: "High-Performance Network Routing Engine",
+      tracks: "Distributed Systems, Cloud Infrastructure, Backend Engineering",
+      courses: "EE 360C, EE 312, EE 313, EE 302",
+      launchpad: "Direct Launchpad for EE 422C/M",
+      overview: "Modern internet backbone networks, content delivery networks (CDNs like Cloudflare), and cloud hyperscalers route terabytes of data packets across the globe every second. Senior systems engineers design routing engines that find optimal mathematical paths across massive network topologies while dynamically managing congestion, hardware link failures, and memory allocation efficiency.",
+      concepts: [
+        { title: "Graph Representations & Algorithmic Complexities (EE 360C)", body: "Represent a complex, interconnected network topology as a mathematical Graph structure. Implement and contrast both Adjacency Lists and Adjacency Matrices, analyzing the exact space-time trade-offs (O(V²) vs. O(V + E)) for dense versus sparse networks." },
+        { title: "Pathfinding Optimization & Logic (EE 360C / EE 302)", body: "Implement Dijkstra’s Algorithm using an explicit Min-Heap (Priority Queue) to discover the lowest-latency path between network nodes. Use discrete relations and set theory functions to track active routing paths and guarantee the network remains an acyclic directed graph (no packet loops)." },
+        { title: "Dynamic Resource Allocation & Pointer Management (EE 312)", body: "When a network data packet is generated, dynamically allocate memory for it. Track its lifecycle across network nodes using pointers, ensuring that when a packet reaches its destination node, its memory footprint is completely deallocated." },
+        { title: "Dynamic Programming & Space-Time Optimization (EE 360C Add-on)", body: "Implement an advanced metrics module that calculates the total number of unique valid paths between two major backbone routers. Move from a brute-force recursive tree search to a Memoization Table strategy." }
+      ],
+      phases: [
+        { title: "Phase 1 (The Network Graph)", body: "Build a Graph class in C++ or Java where nodes represent network routers (with properties like capacity and processing delay) and edges represent physical fiber links (with latencies as weights)." },
+        { title: "Phase 2 (The Priority Queue Routing)", body: "Implement Dijkstra's pathfinding algorithm. Build your own basic binary min-heap structure to handle node extraction rather than using a standard library abstraction." },
+        { title: "Phase 3 (The Traffic Manager)", body: "Write a continuous loop that injects data packet objects into random nodes, requiring the graph to route them sequentially to their target destinations." }
+      ],
+      breakage: {
+        stressTest: "Simulate a network failure event. Write a script that instantly drops a high-traffic central node out of the graph while hundreds of packet pointers are currently traversing paths that rely on that node.",
+        diagnostics: "Observe how your routing loops react. Watch for program segmentation faults, null pointer exceptions, or infinite routing loops where packets circle endlessly. Run the program through a memory leaks tool (like Valgrind) to catch \"orphaned\" packet memory blocks that were never freed during the crash.",
+        patch: "Implement an active Time-to-Live (TTL) counter integer inside your packet object structure. On every hop through a node, decrement the TTL. If TTL hits zero, destroy the object and free the memory cleanly. Write a dynamic re-routing routine that re-runs pathfinding from the point of failure."
+      },
+      explainOutLoud: "Why does a Min-Heap optimize Dijkstra’s algorithm complexity down from O(V²) to O(E log V), and how do you mitigate memory fragmentation when dynamically creating high volumes of short-lived network objects?",
+      keywords: ["Adjacency List", "Min-Heap", "Big-O Complexity", "Memoization", "Spatial Overhead", "Valgrind", "Memory Leak", "TTL"]
+    },
+    {
+      key: "3",
+      icon: "\u{1F4CA}",
+      name: "Real-Time Telemetry Analytics & Signal Pipeline",
+      tracks: "Data Engineering, Machine Learning Operations, Hardware Telemetry",
+      courses: "EE 351K, EE 313, EE 316, EE 302, EE 312",
+      launchpad: "Direct Launchpad for EE 460J",
+      overview: "In cloud datacenters and automated factories, thousands of physical hardware components stream volatile analog and digital telemetry data continuously. Data and infrastructure engineers build automated software pipelines to capture these messy, noisy signals, transform them into mathematical vectors, remove interference, and apply probability models to spot system degradation before a catastrophic shutdown occurs.",
+      concepts: [
+        { title: "Continuous-to-Discrete Sampling & Nyquist Theory (EE 316 / EE 351K Add-on)", body: "Generate an analog signal baseline mathematically using a mixture of sin/cos waves representing high-frequency machine noise and true systemic operations. Write code to sample this signal at varying time intervals (Δt), systematically verifying how sampling below the Nyquist Frequency introduces aliasing distortion." },
+        { title: "Frequency-Domain Analysis (EE 351K / EE 316 Add-on)", body: "Implement a Fast Fourier Transform (FFT) pass over blocks of streaming data. Translate raw, chaotic time-domain sensor telemetry into a clean frequency spectrum plot to isolate the signature frequencies of background interference." },
+        { title: "Stochastic Filtering & Signal Processing (EE 351K)", body: "Apply discrete-time signal processing equations (like an Infinite Impulse Response (IIR) or Moving Average filter) to smooth out high-frequency transients and expose the accurate, underlying physical telemetry trend." },
+        { title: "Probability Distributions & Statistical Anomalies (EE 313)", body: "Model the processed sensor readings against a Gaussian (Normal) Distribution. Write logic to continuously track the running mean (μ) and standard deviation (σ). Apply statistical hypothesis testing or calculate rolling Z-scores (Z = (X-μ)/σ) to mathematically isolate true system alerts (values outside 3σ) from normal statistical variance." },
+        { title: "Matrix Algebra Operations (EE 302 / EE 312)", body: "Structure multi-channel sensor arrays into highly efficient multi-dimensional arrays using Python numerical libraries (NumPy and Pandas). Avoid slow, nested programming loops by executing math via vectorized matrix transformations." }
+      ],
+      phases: [
+        { title: "Phase 1 (The Telemetry Generator)", body: "Write a Python script that outputs a streaming continuous data feed combining standard mathematical functions, white noise, and periodic spikes." },
+        { title: "Phase 2 (The Signal Processing Engine)", body: "Build the sampling and FFT filtering blocks. Plot the output using matplotlib to visually track the conversion from time-domain to frequency-domain graphs." },
+        { title: "Phase 3 (The Statistical Monitor)", body: "Write a rolling window manager that recalculates μ and σ for every 100 arriving data points, appending an anomaly flag boolean (0 or 1) to the data frame." }
+      ],
+      breakage: {
+        stressTest: "Simulate a sudden mechanical or sensor failure by introducing a sustained \"Data Drift\" (where the mean signal value shifts upward by 15% over a short period) coupled with a sudden burst of extreme random variance.",
+        diagnostics: "Monitor your pipeline's alert flags. Does your statistical calculation throw false positives during minor noise spikes? Does it completely miss the data drift because your rolling window recalculates the mean too quickly, normalizing the error?",
+        patch: "Implement a dual-window testing architecture. Compare a short-term rolling average against a long-term historic baseline. If the divergence between the two averages crosses a calculated statistical threshold, lock the baseline and trigger a predictive maintenance alert."
+      },
+      explainOutLoud: "What is signal aliasing, how does it occur when your sampling rate falls below the Nyquist threshold, and how do you use standard deviations to classify a data anomaly in real-time streaming telemetry?",
+      keywords: ["Nyquist Criterion", "Aliasing", "Fast Fourier Transform (FFT)", "Time Domain vs. Frequency Domain", "Gaussian Distribution", "Z-score", "Data Drift", "Vectorized Execution"]
+    },
+    {
+      key: "4",
+      icon: "⚡",
+      name: "Pure Gate-Level Circuit & Timing Validation Lab",
+      tracks: "Digital Design, ASIC/FPGA Verification, Silicon Architecture",
+      courses: "EE 302, EE 316",
+      launchpad: "The Ultimate Foundation for EE 460N",
+      overview: "Before an integrated circuit or hardware chip is manufactured at a silicon foundry, digital design engineers must prove that the underlying logic gates are free of race hazards and can resolve state transitions within absolute physics-based timing boundaries. This lab shifts completely into pure hardware configurations, building finite state machines and checking the timing margins that dictate chip clock speeds.",
+      concepts: [
+        { title: "Sequential Logic & Finite State Machines (EE 316)", body: "Design a synchronous Finite State Machine (FSM) sequence detector (e.g., detecting a serial binary stream pattern like 1011) entirely out of fundamental hardware abstractions: Flip-Flops, logic gates (AND, OR, XOR, NOT), and multiplexers. Map the design out using a formal State Transition Diagram, deriving the Boolean excitation equations via Karnaugh Maps (K-Maps)." },
+        { title: "Gate Propagation Delays & Setup/Hold Times (EE 316)", body: "Analyze the critical path delay of your FSM circuit. Calculate the sum of the gate propagation delays (t_pd), wire delays, and the flip-flop setup time (t_su) and hold time (t_h) parameters to mathematically calculate the absolute maximum safe operating frequency (f_max) of the system clock." },
+        { title: "Circuit Nodal Analysis & KVL/KCL (EE 302)", body: "Map the electrical foundation of the digital gate transitions by building a simulated RC (Resistor-Capacitor) Network in an open-source circuit simulator like LTspice. Apply Kirchhoff’s Voltage Law (KVL) and Kirchhoff’s Current Law (KCL) to derive the differential equations governing the nodal voltage charging curves." },
+        { title: "Transient Behavior & RC Time Constants (EE 302)", body: "Calculate the circuit time constant (τ = RC). Visually plot the transient response wave curves to observe exactly how long it takes a node to transition from a logic low (0V) to a valid logic high (5V or 1.2V) across specific resistance loads." }
+      ],
+      phases: [
+        { title: "Phase 1 (The Digital State Machine)", body: "Open an interactive digital logic simulator (such as Logisim-Evolution or Digital). Draw the schematic for your FSM sequence detector using discrete D Flip-Flops and individual logic gates." },
+        { title: "Phase 2 (The Circuit Simulation)", body: "Open LTspice. Construct a fundamental RC circuit matching the equivalent circuit output path of a typical logic gate driving a capacitive load (representing a wire trace leading to another gate input)." },
+        { title: "Phase 3 (The Transient Run)", body: "Run a transient analysis (.trans) in LTspice, pulsing the input voltage and plotting the output curve to visually map the rise time (t_rise) and fall time (t_fall) properties." }
+      ],
+      breakage: {
+        stressTest: "In your digital logic simulator, introduce a deliberate timing violation. Intentionally increase the input clock frequency significantly past your calculated f_max limit, or artificially inject a massive delay element into the feedback loop path before it reaches the flip-flop data input.",
+        diagnostics: "Observe the behavior of the circuit outputs during transitions. Watch how the flip-flop captures data while the input voltage is mid-transition, forcing the digital simulator to output error flags or throw the logic circuit into an unpredictable, fluctuating Metastable State.",
+        patch: "Re-evaluate your critical path timing equations. Introduce synchronization registers (two-staged flip-flop pipelines) or adjust the logic gate arrangement to decrease propagation delay, bringing the setup and hold windows back into compliance with the system clock."
+      },
+      explainOutLoud: "What is metastability in digital systems, how do setup and hold time violations cause it, and how do you calculate the time constant τ of an RC circuit to predict digital signal transition delays?",
+      keywords: ["Finite State Machine", "Propagation Delay", "Setup/Hold Time", "Critical Path", "Metastability", "KVL/KCL", "Transient Response", "Time Constant (τ)"]
+    }
+  ],
+
+  executionRules: [
+    { title: "Rule of Isolation", body: "Execute exactly one project at a time. Do not jump between code bases. Dedicate 1 solid week to a single build before moving to the next." },
+    { title: "The Whiteboard Rule", body: "Before typing a single line of code or drawing a single schematic component in the EER, she must draw the complete architectural block diagram or data-flow map on a physical whiteboard." },
+    { title: "The Explanatory Pass", body: "When a project module is completed and verified, she should spend the last 30 minutes of her EER session explaining the code structures, edge cases, and design trade-offs out loud to you or an empty room." }
+  ],
+
+  closing: "You have the strategy and the tools—Go Execute!"
+};
+
 </script>
 
     <!-- COMPONENT LAYER (JSX pre-compiled to plain JS via classic React.createElement runtime — no Babel/module runtime dependency) -->
@@ -3600,6 +3852,257 @@ function TracksPortfolio() {
     title: activeProject ? activeProject.name : "",
     subtitle: activeProject ? activeProject.relevance : ""
   }, activeProject && /*#__PURE__*/React.createElement(ProjectDeepDive, {
+    project: activeProject
+  })));
+}
+
+// ============================================================================
+// TAB 1B — CORE KNOWLEDGE CENTER
+// ============================================================================
+
+const CORE_KNOWLEDGE_CHECKS_KEY = "careerCockpit.coreKnowledgeChecks.v1";
+function loadCoreKnowledgeChecks() {
+  try {
+    const raw = window.localStorage.getItem(CORE_KNOWLEDGE_CHECKS_KEY);
+    if (!raw) return {};
+    const parsed = JSON.parse(raw);
+    return parsed && typeof parsed === "object" && !Array.isArray(parsed) ? parsed : {};
+  } catch (e) {
+    return {};
+  }
+}
+function ConceptMatrixTable() {
+  return /*#__PURE__*/React.createElement(Card, {
+    className: "overflow-x-auto"
+  }, /*#__PURE__*/React.createElement("table", {
+    className: "w-full text-sm min-w-[760px]"
+  }, /*#__PURE__*/React.createElement("thead", null, /*#__PURE__*/React.createElement("tr", {
+    className: "border-b border-slate-200"
+  }, /*#__PURE__*/React.createElement("th", {
+    className: "text-left p-4 text-slate-500 text-xs font-semibold uppercase tracking-wide w-[14%]"
+  }, "Course"), /*#__PURE__*/React.createElement("th", {
+    className: "text-left p-4 text-slate-500 text-xs font-semibold uppercase tracking-wide w-[58%]"
+  }, "Core Academic Concepts Mastered"), /*#__PURE__*/React.createElement("th", {
+    className: "text-left p-4 text-slate-500 text-xs font-semibold uppercase tracking-wide w-[28%]"
+  }, "Covered Experientially By"))), /*#__PURE__*/React.createElement("tbody", null, D.coreKnowledge.courseMatrix.map((row, i) => /*#__PURE__*/React.createElement("tr", {
+    key: row.course,
+    className: i % 2 === 0 ? "bg-slate-50/70" : ""
+  }, /*#__PURE__*/React.createElement("td", {
+    className: "p-4 align-top w-[14%]"
+  }, /*#__PURE__*/React.createElement("div", {
+    className: "text-slate-900 font-semibold text-[13px]"
+  }, row.course), /*#__PURE__*/React.createElement("div", {
+    className: "text-slate-500 text-[11px] mt-0.5"
+  }, row.name)), /*#__PURE__*/React.createElement("td", {
+    className: "p-4 text-[12.5px] text-slate-600 leading-relaxed align-top w-[58%]"
+  }, row.concepts), /*#__PURE__*/React.createElement("td", {
+    className: "p-4 align-top w-[28%]"
+  }, /*#__PURE__*/React.createElement("div", {
+    className: "flex flex-wrap gap-1.5"
+  }, row.builds.map(bKey => {
+    const b = D.coreKnowledge.builds.find(x => x.key === bKey);
+    return /*#__PURE__*/React.createElement("span", {
+      key: bKey,
+      className: "inline-flex items-center gap-1 px-2 py-1 rounded-full border border-burnt-200 bg-burnt-50 text-burnt-700 text-[11px] font-medium whitespace-nowrap"
+    }, b ? b.icon : "", " Build ", bKey);
+  }))))))));
+}
+function BuildCard({
+  build,
+  checks,
+  toggleCheck,
+  onOpenProject
+}) {
+  const total = build.concepts.length;
+  const done = build.concepts.filter((c, i) => checks[`${build.key}-${i}`]).length;
+  const pct = total ? Math.round(done / total * 100) : 0;
+  return /*#__PURE__*/React.createElement(Card, {
+    className: "p-5 flex flex-col"
+  }, /*#__PURE__*/React.createElement("div", {
+    className: "flex items-center justify-between gap-3 mb-1"
+  }, /*#__PURE__*/React.createElement("div", {
+    className: "flex items-center gap-2.5 min-w-0"
+  }, /*#__PURE__*/React.createElement("span", {
+    className: "w-9 h-9 flex items-center justify-center rounded-lg bg-burnt-50 text-burnt-600 text-lg shrink-0"
+  }, build.icon), /*#__PURE__*/React.createElement("h3", {
+    className: "text-base font-bold text-slate-900 leading-snug"
+  }, "Build ", build.key, ": ", build.name))), /*#__PURE__*/React.createElement("p", {
+    className: "text-[12.5px] text-slate-600 mt-2 leading-relaxed"
+  }, build.focus), /*#__PURE__*/React.createElement("div", {
+    className: "flex items-center gap-2 mt-3"
+  }, /*#__PURE__*/React.createElement("div", {
+    className: "flex-1 h-1.5 bg-slate-200 rounded-full overflow-hidden"
+  }, /*#__PURE__*/React.createElement("div", {
+    className: "h-full bg-burnt-500 transition-all",
+    style: {
+      width: `${pct}%`
+    }
+  })), /*#__PURE__*/React.createElement("span", {
+    className: "text-[11px] text-slate-500 mono w-9 text-right"
+  }, pct, "%")), /*#__PURE__*/React.createElement("div", {
+    className: "mt-4 space-y-2 flex-1"
+  }, build.concepts.map((c, i) => {
+    const id = `${build.key}-${i}`;
+    return /*#__PURE__*/React.createElement("label", {
+      key: id,
+      className: "flex items-start gap-2.5 cursor-pointer"
+    }, /*#__PURE__*/React.createElement("input", {
+      type: "checkbox",
+      className: "burnt-check mt-0.5",
+      checked: !!checks[id],
+      onChange: () => toggleCheck(id)
+    }), /*#__PURE__*/React.createElement("span", null, /*#__PURE__*/React.createElement("span", {
+      className: `text-[12.5px] font-semibold text-slate-900 ${checks[id] ? "line-through text-slate-400" : ""}`
+    }, c.title), /*#__PURE__*/React.createElement("span", {
+      className: `block text-[12px] text-slate-600 leading-relaxed mt-0.5 ${checks[id] ? "line-through text-slate-400" : ""}`
+    }, c.body)));
+  })), /*#__PURE__*/React.createElement("div", {
+    className: "mt-4 text-[12px] text-rose-700 bg-rose-50 border border-rose-200 rounded-lg p-3 leading-relaxed"
+  }, /*#__PURE__*/React.createElement("span", {
+    className: "font-semibold uppercase tracking-wide text-[10.5px] block mb-1"
+  }, "The Engineering Breakage Test"), build.breakageTest), /*#__PURE__*/React.createElement("button", {
+    onClick: () => onOpenProject(build.key),
+    className: "mt-4 w-full text-[12px] font-semibold text-burnt-600 border border-burnt-200 bg-burnt-50 rounded-lg px-3 py-2.5 hover:bg-burnt-100 transition-colors"
+  }, "View Full Project Breakdown →"));
+}
+function ProjectDetail({
+  project
+}) {
+  return /*#__PURE__*/React.createElement("div", {
+    className: "space-y-6"
+  }, /*#__PURE__*/React.createElement("div", {
+    className: "grid grid-cols-2 gap-2 text-[12px]"
+  }, /*#__PURE__*/React.createElement("div", {
+    className: "bg-slate-50 rounded-lg p-2.5"
+  }, /*#__PURE__*/React.createElement("div", {
+    className: "text-slate-500 text-[10px] uppercase tracking-wide"
+  }, "Primary Target Tracks"), /*#__PURE__*/React.createElement("div", {
+    className: "text-slate-700 mt-0.5 leading-relaxed"
+  }, project.tracks)), /*#__PURE__*/React.createElement("div", {
+    className: "bg-slate-50 rounded-lg p-2.5"
+  }, /*#__PURE__*/React.createElement("div", {
+    className: "text-slate-500 text-[10px] uppercase tracking-wide"
+  }, "UT Austin Course Coverage"), /*#__PURE__*/React.createElement("div", {
+    className: "text-slate-700 mono mt-0.5"
+  }, project.courses))), /*#__PURE__*/React.createElement("div", {
+    className: "text-[12px] text-burnt-700 bg-burnt-50 border border-burnt-200 rounded-lg px-3 py-2 font-medium"
+  }, project.launchpad), /*#__PURE__*/React.createElement("div", null, /*#__PURE__*/React.createElement("div", {
+    className: "text-[11px] font-semibold uppercase tracking-wide text-burnt-600 mb-2"
+  }, "1. Project Overview & Industrial Context"), /*#__PURE__*/React.createElement("p", {
+    className: "text-[13px] text-slate-600 leading-relaxed"
+  }, project.overview)), /*#__PURE__*/React.createElement("div", null, /*#__PURE__*/React.createElement("div", {
+    className: "text-[11px] font-semibold uppercase tracking-wide text-burnt-600 mb-2"
+  }, "2. Comprehensive Core Concepts to Integrate"), /*#__PURE__*/React.createElement(BulletGroup, {
+    items: project.concepts
+  })), /*#__PURE__*/React.createElement("div", null, /*#__PURE__*/React.createElement("div", {
+    className: "text-[11px] font-semibold uppercase tracking-wide text-burnt-600 mb-2"
+  }, "3. Step-by-Step Implementation Blueprint"), /*#__PURE__*/React.createElement("div", {
+    className: "space-y-3"
+  }, project.phases.map((p, i) => /*#__PURE__*/React.createElement("div", {
+    key: p.title,
+    className: "border-l-2 border-slate-200 pl-3"
+  }, /*#__PURE__*/React.createElement("div", {
+    className: "text-[12.5px] font-semibold text-slate-900"
+  }, i + 1, ". ", p.title), /*#__PURE__*/React.createElement("p", {
+    className: "text-[12.5px] text-slate-600 mt-0.5 leading-relaxed"
+  }, p.body))))), /*#__PURE__*/React.createElement("div", null, /*#__PURE__*/React.createElement("div", {
+    className: "text-[11px] font-semibold uppercase tracking-wide text-burnt-600 mb-2"
+  }, "4. The \"True Engineer\" Break-and-Fix Laboratory"), /*#__PURE__*/React.createElement("div", {
+    className: "space-y-2.5"
+  }, /*#__PURE__*/React.createElement("div", {
+    className: "bg-rose-50 border border-rose-200 rounded-lg p-3"
+  }, /*#__PURE__*/React.createElement("div", {
+    className: "text-[10.5px] font-semibold uppercase tracking-wide text-rose-700 mb-1"
+  }, "Stress Test"), /*#__PURE__*/React.createElement("p", {
+    className: "text-[12.5px] text-slate-700 leading-relaxed"
+  }, project.breakage.stressTest)), /*#__PURE__*/React.createElement("div", {
+    className: "bg-amber-50 border border-amber-200 rounded-lg p-3"
+  }, /*#__PURE__*/React.createElement("div", {
+    className: "text-[10.5px] font-semibold uppercase tracking-wide text-amber-700 mb-1"
+  }, "Diagnostics"), /*#__PURE__*/React.createElement("p", {
+    className: "text-[12.5px] text-slate-700 leading-relaxed"
+  }, project.breakage.diagnostics)), /*#__PURE__*/React.createElement("div", {
+    className: "bg-emerald-50 border border-emerald-200 rounded-lg p-3"
+  }, /*#__PURE__*/React.createElement("div", {
+    className: "text-[10.5px] font-semibold uppercase tracking-wide text-emerald-700 mb-1"
+  }, "Architectural Patch"), /*#__PURE__*/React.createElement("p", {
+    className: "text-[12.5px] text-slate-700 leading-relaxed"
+  }, project.breakage.patch)))), /*#__PURE__*/React.createElement("div", null, /*#__PURE__*/React.createElement("div", {
+    className: "text-[11px] font-semibold uppercase tracking-wide text-burnt-600 mb-2"
+  }, "5. Architectural Log & Interview Framework"), /*#__PURE__*/React.createElement("div", {
+    className: "text-[12px] font-semibold text-sky-600 mb-1"
+  }, "Explain Out Loud"), /*#__PURE__*/React.createElement(ScriptBlock, null, project.explainOutLoud), /*#__PURE__*/React.createElement("div", {
+    className: "text-[11px] font-semibold uppercase tracking-wide text-slate-500 mt-3 mb-2"
+  }, "Keywords to Use"), /*#__PURE__*/React.createElement("div", {
+    className: "flex flex-wrap gap-1.5"
+  }, project.keywords.map(k => /*#__PURE__*/React.createElement("span", {
+    key: k,
+    className: "inline-flex items-center px-2 py-1 rounded-full border border-slate-300 bg-slate-50 text-slate-700 text-[11px] font-medium whitespace-nowrap"
+  }, k)))));
+}
+function CoreKnowledgeCenter() {
+  const [checks, setChecks] = useState(loadCoreKnowledgeChecks);
+  const [activeKey, setActiveKey] = useState(null);
+  useEffect(() => {
+    try {
+      window.localStorage.setItem(CORE_KNOWLEDGE_CHECKS_KEY, JSON.stringify(checks));
+    } catch (e) {}
+  }, [checks]);
+  const toggleCheck = id => setChecks(c => ({
+    ...c,
+    [id]: !c[id]
+  }));
+  const activeProject = activeKey ? D.coreKnowledge.projects.find(p => p.key === activeKey) : null;
+  const activeBuild = activeKey ? D.coreKnowledge.builds.find(b => b.key === activeKey) : null;
+  return /*#__PURE__*/React.createElement("div", {
+    className: "space-y-12"
+  }, /*#__PURE__*/React.createElement("div", null, /*#__PURE__*/React.createElement(SectionHeading, {
+    kicker: "Section 2",
+    title: "Core Knowledge Center",
+    sub: D.coreKnowledge.intro
+  })), /*#__PURE__*/React.createElement("div", null, /*#__PURE__*/React.createElement(SectionHeading, {
+    kicker: "2.1",
+    title: "Master Concept Audit & Traceability Matrix",
+    sub: "Every UT Austin ECE course you've completed, mapped to the build that turns its theory into hands-on engineering muscle memory."
+  }), /*#__PURE__*/React.createElement(ConceptMatrixTable, null)), /*#__PURE__*/React.createElement("div", null, /*#__PURE__*/React.createElement(SectionHeading, {
+    kicker: "2.2",
+    title: "The Four Builds",
+    sub: "Check off each concept as you implement it. Click into any build to open its full project breakdown — blueprint, break-and-fix lab, and interview framework."
+  }), /*#__PURE__*/React.createElement("div", {
+    className: "grid md:grid-cols-2 gap-5"
+  }, D.coreKnowledge.builds.map(b => /*#__PURE__*/React.createElement(BuildCard, {
+    key: b.key,
+    build: b,
+    checks: checks,
+    toggleCheck: toggleCheck,
+    onOpenProject: setActiveKey
+  })))), /*#__PURE__*/React.createElement("div", null, /*#__PURE__*/React.createElement(SectionHeading, {
+    kicker: "2.3",
+    title: "The Execution Framework Routine",
+    sub: "Three non-negotiable rules to keep every build disciplined and interview-ready."
+  }), /*#__PURE__*/React.createElement("div", {
+    className: "grid md:grid-cols-3 gap-4"
+  }, D.coreKnowledge.executionRules.map((r, i) => /*#__PURE__*/React.createElement(Card, {
+    key: r.title,
+    className: "p-5"
+  }, /*#__PURE__*/React.createElement("div", {
+    className: "flex items-center gap-2 mb-3"
+  }, /*#__PURE__*/React.createElement("span", {
+    className: "w-7 h-7 flex items-center justify-center rounded-lg bg-burnt-50 text-burnt-600 font-bold text-sm mono"
+  }, i + 1), /*#__PURE__*/React.createElement("div", {
+    className: "text-sm font-semibold text-slate-900"
+  }, r.title)), /*#__PURE__*/React.createElement("p", {
+    className: "text-[13px] text-slate-600 leading-relaxed"
+  }, r.body))))), /*#__PURE__*/React.createElement(Card, {
+    className: "p-6 text-center bg-gradient-to-br from-white via-burnt-50/60 to-burnt-100/50"
+  }, /*#__PURE__*/React.createElement("p", {
+    className: "text-base md:text-lg font-bold text-slate-900"
+  }, D.coreKnowledge.closing)), /*#__PURE__*/React.createElement(Modal, {
+    open: !!activeProject,
+    onClose: () => setActiveKey(null),
+    title: activeProject ? `Build ${activeBuild.key}: ${activeBuild.name}` : "",
+    subtitle: activeProject ? activeProject.name : ""
+  }, activeProject && /*#__PURE__*/React.createElement(ProjectDetail, {
     project: activeProject
   })));
 }
@@ -4830,6 +5333,10 @@ const NAV = [{
   label: "Tracks & Portfolio",
   icon: "◆"
 }, {
+  key: "knowledge",
+  label: "Core Knowledge Center",
+  icon: "⬡"
+}, {
   key: "roadmap",
   label: "8-Week Roadmap",
   icon: "▤"
@@ -4888,7 +5395,7 @@ function App() {
     className: "text-base"
   }, n.icon), n.label))), /*#__PURE__*/React.createElement("main", {
     className: "flex-1 p-5 md:p-10 pb-24 md:pb-10 max-w-6xl mx-auto w-full"
-  }, tab === "mission" && /*#__PURE__*/React.createElement(MissionControl, null), tab === "tracks" && /*#__PURE__*/React.createElement(TracksPortfolio, null), tab === "roadmap" && /*#__PURE__*/React.createElement(Roadmap, null), tab === "pipeline" && /*#__PURE__*/React.createElement(PipelineScanner, null), tab === "playbook" && /*#__PURE__*/React.createElement(TacticalPlaybook, null), tab === "interview" && /*#__PURE__*/React.createElement(InterviewDeck, null), tab === "sandbox" && /*#__PURE__*/React.createElement(AgentSandbox, null), tab === "opportunities" && /*#__PURE__*/React.createElement(OpportunitiesTracker, null))));
+  }, tab === "mission" && /*#__PURE__*/React.createElement(MissionControl, null), tab === "tracks" && /*#__PURE__*/React.createElement(TracksPortfolio, null), tab === "knowledge" && /*#__PURE__*/React.createElement(CoreKnowledgeCenter, null), tab === "roadmap" && /*#__PURE__*/React.createElement(Roadmap, null), tab === "pipeline" && /*#__PURE__*/React.createElement(PipelineScanner, null), tab === "playbook" && /*#__PURE__*/React.createElement(TacticalPlaybook, null), tab === "interview" && /*#__PURE__*/React.createElement(InterviewDeck, null), tab === "sandbox" && /*#__PURE__*/React.createElement(AgentSandbox, null), tab === "opportunities" && /*#__PURE__*/React.createElement(OpportunitiesTracker, null))));
 }
 ReactDOM.createRoot(document.getElementById("root")).render(/*#__PURE__*/React.createElement(App, null));</script>
 </body>
