@@ -1,15 +1,335 @@
 {
-  "last_updated": "2026-07-13 23:52",
+  "last_updated": "2026-07-14 23:52",
   "leads": [
+    {
+      "id": "b5e539894832",
+      "company": "TMX Group",
+      "title": "Software Engineer Intern - Java",
+      "location": "Toronto, ON, Canada",
+      "country": "Canada",
+      "date_found": "2026-07-14",
+      "source": "Simplify",
+      "url": "https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Toronto---100-Adelaide-St-W/Software-Engineer-Intern--Java-_R-6219"
+    },
     {
       "id": "5aa4bf3b242d",
       "company": "Stripe",
       "title": "Software Engineer, Intern",
       "location": "Bengaluru",
       "country": "United States",
-      "date_found": "2026-07-13",
+      "date_found": "2026-07-14",
       "source": "Greenhouse",
       "url": "https://stripe.com/jobs/search?gh_jid=8031833"
+    },
+    {
+      "id": "93375d0fbce3",
+      "company": "Rivian",
+      "title": "Machine Learning Compiler Intern - Machine Learning Compiler",
+      "location": "Urbana, IL",
+      "country": "United States",
+      "date_found": "2026-07-14",
+      "source": "Simplify",
+      "url": "https://careers.rivian.com/jobs/29851?icims=1"
+    },
+    {
+      "id": "d19b7516967c",
+      "company": "Palantir",
+      "title": "Deployment Strategist, Internship",
+      "location": "Paris, France",
+      "country": "France",
+      "date_found": "2026-07-14",
+      "source": "Lever",
+      "url": "https://jobs.lever.co/palantir/774cf5c9-bf6a-4d77-bf60-d50ef1beb1a0"
+    },
+    {
+      "id": "6a9811d9829c",
+      "company": "Palantir",
+      "title": "Deployment Strategist, Internship - US Government",
+      "location": "Honolulu, HI",
+      "country": "United States",
+      "date_found": "2026-07-14",
+      "source": "Lever",
+      "url": "https://jobs.lever.co/palantir/a49d4181-a289-435a-b581-7f5af0497c8e"
+    },
+    {
+      "id": "d90bd2e2439d",
+      "company": "Palantir",
+      "title": "Forward Deployed Infrastructure Engineer, Internship - US Government",
+      "location": "Washington, D.C.",
+      "country": "United States",
+      "date_found": "2026-07-14",
+      "source": "Lever",
+      "url": "https://jobs.lever.co/palantir/3db7e40a-28e0-4ad1-96c5-93de5bc96aa9"
+    },
+    {
+      "id": "73e7b8a0aa94",
+      "company": "Palantir",
+      "title": "Forward Deployed Software Engineer, Internship",
+      "location": "Paris, France",
+      "country": "France",
+      "date_found": "2026-07-14",
+      "source": "Lever",
+      "url": "https://jobs.lever.co/palantir/1b6f1d82-d459-4dea-8bc2-8d2ffe6f881a"
+    },
+    {
+      "id": "08892fc127e2",
+      "company": "Palantir",
+      "title": "Forward Deployed Software Engineer, Internship - AUS Government",
+      "location": "Sydney, Australia",
+      "country": "Australia",
+      "date_found": "2026-07-14",
+      "source": "Lever",
+      "url": "https://jobs.lever.co/palantir/395a4483-fc3d-4b77-a500-501923fd0976"
+    },
+    {
+      "id": "78dbee8a21e8",
+      "company": "Palantir",
+      "title": "Forward Deployed Software Engineer, Internship - Commercial",
+      "location": "New York, NY",
+      "country": "United States",
+      "date_found": "2026-07-14",
+      "source": "Lever",
+      "url": "https://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6"
+    },
+    {
+      "id": "d542fdbcd625",
+      "company": "Palantir",
+      "title": "Forward Deployed Software Engineer, Internship - Defense Tech",
+      "location": "Washington, D.C.",
+      "country": "United States",
+      "date_found": "2026-07-14",
+      "source": "Lever",
+      "url": "https://jobs.lever.co/palantir/cccfe1bd-f15b-4fe5-b044-c793e7961c1b"
+    },
+    {
+      "id": "b8c01d6c8209",
+      "company": "Palantir",
+      "title": "Forward Deployed Software Engineer, Internship - France",
+      "location": "New York, NY",
+      "country": "United States",
+      "date_found": "2026-07-14",
+      "source": "Lever",
+      "url": "https://jobs.lever.co/palantir/ac0dc094-2480-43c2-8495-26ade227ff4f"
+    },
+    {
+      "id": "00ecbbfa27c5",
+      "company": "Palantir",
+      "title": "Forward Deployed Software Engineer, Internship - Intel",
+      "location": "Washington, D.C.",
+      "country": "United States",
+      "date_found": "2026-07-14",
+      "source": "Lever",
+      "url": "https://jobs.lever.co/palantir/9e40d77f-b07c-437b-98e7-def9b0184d89"
+    },
+    {
+      "id": "40b8323e3b01",
+      "company": "Palantir",
+      "title": "Forward Deployed Software Engineer, Internship - Poland",
+      "location": "New York, NY",
+      "country": "United States",
+      "date_found": "2026-07-14",
+      "source": "Lever",
+      "url": "https://jobs.lever.co/palantir/d582cd84-14fd-4aa3-b413-15982d286bd9"
+    },
+    {
+      "id": "0a59dfdc5319",
+      "company": "Palantir",
+      "title": "Forward Deployed Software Engineer, Internship - US Government",
+      "location": "Honolulu, HI",
+      "country": "United States",
+      "date_found": "2026-07-14",
+      "source": "Lever",
+      "url": "https://jobs.lever.co/palantir/315f695d-04d1-4a9a-848e-cb2bec7a997e"
+    },
+    {
+      "id": "c53df4f14d5b",
+      "company": "Palantir",
+      "title": "Privacy and Civil Liberties Software Engineer, Internship",
+      "location": "New York, NY",
+      "country": "United States",
+      "date_found": "2026-07-14",
+      "source": "Lever",
+      "url": "https://jobs.lever.co/palantir/09846827-b931-4a9f-bd64-c3bb8860187b"
+    },
+    {
+      "id": "068d32a0aca8",
+      "company": "Palantir",
+      "title": "Software Engineer, Internship",
+      "location": "Denver, CO",
+      "country": "United States",
+      "date_found": "2026-07-14",
+      "source": "Lever",
+      "url": "https://jobs.lever.co/palantir/373eb939-6f57-4836-8479-be79a5e07249"
+    },
+    {
+      "id": "57778fb9f10a",
+      "company": "Palantir",
+      "title": "Software Engineer, Internship - Defense Tech",
+      "location": "New York, NY",
+      "country": "United States",
+      "date_found": "2026-07-14",
+      "source": "Lever",
+      "url": "https://jobs.lever.co/palantir/8bcf4f33-0a79-4248-bbfd-49ac4be9dd8e"
+    },
+    {
+      "id": "3613e12b9879",
+      "company": "Palantir",
+      "title": "Software Engineer, Internship - Infrastructure",
+      "location": "New York, NY",
+      "country": "United States",
+      "date_found": "2026-07-14",
+      "source": "Lever",
+      "url": "https://jobs.lever.co/palantir/b229baac-494b-4a0d-9a13-2e38806e06f3"
+    },
+    {
+      "id": "d91fd03dcbe3",
+      "company": "Palantir",
+      "title": "Software Engineer, Internship - Production Infrastructure",
+      "location": "Seattle, WA",
+      "country": "United States",
+      "date_found": "2026-07-14",
+      "source": "Lever",
+      "url": "https://jobs.lever.co/palantir/373367a9-3160-49d8-b7af-2efec062fad1"
+    },
+    {
+      "id": "c4c679c3556d",
+      "company": "Palantir",
+      "title": "Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial",
+      "location": "Chicago, IL",
+      "country": "United States",
+      "date_found": "2026-07-14",
+      "source": "Lever",
+      "url": "https://jobs.lever.co/palantir/75cc1c09-8ebd-44c8-b3bc-d122cd1fecb3"
+    },
+    {
+      "id": "5aa891a376ff",
+      "company": "Palantir",
+      "title": "Year at Palantir - Forward Deployed Software Engineer, Internship - USG",
+      "location": "Washington, D.C.",
+      "country": "United States",
+      "date_found": "2026-07-14",
+      "source": "Lever",
+      "url": "https://jobs.lever.co/palantir/5c4c65c5-77da-4d36-856c-4ade87631019"
+    },
+    {
+      "id": "04fd705ea83c",
+      "company": "Palantir",
+      "title": "Year at Palantir - Software Engineer, Internship",
+      "location": "New York, NY",
+      "country": "United States",
+      "date_found": "2026-07-14",
+      "source": "Lever",
+      "url": "https://jobs.lever.co/palantir/655f9937-a4ce-4e7d-80e2-a6659af07329"
+    },
+    {
+      "id": "370853e29f98",
+      "company": "NextGen Federal Systems",
+      "title": "Software Engineer Intern",
+      "location": "Remote in USA",
+      "country": "United States",
+      "date_found": "2026-07-14",
+      "source": "Simplify",
+      "url": "https://jobs.lever.co/nextgenfed/54d1576e-c3d9-454a-b1a2-dac0b2fe5920/apply"
+    },
+    {
+      "id": "3abdf3f21d3a",
+      "company": "NextGen Federal Systems",
+      "title": "Data Science & Machine Learning Intern",
+      "location": "Remote in USA",
+      "country": "United States",
+      "date_found": "2026-07-14",
+      "source": "Simplify",
+      "url": "https://jobs.lever.co/nextgenfed/35e13d92-343a-4c17-9789-1a6a9cff2bc6/apply"
+    },
+    {
+      "id": "a3582ffa3bb1",
+      "company": "Navy Federal",
+      "title": "Frontend Application Engineer Intern",
+      "location": "Pensacola, FL",
+      "country": "United States",
+      "date_found": "2026-07-14",
+      "source": "Simplify",
+      "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/29776"
+    },
+    {
+      "id": "115919ebed6f",
+      "company": "McKesson",
+      "title": "AI & Strategic Analytics Intern",
+      "location": "Mississauga, ON, Canada",
+      "country": "Canada",
+      "date_found": "2026-07-14",
+      "source": "Simplify",
+      "url": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-ON-Mississauga/AI---Strategic-Analytics-Intern---Fall-2026_JR0150114"
+    },
+    {
+      "id": "51cf6b228373",
+      "company": "Levi Strauss & Co.",
+      "title": "Global Retail Strategy and Analytics Intern",
+      "location": "London, UK",
+      "country": "United Kingdom",
+      "date_found": "2026-07-14",
+      "source": "Simplify",
+      "url": "https://levistraussandco.wd5.myworkdayjobs.com/external/job/Ixelles-Belgium/Global-Retail-Strategy-and-Analytics-Intern_R-0154103"
+    },
+    {
+      "id": "3372448caaba",
+      "company": "Kulicke & Soffa",
+      "title": "Software Intern",
+      "location": "Ambler, PA",
+      "country": "United States",
+      "date_found": "2026-07-14",
+      "source": "Simplify",
+      "url": "https://etyy.fa.ap2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11499"
+    },
+    {
+      "id": "1f2fe2284064",
+      "company": "Jane Street",
+      "title": "Data Engineering Intern",
+      "location": "NYC",
+      "country": "United States",
+      "date_found": "2026-07-14",
+      "source": "Simplify",
+      "url": "https://job-boards.greenhouse.io/janestreet/jobs/8631973002"
+    },
+    {
+      "id": "899162411f76",
+      "company": "Databricks",
+      "title": "PhD GenAI Research Scientist Intern",
+      "location": "San Francisco, California",
+      "country": "United States",
+      "date_found": "2026-07-14",
+      "source": "Greenhouse",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7011263002"
+    },
+    {
+      "id": "62fb98a28bb9",
+      "company": "Bank of Montreal",
+      "title": "AI Engineer Co-op/Intern - 4 months",
+      "location": "Toronto, ON, Canada",
+      "country": "Canada",
+      "date_found": "2026-07-14",
+      "source": "Simplify",
+      "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/AI-Engineer--Fall-2026-Co-op-Internship---4-months_R260015224"
+    },
+    {
+      "id": "cfb70085f1f7",
+      "company": "Argmax",
+      "title": "On-device AI Frameworks Engineer Intern",
+      "location": "Palo Alto, CA",
+      "country": "United States",
+      "date_found": "2026-07-14",
+      "source": "Simplify",
+      "url": "https://job-boards.greenhouse.io/argmax/jobs/4067268009"
+    },
+    {
+      "id": "755ee66f8575",
+      "company": "Airbnb",
+      "title": "Sales Operations Intern, Italy",
+      "location": "Milan, Italy",
+      "country": "Italy",
+      "date_found": "2026-07-14",
+      "source": "Greenhouse",
+      "url": "https://careers.airbnb.com/positions/7979270?gh_jid=7979270"
     },
     {
       "id": "c8ec522a221e",
@@ -30,206 +350,6 @@
       "date_found": "2026-07-13",
       "source": "Simplify",
       "url": "https://jobs.ashbyhq.com/persona.ai/6078fafd-ba34-4c89-b260-7eb15be3cb9c/application"
-    },
-    {
-      "id": "d19b7516967c",
-      "company": "Palantir",
-      "title": "Deployment Strategist, Internship",
-      "location": "Paris, France",
-      "country": "France",
-      "date_found": "2026-07-13",
-      "source": "Lever",
-      "url": "https://jobs.lever.co/palantir/774cf5c9-bf6a-4d77-bf60-d50ef1beb1a0"
-    },
-    {
-      "id": "6a9811d9829c",
-      "company": "Palantir",
-      "title": "Deployment Strategist, Internship - US Government",
-      "location": "Honolulu, HI",
-      "country": "United States",
-      "date_found": "2026-07-13",
-      "source": "Lever",
-      "url": "https://jobs.lever.co/palantir/a49d4181-a289-435a-b581-7f5af0497c8e"
-    },
-    {
-      "id": "d90bd2e2439d",
-      "company": "Palantir",
-      "title": "Forward Deployed Infrastructure Engineer, Internship - US Government",
-      "location": "Washington, D.C.",
-      "country": "United States",
-      "date_found": "2026-07-13",
-      "source": "Lever",
-      "url": "https://jobs.lever.co/palantir/3db7e40a-28e0-4ad1-96c5-93de5bc96aa9"
-    },
-    {
-      "id": "73e7b8a0aa94",
-      "company": "Palantir",
-      "title": "Forward Deployed Software Engineer, Internship",
-      "location": "Paris, France",
-      "country": "France",
-      "date_found": "2026-07-13",
-      "source": "Lever",
-      "url": "https://jobs.lever.co/palantir/1b6f1d82-d459-4dea-8bc2-8d2ffe6f881a"
-    },
-    {
-      "id": "08892fc127e2",
-      "company": "Palantir",
-      "title": "Forward Deployed Software Engineer, Internship - AUS Government",
-      "location": "Sydney, Australia",
-      "country": "Australia",
-      "date_found": "2026-07-13",
-      "source": "Lever",
-      "url": "https://jobs.lever.co/palantir/395a4483-fc3d-4b77-a500-501923fd0976"
-    },
-    {
-      "id": "78dbee8a21e8",
-      "company": "Palantir",
-      "title": "Forward Deployed Software Engineer, Internship - Commercial",
-      "location": "New York, NY",
-      "country": "United States",
-      "date_found": "2026-07-13",
-      "source": "Lever",
-      "url": "https://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6"
-    },
-    {
-      "id": "d542fdbcd625",
-      "company": "Palantir",
-      "title": "Forward Deployed Software Engineer, Internship - Defense Tech",
-      "location": "Washington, D.C.",
-      "country": "United States",
-      "date_found": "2026-07-13",
-      "source": "Lever",
-      "url": "https://jobs.lever.co/palantir/cccfe1bd-f15b-4fe5-b044-c793e7961c1b"
-    },
-    {
-      "id": "b8c01d6c8209",
-      "company": "Palantir",
-      "title": "Forward Deployed Software Engineer, Internship - France",
-      "location": "New York, NY",
-      "country": "United States",
-      "date_found": "2026-07-13",
-      "source": "Lever",
-      "url": "https://jobs.lever.co/palantir/ac0dc094-2480-43c2-8495-26ade227ff4f"
-    },
-    {
-      "id": "00ecbbfa27c5",
-      "company": "Palantir",
-      "title": "Forward Deployed Software Engineer, Internship - Intel",
-      "location": "Washington, D.C.",
-      "country": "United States",
-      "date_found": "2026-07-13",
-      "source": "Lever",
-      "url": "https://jobs.lever.co/palantir/9e40d77f-b07c-437b-98e7-def9b0184d89"
-    },
-    {
-      "id": "40b8323e3b01",
-      "company": "Palantir",
-      "title": "Forward Deployed Software Engineer, Internship - Poland",
-      "location": "New York, NY",
-      "country": "United States",
-      "date_found": "2026-07-13",
-      "source": "Lever",
-      "url": "https://jobs.lever.co/palantir/d582cd84-14fd-4aa3-b413-15982d286bd9"
-    },
-    {
-      "id": "0a59dfdc5319",
-      "company": "Palantir",
-      "title": "Forward Deployed Software Engineer, Internship - US Government",
-      "location": "Honolulu, HI",
-      "country": "United States",
-      "date_found": "2026-07-13",
-      "source": "Lever",
-      "url": "https://jobs.lever.co/palantir/315f695d-04d1-4a9a-848e-cb2bec7a997e"
-    },
-    {
-      "id": "c53df4f14d5b",
-      "company": "Palantir",
-      "title": "Privacy and Civil Liberties Software Engineer, Internship",
-      "location": "New York, NY",
-      "country": "United States",
-      "date_found": "2026-07-13",
-      "source": "Lever",
-      "url": "https://jobs.lever.co/palantir/09846827-b931-4a9f-bd64-c3bb8860187b"
-    },
-    {
-      "id": "068d32a0aca8",
-      "company": "Palantir",
-      "title": "Software Engineer, Internship",
-      "location": "Denver, CO",
-      "country": "United States",
-      "date_found": "2026-07-13",
-      "source": "Lever",
-      "url": "https://jobs.lever.co/palantir/373eb939-6f57-4836-8479-be79a5e07249"
-    },
-    {
-      "id": "57778fb9f10a",
-      "company": "Palantir",
-      "title": "Software Engineer, Internship - Defense Tech",
-      "location": "New York, NY",
-      "country": "United States",
-      "date_found": "2026-07-13",
-      "source": "Lever",
-      "url": "https://jobs.lever.co/palantir/8bcf4f33-0a79-4248-bbfd-49ac4be9dd8e"
-    },
-    {
-      "id": "3613e12b9879",
-      "company": "Palantir",
-      "title": "Software Engineer, Internship - Infrastructure",
-      "location": "New York, NY",
-      "country": "United States",
-      "date_found": "2026-07-13",
-      "source": "Lever",
-      "url": "https://jobs.lever.co/palantir/b229baac-494b-4a0d-9a13-2e38806e06f3"
-    },
-    {
-      "id": "d91fd03dcbe3",
-      "company": "Palantir",
-      "title": "Software Engineer, Internship - Production Infrastructure",
-      "location": "Seattle, WA",
-      "country": "United States",
-      "date_found": "2026-07-13",
-      "source": "Lever",
-      "url": "https://jobs.lever.co/palantir/373367a9-3160-49d8-b7af-2efec062fad1"
-    },
-    {
-      "id": "c4c679c3556d",
-      "company": "Palantir",
-      "title": "Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial",
-      "location": "Chicago, IL",
-      "country": "United States",
-      "date_found": "2026-07-13",
-      "source": "Lever",
-      "url": "https://jobs.lever.co/palantir/75cc1c09-8ebd-44c8-b3bc-d122cd1fecb3"
-    },
-    {
-      "id": "5aa891a376ff",
-      "company": "Palantir",
-      "title": "Year at Palantir - Forward Deployed Software Engineer, Internship - USG",
-      "location": "Washington, D.C.",
-      "country": "United States",
-      "date_found": "2026-07-13",
-      "source": "Lever",
-      "url": "https://jobs.lever.co/palantir/5c4c65c5-77da-4d36-856c-4ade87631019"
-    },
-    {
-      "id": "04fd705ea83c",
-      "company": "Palantir",
-      "title": "Year at Palantir - Software Engineer, Internship",
-      "location": "New York, NY",
-      "country": "United States",
-      "date_found": "2026-07-13",
-      "source": "Lever",
-      "url": "https://jobs.lever.co/palantir/655f9937-a4ce-4e7d-80e2-a6659af07329"
-    },
-    {
-      "id": "e0ceceb8e7c0",
-      "company": "Nextiva",
-      "title": "AI Engineer Intern",
-      "location": "Scottsdale, AZ",
-      "country": "United States",
-      "date_found": "2026-07-13",
-      "source": "Simplify",
-      "url": "https://www.nextiva.com/company/careers-listing?gh_jid=8612423002"
     },
     {
       "id": "f674409000c3",
@@ -312,26 +432,6 @@
       "url": "https://job-boards.greenhouse.io/drweng/jobs/7991171"
     },
     {
-      "id": "899162411f76",
-      "company": "Databricks",
-      "title": "PhD GenAI Research Scientist Intern",
-      "location": "San Francisco, California",
-      "country": "United States",
-      "date_found": "2026-07-13",
-      "source": "Greenhouse",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7011263002"
-    },
-    {
-      "id": "3b3c82f79f65",
-      "company": "CVS Health",
-      "title": "Associate Data Engineer \u2013 UG Intern Conversion",
-      "location": "NYC",
-      "country": "United States",
-      "date_found": "2026-07-13",
-      "source": "Simplify",
-      "url": "https://cvshealth.wd1.myworkdayjobs.com/Private_Postings_Intern_Conversion_ONLY/job/NY---New-York/Associate-Data-Engineer---UG-Intern-Conversion_R0972899"
-    },
-    {
       "id": "8186fec3b4dc",
       "company": "Akuna Capital University",
       "title": "Software Engineer Intern - C++",
@@ -380,16 +480,6 @@
       "date_found": "2026-07-13",
       "source": "Simplify",
       "url": "https://www.akunacapital.com/careers/job/8018886/?gh_jid=8018886"
-    },
-    {
-      "id": "755ee66f8575",
-      "company": "Airbnb",
-      "title": "Sales Operations Intern, Italy",
-      "location": "Milan, Italy",
-      "country": "Italy",
-      "date_found": "2026-07-13",
-      "source": "Greenhouse",
-      "url": "https://careers.airbnb.com/positions/7979270?gh_jid=7979270"
     },
     {
       "id": "e8565a6cd18c",
@@ -832,36 +922,6 @@
       "url": "https://jobs.ashbyhq.com/ctgt/f657c2f5-125e-42b6-a68a-646bbea3d155/application"
     },
     {
-      "id": "cc9a16ea3b41",
-      "company": "Travelers",
-      "title": "Business Insights & Analytics Leadership Development Program Intern - BI&a Ldp",
-      "location": "Hartford, CT",
-      "country": "United States",
-      "date_found": "2026-07-03",
-      "source": "Simplify",
-      "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Business-Insights---Analytics-Leadership-Development-Program--BI-A-LDP--Intern_R-51332-1"
-    },
-    {
-      "id": "2546255fb3ed",
-      "company": "Travelers",
-      "title": "Data Science Leadership Development Program Intern - Dsldp",
-      "location": "Hartford, CT",
-      "country": "United States",
-      "date_found": "2026-07-03",
-      "source": "Simplify",
-      "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Data-Science-Leadership-Development-Program--DSLDP--Intern_R-51337"
-    },
-    {
-      "id": "0683499bddc8",
-      "company": "Travelers",
-      "title": "Business Insights & Analytics Leadership Development Program Geospatial Intern",
-      "location": "Hartford, CT",
-      "country": "United States",
-      "date_found": "2026-07-03",
-      "source": "Simplify",
-      "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Business-Insights---Analytics-Leadership-Development-Program--BI-A-LDP--Geospatial-Intern_R-51333-1"
-    },
-    {
       "id": "a242c22579ed",
       "company": "Tesla",
       "title": "Energy Engineering Intern - Software Engineer Diagnostics - Energy Engineering",
@@ -1082,16 +1142,6 @@
       "url": "https://www.optiver.com/join-us/jobs/8604760002/?gh_jid=8604760002"
     },
     {
-      "id": "b7c5c25d3aac",
-      "company": "NOX METALS",
-      "title": "Software Engineer Intern",
-      "location": "Detroit, MI",
-      "country": "United States",
-      "date_found": "2026-07-01",
-      "source": "Simplify",
-      "url": "https://jobs.ashbyhq.com/nox-metals/6edc2dff-7c4b-44b8-abba-32d5953b8c5f/application"
-    },
-    {
       "id": "c79801a90392",
       "company": "IMC Trading",
       "title": "Machine Learning Research Intern",
@@ -1180,16 +1230,6 @@
       "date_found": "2026-06-30",
       "source": "Simplify",
       "url": "https://www.tesla.com/careers/search/job/272928"
-    },
-    {
-      "id": "a0f6872ba6cf",
-      "company": "PLS",
-      "title": "AI Intern",
-      "location": "Chicago, IL",
-      "country": "United States",
-      "date_found": "2026-06-30",
-      "source": "Simplify",
-      "url": "https://job-boards.greenhouse.io/plscareers/jobs/5287786008"
     },
     {
       "id": "e993fb9e2ca7",
@@ -1410,16 +1450,6 @@
       "date_found": "2026-06-24",
       "source": "Simplify",
       "url": "https://jobs.lever.co/palantir/75cc1c09-8ebd-44c8-b3bc-d122cd1fecb3/apply"
-    },
-    {
-      "id": "584937b7831e",
-      "company": "Nuro",
-      "title": "Data Scientist Intern",
-      "location": "Mountain View, CA",
-      "country": "United States",
-      "date_found": "2026-06-24",
-      "source": "Simplify",
-      "url": "https://nuro.ai/careersitem?gh_jid=7594577"
     },
     {
       "id": "bda305e49629",
@@ -2040,6 +2070,16 @@
       "date_found": "2026-06-12",
       "source": "Simplify",
       "url": "https://www.tesla.com/careers/search/job/273810"
+    },
+    {
+      "id": "653b4c87e6fe",
+      "company": "Magna",
+      "title": "Systems Engineer Intern",
+      "location": "Southfield, MI",
+      "country": "United States",
+      "date_found": "2026-06-12",
+      "source": "Simplify",
+      "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Southfield-Michigan-US/Intern---Engineering_R00235413"
     },
     {
       "id": "f3a10c2adc11",
@@ -3352,16 +3392,6 @@
       "url": "https://jobs.ashbyhq.com/wealth-com/1899d513-4c4a-43b2-a307-8c8e4b877622/application"
     },
     {
-      "id": "9fc6c642d87d",
-      "company": "RTX",
-      "title": "DPHM Analytics Intern",
-      "location": "Mississauga, ON, Canada",
-      "country": "Canada",
-      "date_found": "2026-05-19",
-      "source": "Simplify",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/CA-ON-MISSISSAUGA-P22M01--1801-Courtney-Park-Dr--P22M01-BLDG/Internship-Fall-2026---DPHM-Analytics-Intern_01836458-1"
-    },
-    {
       "id": "8306837cdedd",
       "company": "PlusAI",
       "title": "Machine Learning Infrastructure Engineer Intern",
@@ -3722,16 +3752,6 @@
       "url": "https://jobs.ashbyhq.com/skydio/f6320e9b-4eed-408d-8d37-d509fb0406ee/application"
     },
     {
-      "id": "60cc02092a4b",
-      "company": "Apple",
-      "title": "Privacy-Preserving Machine Learning Privacy Engineering Rotation Intern",
-      "location": "Cupertino, CA",
-      "country": "United States",
-      "date_found": "2026-05-06",
-      "source": "Simplify",
-      "url": "https://jobs.apple.com/en-us/details/200658504"
-    },
-    {
       "id": "d9dcd5d3812e",
       "company": "Apple",
       "title": "Hardware Systems Engineering Intern",
@@ -3750,16 +3770,6 @@
       "date_found": "2026-05-05",
       "source": "Simplify",
       "url": "https://job-boards.greenhouse.io/xpengmotors/jobs/8535409002"
-    },
-    {
-      "id": "6ee835d8773c",
-      "company": "Metropolitan Transportation Authority",
-      "title": "Deployed Hardware Engineer/Analyst Emerging Talent Intern - Automatic Vehicle Location",
-      "location": "NYC",
-      "country": "United States",
-      "date_found": "2026-05-05",
-      "source": "Simplify",
-      "url": "https://jobs.jobvite.com/metropolitantransportationauthority/job/omt5zfwd?nl=1&nl=1&fr=false"
     },
     {
       "id": "20e685fc7548",
@@ -3862,16 +3872,6 @@
       "url": "https://internships-aei.icims.com/jobs/2612/job?mobile=true&needsRedirect=false"
     },
     {
-      "id": "ac764e926536",
-      "company": "Nokia",
-      "title": "IT Network Software/AI Development Co-op/Intern",
-      "location": "Ottawa, ON, Canada",
-      "country": "Canada",
-      "date_found": "2026-04-30",
-      "source": "Simplify",
-      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34296"
-    },
-    {
       "id": "04ee267915c9",
       "company": "DoorDash",
       "title": "AI Research Fellowship Intern",
@@ -3960,36 +3960,6 @@
       "date_found": "2026-04-24",
       "source": "Simplify",
       "url": "https://tifin.com/careers/apply/?gh_jid=5981740004"
-    },
-    {
-      "id": "3f953b3159bd",
-      "company": "NVIDIA",
-      "title": "Software Engineering Intern",
-      "location": "Santa Clara, CA",
-      "country": "United States",
-      "date_found": "2026-04-24",
-      "source": "Simplify",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--JAX---Fall-2026_JR2009745"
-    },
-    {
-      "id": "717647d9e53a",
-      "company": "Nokia",
-      "title": "Support Software Developer Co-op/Intern",
-      "location": "Ottawa, ON, Canada",
-      "country": "Canada",
-      "date_found": "2026-04-24",
-      "source": "Simplify",
-      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34551"
-    },
-    {
-      "id": "c7ebf5ca7c8e",
-      "company": "Anduril",
-      "title": "Software Engineer Intern - Warfighter Systems",
-      "location": "Bellevue, WA",
-      "country": "United States",
-      "date_found": "2026-04-23",
-      "source": "Simplify",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5117558007"
     },
     {
       "id": "8c2453e0260f",
@@ -4202,16 +4172,6 @@
       "url": "https://careers-sig.icims.com/jobs/10785/job?mobile=true&needsRedirect=false"
     },
     {
-      "id": "02dcd2401f7b",
-      "company": "Tessera Labs",
-      "title": "Software Engineering Intern - Frontend",
-      "location": "San Jose, CA",
-      "country": "United States",
-      "date_found": "2026-04-08",
-      "source": "Simplify",
-      "url": "https://jobs.ashbyhq.com/tessera-labs/4614d053-2c8f-4317-8cd2-1d1290721b06/application"
-    },
-    {
       "id": "ba8d802fd90b",
       "company": "Perplexity AI",
       "title": "Intern - Search Machine Learning Engineer",
@@ -4420,6 +4380,16 @@
       "date_found": "2026-03-30",
       "source": "Simplify",
       "url": "https://jobs.ashbyhq.com/atomicsemi/de448098-ffc6-4b99-b341-d6a5874f390f/application"
+    },
+    {
+      "id": "f28d496cbf5a",
+      "company": "QuantCo",
+      "title": "Software Engineer Intern",
+      "location": "London, UK",
+      "country": "United Kingdom",
+      "date_found": "2026-03-27",
+      "source": "Simplify",
+      "url": "https://jobs.lever.co/quantco-/d69096fa-b673-4953-ba63-7deee08bc13c/apply"
     },
     {
       "id": "31333981f3ed",
