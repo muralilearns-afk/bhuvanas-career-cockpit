@@ -1,15 +1,35 @@
 {
-  "last_updated": "2026-10-19 00:47",
+  "last_updated": "2026-10-20 01:33",
   "leads": [
+    {
+      "id": "cc2f6950acdf",
+      "company": "\u21b3",
+      "title": "Forward Deployed Software Engineer Intern",
+      "location": "Irvine, CA",
+      "country": "United States",
+      "date_found": "2026-10-20",
+      "source": "GitHub",
+      "url": ""
+    },
+    {
+      "id": "5a04be17367e",
+      "company": "TikTok",
+      "title": "Software Engineer Intern, Recommendation Performance Efficiency",
+      "location": "San Jose, CA",
+      "country": "United States",
+      "date_found": "2026-10-20",
+      "source": "GitHub",
+      "url": ""
+    },
     {
       "id": "2f5a504119ed",
       "company": "Stripe",
       "title": "Data Analyst, Intern",
-      "location": "Toronto",
+      "location": "New York, Seattle, South San Francisco HQ",
       "country": "United States",
-      "date_found": "2026-10-19",
+      "date_found": "2026-10-20",
       "source": "Greenhouse",
-      "url": "https://stripe.com/jobs/search?gh_jid=8194287"
+      "url": "https://stripe.com/jobs/search?gh_jid=8194291"
     },
     {
       "id": "8e125f06456a",
@@ -17,7 +37,7 @@
       "title": "Financial Data Analyst Intern, Technical Operations",
       "location": "Singapore",
       "country": "Singapore",
-      "date_found": "2026-10-19",
+      "date_found": "2026-10-20",
       "source": "Greenhouse",
       "url": "https://stripe.com/jobs/search?gh_jid=8186442"
     },
@@ -27,7 +47,7 @@
       "title": "High School Internship, Software Engineering (Summer 2027)",
       "location": "Seattle, San Francisco",
       "country": "United States",
-      "date_found": "2026-10-19",
+      "date_found": "2026-10-20",
       "source": "Greenhouse",
       "url": "https://stripe.com/jobs/search?gh_jid=8241260"
     },
@@ -37,7 +57,7 @@
       "title": "Integration Reliability Engineer Intern, Technical Operations",
       "location": "Singapore",
       "country": "Singapore",
-      "date_found": "2026-10-19",
+      "date_found": "2026-10-20",
       "source": "Greenhouse",
       "url": "https://stripe.com/jobs/search?gh_jid=8186367"
     },
@@ -47,7 +67,7 @@
       "title": "PhD Data Scientist, Intern",
       "location": "Toronto",
       "country": "United States",
-      "date_found": "2026-10-19",
+      "date_found": "2026-10-20",
       "source": "Greenhouse",
       "url": "https://stripe.com/jobs/search?gh_jid=8194285"
     },
@@ -55,11 +75,11 @@
       "id": "5aa4bf3b242d",
       "company": "Stripe",
       "title": "Software Engineer, Intern",
-      "location": "Singapore",
-      "country": "Singapore",
-      "date_found": "2026-10-19",
+      "location": "Bengaluru",
+      "country": "United States",
+      "date_found": "2026-10-20",
       "source": "Greenhouse",
-      "url": "https://stripe.com/jobs/search?gh_jid=8130883"
+      "url": "https://stripe.com/jobs/search?gh_jid=8031833"
     },
     {
       "id": "be57c4b41407",
@@ -67,19 +87,9 @@
       "title": "Software Engineer, Intern (Summer or Winter)",
       "location": "Dublin",
       "country": "United States",
-      "date_found": "2026-10-19",
+      "date_found": "2026-10-20",
       "source": "Greenhouse",
       "url": "https://stripe.com/jobs/search?gh_jid=8097801"
-    },
-    {
-      "id": "8504a459925e",
-      "company": "Skydio",
-      "title": "Software Engineer Intern",
-      "location": "San Mateo, CA",
-      "country": "United States",
-      "date_found": "2026-10-19",
-      "source": "GitHub",
-      "url": ""
     },
     {
       "id": "80f6d175df9d",
@@ -87,7 +97,7 @@
       "title": "Fraud Operations Intern (Summer 2027)",
       "location": "Denver, CO",
       "country": "United States",
-      "date_found": "2026-10-19",
+      "date_found": "2026-10-20",
       "source": "Greenhouse",
       "url": "https://boards.greenhouse.io/robinhood/jobs/8198241?t=gh_src=&gh_jid=8198241"
     },
@@ -97,9 +107,19 @@
       "title": "Investment Analyst MBA Intern, Robinhood Ventures (Summer 2027)",
       "location": "Menlo Park, CA",
       "country": "United States",
-      "date_found": "2026-10-19",
+      "date_found": "2026-10-20",
       "source": "Greenhouse",
       "url": "https://boards.greenhouse.io/robinhood/jobs/8198187?t=gh_src=&gh_jid=8198187"
+    },
+    {
+      "id": "4cf281d315e9",
+      "company": "Qualcomm",
+      "title": "Automotive Engineering Intern",
+      "location": "Markham, ON, Canada",
+      "country": "Canada",
+      "date_found": "2026-10-20",
+      "source": "GitHub",
+      "url": ""
     },
     {
       "id": "d19b7516967c",
@@ -107,7 +127,7 @@
       "title": "Deployment Strategist, Internship",
       "location": "Paris, France",
       "country": "France",
-      "date_found": "2026-10-19",
+      "date_found": "2026-10-20",
       "source": "Lever",
       "url": "https://jobs.lever.co/palantir/774cf5c9-bf6a-4d77-bf60-d50ef1beb1a0"
     },
@@ -117,7 +137,7 @@
       "title": "Deployment Strategist, Internship - US Government",
       "location": "Honolulu, HI",
       "country": "United States",
-      "date_found": "2026-10-19",
+      "date_found": "2026-10-20",
       "source": "Lever",
       "url": "https://jobs.lever.co/palantir/a49d4181-a289-435a-b581-7f5af0497c8e"
     },
@@ -127,7 +147,7 @@
       "title": "Forward Deployed Infrastructure Engineer, Internship - US Government",
       "location": "Washington, D.C.",
       "country": "United States",
-      "date_found": "2026-10-19",
+      "date_found": "2026-10-20",
       "source": "Lever",
       "url": "https://jobs.lever.co/palantir/3db7e40a-28e0-4ad1-96c5-93de5bc96aa9"
     },
@@ -137,7 +157,7 @@
       "title": "Forward Deployed Software Engineer, Internship",
       "location": "Paris, France",
       "country": "France",
-      "date_found": "2026-10-19",
+      "date_found": "2026-10-20",
       "source": "Lever",
       "url": "https://jobs.lever.co/palantir/1b6f1d82-d459-4dea-8bc2-8d2ffe6f881a"
     },
@@ -147,7 +167,7 @@
       "title": "Forward Deployed Software Engineer, Internship - AUS Government",
       "location": "Sydney, Australia",
       "country": "Australia",
-      "date_found": "2026-10-19",
+      "date_found": "2026-10-20",
       "source": "Lever",
       "url": "https://jobs.lever.co/palantir/395a4483-fc3d-4b77-a500-501923fd0976"
     },
@@ -157,19 +177,9 @@
       "title": "Forward Deployed Software Engineer, Internship - Commercial",
       "location": "Seoul, South Korea",
       "country": "South Korea",
-      "date_found": "2026-10-19",
+      "date_found": "2026-10-20",
       "source": "Lever",
       "url": "https://jobs.lever.co/palantir/2ad0ab10-34c3-410d-883b-8052864a95cd"
-    },
-    {
-      "id": "d542fdbcd625",
-      "company": "Palantir",
-      "title": "Forward Deployed Software Engineer, Internship - Defense Tech",
-      "location": "Washington, D.C.",
-      "country": "United States",
-      "date_found": "2026-10-19",
-      "source": "Lever",
-      "url": "https://jobs.lever.co/palantir/cccfe1bd-f15b-4fe5-b044-c793e7961c1b"
     },
     {
       "id": "b8c01d6c8209",
@@ -177,19 +187,9 @@
       "title": "Forward Deployed Software Engineer, Internship - France",
       "location": "New York, NY",
       "country": "United States",
-      "date_found": "2026-10-19",
+      "date_found": "2026-10-20",
       "source": "Lever",
       "url": "https://jobs.lever.co/palantir/ac0dc094-2480-43c2-8495-26ade227ff4f"
-    },
-    {
-      "id": "00ecbbfa27c5",
-      "company": "Palantir",
-      "title": "Forward Deployed Software Engineer, Internship - Intel",
-      "location": "Washington, D.C.",
-      "country": "United States",
-      "date_found": "2026-10-19",
-      "source": "Lever",
-      "url": "https://jobs.lever.co/palantir/9e40d77f-b07c-437b-98e7-def9b0184d89"
     },
     {
       "id": "5efd19e7cfe4",
@@ -197,7 +197,7 @@
       "title": "Forward Deployed Software Engineer, Internship - UK Government",
       "location": "London, United Kingdom",
       "country": "United Kingdom",
-      "date_found": "2026-10-19",
+      "date_found": "2026-10-20",
       "source": "Lever",
       "url": "https://jobs.lever.co/palantir/26e23f5d-083b-45aa-b223-1a6e43d960bf"
     },
@@ -207,7 +207,7 @@
       "title": "Forward Deployed Software Engineer, Internship - US Government",
       "location": "Honolulu, HI",
       "country": "United States",
-      "date_found": "2026-10-19",
+      "date_found": "2026-10-20",
       "source": "Lever",
       "url": "https://jobs.lever.co/palantir/315f695d-04d1-4a9a-848e-cb2bec7a997e"
     },
@@ -217,7 +217,7 @@
       "title": "Information Security Engineer, Internship",
       "location": "New York, NY",
       "country": "United States",
-      "date_found": "2026-10-19",
+      "date_found": "2026-10-20",
       "source": "Lever",
       "url": "https://jobs.lever.co/palantir/ef725594-42dd-4f0d-ba8e-df8179dbc6cb"
     },
@@ -227,7 +227,7 @@
       "title": "Privacy and Civil Liberties Software Engineer, Internship",
       "location": "New York, NY",
       "country": "United States",
-      "date_found": "2026-10-19",
+      "date_found": "2026-10-20",
       "source": "Lever",
       "url": "https://jobs.lever.co/palantir/09846827-b931-4a9f-bd64-c3bb8860187b"
     },
@@ -237,7 +237,7 @@
       "title": "Product Designer, Internship",
       "location": "New York, NY",
       "country": "United States",
-      "date_found": "2026-10-19",
+      "date_found": "2026-10-20",
       "source": "Lever",
       "url": "https://jobs.lever.co/palantir/1a935143-e857-480c-bc5a-ad625d754eb6"
     },
@@ -247,7 +247,7 @@
       "title": "Product Designer, Internship - US Government",
       "location": "New York, NY",
       "country": "United States",
-      "date_found": "2026-10-19",
+      "date_found": "2026-10-20",
       "source": "Lever",
       "url": "https://jobs.lever.co/palantir/8f7bbffa-92aa-4d25-9586-943b3322a27d"
     },
@@ -257,7 +257,7 @@
       "title": "Software Engineer, Internship",
       "location": "Singapore, Singapore",
       "country": "Singapore",
-      "date_found": "2026-10-19",
+      "date_found": "2026-10-20",
       "source": "Lever",
       "url": "https://jobs.lever.co/palantir/3531977a-9b2f-40a0-a486-4eeb38e75fc1"
     },
@@ -267,7 +267,7 @@
       "title": "Software Engineer, Internship - Defense Tech",
       "location": "New York, NY",
       "country": "United States",
-      "date_found": "2026-10-19",
+      "date_found": "2026-10-20",
       "source": "Lever",
       "url": "https://jobs.lever.co/palantir/8bcf4f33-0a79-4248-bbfd-49ac4be9dd8e"
     },
@@ -277,7 +277,7 @@
       "title": "Software Engineer, Internship - Infrastructure",
       "location": "New York, NY",
       "country": "United States",
-      "date_found": "2026-10-19",
+      "date_found": "2026-10-20",
       "source": "Lever",
       "url": "https://jobs.lever.co/palantir/b229baac-494b-4a0d-9a13-2e38806e06f3"
     },
@@ -287,9 +287,19 @@
       "title": "Software Engineer, Internship - Production Infrastructure",
       "location": "Seattle, WA",
       "country": "United States",
-      "date_found": "2026-10-19",
+      "date_found": "2026-10-20",
       "source": "Lever",
       "url": "https://jobs.lever.co/palantir/373367a9-3160-49d8-b7af-2efec062fad1"
+    },
+    {
+      "id": "ec64ecf11b85",
+      "company": "Palantir",
+      "title": "Software Engineer, Internship - Query Engines",
+      "location": "London, United Kingdom",
+      "country": "United Kingdom",
+      "date_found": "2026-10-20",
+      "source": "Lever",
+      "url": "https://jobs.lever.co/palantir/3e59369e-1392-42f2-8d03-86648e87e963"
     },
     {
       "id": "c4c679c3556d",
@@ -297,7 +307,7 @@
       "title": "Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial",
       "location": "Chicago, IL",
       "country": "United States",
-      "date_found": "2026-10-19",
+      "date_found": "2026-10-20",
       "source": "Lever",
       "url": "https://jobs.lever.co/palantir/75cc1c09-8ebd-44c8-b3bc-d122cd1fecb3"
     },
@@ -307,7 +317,7 @@
       "title": "Year at Palantir - Forward Deployed Software Engineer, Internship - USG",
       "location": "Washington, D.C.",
       "country": "United States",
-      "date_found": "2026-10-19",
+      "date_found": "2026-10-20",
       "source": "Lever",
       "url": "https://jobs.lever.co/palantir/5c4c65c5-77da-4d36-856c-4ade87631019"
     },
@@ -317,9 +327,69 @@
       "title": "Year at Palantir - Software Engineer, Internship",
       "location": "New York, NY",
       "country": "United States",
-      "date_found": "2026-10-19",
+      "date_found": "2026-10-20",
       "source": "Lever",
       "url": "https://jobs.lever.co/palantir/655f9937-a4ce-4e7d-80e2-a6659af07329"
+    },
+    {
+      "id": "149e1bf144d0",
+      "company": "Paccar",
+      "title": "Dealer Development Marketing Data Analytics Intern",
+      "location": "Kirkland, WA",
+      "country": "United States",
+      "date_found": "2026-10-20",
+      "source": "Simplify",
+      "url": "https://jobs.paccar.com/job/Kirkland-Summer-2027-Dealer-Development-Marketing-Data-Analytics-Intern-WA-98033/1449209833/?ats=successfactors"
+    },
+    {
+      "id": "b35f3f1cc852",
+      "company": "Keysight Technologies",
+      "title": "R&D Software Engineer Intern",
+      "location": "Austin, TX",
+      "country": "United States",
+      "date_found": "2026-10-20",
+      "source": "GitHub",
+      "url": ""
+    },
+    {
+      "id": "cbe92f02f17a",
+      "company": "John Deere",
+      "title": "Software Engineering Intern, Technology",
+      "location": "Ames, IA",
+      "country": "United States",
+      "date_found": "2026-10-20",
+      "source": "GitHub",
+      "url": ""
+    },
+    {
+      "id": "08ebda40a827",
+      "company": "Inversion Space",
+      "title": "Avionics Embedded Software Engineer Intern",
+      "location": "Playa Vista, LA",
+      "country": "United States",
+      "date_found": "2026-10-20",
+      "source": "GitHub",
+      "url": ""
+    },
+    {
+      "id": "8b6066b51920",
+      "company": "Impulse Space",
+      "title": "Enterprise Software Engineer Intern",
+      "location": "Redondo Beach, CA",
+      "country": "United States",
+      "date_found": "2026-10-20",
+      "source": "GitHub",
+      "url": ""
+    },
+    {
+      "id": "0cc8a9b52d67",
+      "company": "Healthpeak Properties",
+      "title": "Forward Deployed Software Engineer Intern",
+      "location": "NYC",
+      "country": "United States",
+      "date_found": "2026-10-20",
+      "source": "GitHub",
+      "url": ""
     },
     {
       "id": "38cd52b7a4ee",
@@ -327,7 +397,7 @@
       "title": "Data Engineer Intern (2027)",
       "location": "San Francisco, CA \u2022 New York, NY",
       "country": "United States",
-      "date_found": "2026-10-19",
+      "date_found": "2026-10-20",
       "source": "Greenhouse",
       "url": "https://boards.greenhouse.io/figma/jobs/6178851004?gh_jid=6178851004"
     },
@@ -337,7 +407,7 @@
       "title": "Data Science Intern (2027)",
       "location": "San Francisco, CA \u2022 New York, NY",
       "country": "United States",
-      "date_found": "2026-10-19",
+      "date_found": "2026-10-20",
       "source": "Greenhouse",
       "url": "https://boards.greenhouse.io/figma/jobs/6178857004?gh_jid=6178857004"
     },
@@ -347,7 +417,7 @@
       "title": "PhD Intern, AI Applied Scientist (2027)",
       "location": "San Francisco, CA \u2022 New York, NY",
       "country": "United States",
-      "date_found": "2026-10-19",
+      "date_found": "2026-10-20",
       "source": "Greenhouse",
       "url": "https://boards.greenhouse.io/figma/jobs/6207801004?gh_jid=6207801004"
     },
@@ -357,7 +427,7 @@
       "title": "PhD Intern, Data Science (2027)",
       "location": "San Francisco, CA \u2022 New York, NY",
       "country": "United States",
-      "date_found": "2026-10-19",
+      "date_found": "2026-10-20",
       "source": "Greenhouse",
       "url": "https://boards.greenhouse.io/figma/jobs/6200626004?gh_jid=6200626004"
     },
@@ -367,7 +437,7 @@
       "title": "PhD Intern, Software Engineer - Graphics (2027)",
       "location": "San Francisco, CA \u2022 New York, NY",
       "country": "United States",
-      "date_found": "2026-10-19",
+      "date_found": "2026-10-20",
       "source": "Greenhouse",
       "url": "https://boards.greenhouse.io/figma/jobs/6219995004?gh_jid=6219995004"
     },
@@ -377,7 +447,7 @@
       "title": "Product Design Intern (2027)",
       "location": "San Francisco, CA \u2022 New York, NY",
       "country": "United States",
-      "date_found": "2026-10-19",
+      "date_found": "2026-10-20",
       "source": "Greenhouse",
       "url": "https://boards.greenhouse.io/figma/jobs/6180005004?gh_jid=6180005004"
     },
@@ -387,7 +457,7 @@
       "title": "Software Engineer Intern (London, United Kingdom) (Summer 2027) ",
       "location": "London, England",
       "country": "United Kingdom",
-      "date_found": "2026-10-19",
+      "date_found": "2026-10-20",
       "source": "Greenhouse",
       "url": "https://boards.greenhouse.io/figma/jobs/6152695004?gh_jid=6152695004"
     },
@@ -397,27 +467,27 @@
       "title": "Software Engineer Intern (Summer 2027)",
       "location": "San Francisco, CA \u2022 New York, NY",
       "country": "United States",
-      "date_found": "2026-10-19",
+      "date_found": "2026-10-20",
       "source": "Greenhouse",
       "url": "https://boards.greenhouse.io/figma/jobs/6143238004?gh_jid=6143238004"
     },
     {
-      "id": "a444fdffadf0",
-      "company": "Eulerity",
-      "title": "AI Intern, Office of CEO & Head of Product",
-      "location": "New York, NY",
-      "country": "United States",
-      "date_found": "2026-10-19",
+      "id": "181dbc303b94",
+      "company": "Electronic Arts",
+      "title": "Analytics Intern",
+      "location": "Vancouver, BC, Canada",
+      "country": "Canada",
+      "date_found": "2026-10-20",
       "source": "GitHub",
       "url": ""
     },
     {
-      "id": "80b261089883",
-      "company": "Databricks",
-      "title": "Software Engineering Intern",
-      "location": "<details><summary>4 locations</summary>Bellevue, WA</br>Mountain View, CA</br>San Francisco, CA</br>Vancouver, BC</details>",
-      "country": "United States",
-      "date_found": "2026-10-19",
+      "id": "fc1e51941d81",
+      "company": "Eaton",
+      "title": "C++ Developer Intern, Research & Development Engineering",
+      "location": "Brossard, QC, Canada",
+      "country": "Canada",
+      "date_found": "2026-10-20",
       "source": "GitHub",
       "url": ""
     },
@@ -427,7 +497,7 @@
       "title": "PhD GenAI Research Scientist Intern",
       "location": "San Francisco, California",
       "country": "United States",
-      "date_found": "2026-10-19",
+      "date_found": "2026-10-20",
       "source": "Greenhouse",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7011263002"
     },
@@ -437,7 +507,7 @@
       "title": "Product Design Intern (2027 Start)",
       "location": "San Francisco, California",
       "country": "United States",
-      "date_found": "2026-10-19",
+      "date_found": "2026-10-20",
       "source": "Greenhouse",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8787352002"
     },
@@ -447,7 +517,7 @@
       "title": "Product Management Intern (2027) - Amsterdam",
       "location": "Amsterdam, Netherlands",
       "country": "Netherlands",
-      "date_found": "2026-10-19",
+      "date_found": "2026-10-20",
       "source": "Greenhouse",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8133715002"
     },
@@ -457,7 +527,7 @@
       "title": "Product Management Intern (2027) - Belgrade",
       "location": "Belgrade, Serbia",
       "country": "United States",
-      "date_found": "2026-10-19",
+      "date_found": "2026-10-20",
       "source": "Greenhouse",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8863328002"
     },
@@ -467,7 +537,7 @@
       "title": "Product Management Intern (2027) - Berlin",
       "location": "Berlin, Germany",
       "country": "Germany",
-      "date_found": "2026-10-19",
+      "date_found": "2026-10-20",
       "source": "Greenhouse",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8145776002"
     },
@@ -477,7 +547,7 @@
       "title": "Product Management Intern (Summer 2027)",
       "location": "Bellevue, Washington",
       "country": "United States",
-      "date_found": "2026-10-19",
+      "date_found": "2026-10-20",
       "source": "Greenhouse",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6883068002"
     },
@@ -487,7 +557,7 @@
       "title": "Software Engineering Intern (2027)",
       "location": "Bellevue, Washington",
       "country": "United States",
-      "date_found": "2026-10-19",
+      "date_found": "2026-10-20",
       "source": "Greenhouse",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6865687002"
     },
@@ -497,7 +567,7 @@
       "title": "Software Engineering Intern (2027 Start) - Aarhus",
       "location": "Aarhus, Denmark",
       "country": "United States",
-      "date_found": "2026-10-19",
+      "date_found": "2026-10-20",
       "source": "Greenhouse",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8133710002"
     },
@@ -507,7 +577,7 @@
       "title": "Software Engineering Intern (2027 Start) - Amsterdam",
       "location": "Amsterdam, Netherlands",
       "country": "Netherlands",
-      "date_found": "2026-10-19",
+      "date_found": "2026-10-20",
       "source": "Greenhouse",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6866534002"
     },
@@ -517,7 +587,7 @@
       "title": "Software Engineering Intern (2027 Start) - Belgrade",
       "location": "Belgrade, Serbia",
       "country": "United States",
-      "date_found": "2026-10-19",
+      "date_found": "2026-10-20",
       "source": "Greenhouse",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7640764002"
     },
@@ -527,7 +597,7 @@
       "title": "Software Engineering Intern (2027 Start) - Berlin",
       "location": "Berlin, Germany",
       "country": "Germany",
-      "date_found": "2026-10-19",
+      "date_found": "2026-10-20",
       "source": "Greenhouse",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6866531002"
     },
@@ -537,7 +607,7 @@
       "title": "Software Engineering Intern (2027 Start) - London",
       "location": "London, United Kingdom",
       "country": "United Kingdom",
-      "date_found": "2026-10-19",
+      "date_found": "2026-10-20",
       "source": "Greenhouse",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8847738002"
     },
@@ -547,7 +617,7 @@
       "title": "Software Engineering Intern (2027 Start) - Winter",
       "location": "Bellevue, Washington",
       "country": "United States",
-      "date_found": "2026-10-19",
+      "date_found": "2026-10-20",
       "source": "Greenhouse",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002"
     },
@@ -557,7 +627,7 @@
       "title": "Accelerations Programs Intern",
       "location": "Hybrid - New York, NY",
       "country": "United States",
-      "date_found": "2026-10-19",
+      "date_found": "2026-10-20",
       "source": "Greenhouse",
       "url": "https://www.coinbase.com/careers/positions/8175363?gh_jid=8175363"
     },
@@ -567,7 +637,7 @@
       "title": "Accounting Intern",
       "location": "Hybrid - New York, NY",
       "country": "United States",
-      "date_found": "2026-10-19",
+      "date_found": "2026-10-20",
       "source": "Greenhouse",
       "url": "https://www.coinbase.com/careers/positions/8173991?gh_jid=8173991"
     },
@@ -577,7 +647,7 @@
       "title": "Analytics Engineer Intern",
       "location": "Hybrid - New York, NY",
       "country": "United States",
-      "date_found": "2026-10-19",
+      "date_found": "2026-10-20",
       "source": "Greenhouse",
       "url": "https://www.coinbase.com/careers/positions/8175471?gh_jid=8175471"
     },
@@ -587,7 +657,7 @@
       "title": "Associate Product Manager Intern",
       "location": "Hybrid - San Francisco, CA",
       "country": "United States",
-      "date_found": "2026-10-19",
+      "date_found": "2026-10-20",
       "source": "Greenhouse",
       "url": "https://www.coinbase.com/careers/positions/8168322?gh_jid=8168322"
     },
@@ -597,7 +667,7 @@
       "title": "Business Controller Intern",
       "location": "Hybrid - New York, NY",
       "country": "United States",
-      "date_found": "2026-10-19",
+      "date_found": "2026-10-20",
       "source": "Greenhouse",
       "url": "https://www.coinbase.com/careers/positions/8175366?gh_jid=8175366"
     },
@@ -607,7 +677,7 @@
       "title": "Credit Risk Intern",
       "location": "Hybrid - New York, NY",
       "country": "United States",
-      "date_found": "2026-10-19",
+      "date_found": "2026-10-20",
       "source": "Greenhouse",
       "url": "https://www.coinbase.com/careers/positions/8175369?gh_jid=8175369"
     },
@@ -617,7 +687,7 @@
       "title": "Crypto Inventory Operations Intern",
       "location": "Hybrid - New York, NY",
       "country": "United States",
-      "date_found": "2026-10-19",
+      "date_found": "2026-10-20",
       "source": "Greenhouse",
       "url": "https://www.coinbase.com/careers/positions/8175435?gh_jid=8175435"
     },
@@ -627,7 +697,7 @@
       "title": "Data Engineer Intern",
       "location": "Hybrid - San Francisco, CA",
       "country": "United States",
-      "date_found": "2026-10-19",
+      "date_found": "2026-10-20",
       "source": "Greenhouse",
       "url": "https://www.coinbase.com/careers/positions/8175459?gh_jid=8175459"
     },
@@ -637,7 +707,7 @@
       "title": "Data Science Intern",
       "location": "Hybrid - New York, NY",
       "country": "United States",
-      "date_found": "2026-10-19",
+      "date_found": "2026-10-20",
       "source": "Greenhouse",
       "url": "https://www.coinbase.com/careers/positions/8175462?gh_jid=8175462"
     },
@@ -647,7 +717,7 @@
       "title": "Employee and Workplace Experience Intern",
       "location": "Hybrid - New York, NY",
       "country": "United States",
-      "date_found": "2026-10-19",
+      "date_found": "2026-10-20",
       "source": "Greenhouse",
       "url": "https://www.coinbase.com/careers/positions/8175429?gh_jid=8175429"
     },
@@ -657,19 +727,9 @@
       "title": "Forward Deployed Engineer Intern (HR Technology)",
       "location": "Hybrid - New York, NY",
       "country": "United States",
-      "date_found": "2026-10-19",
+      "date_found": "2026-10-20",
       "source": "Greenhouse",
       "url": "https://www.coinbase.com/careers/positions/8175510?gh_jid=8175510"
-    },
-    {
-      "id": "4af21c4dbcea",
-      "company": "Coinbase",
-      "title": "Institutional Operations Intern",
-      "location": "Hybrid - New York, NY",
-      "country": "United States",
-      "date_found": "2026-10-19",
-      "source": "Greenhouse",
-      "url": "https://www.coinbase.com/careers/positions/8175569?gh_jid=8175569"
     },
     {
       "id": "d36752f952a0",
@@ -677,7 +737,7 @@
       "title": "Internal Audit Analytics Intern",
       "location": "Hybrid - New York, NY",
       "country": "United States",
-      "date_found": "2026-10-19",
+      "date_found": "2026-10-20",
       "source": "Greenhouse",
       "url": "https://www.coinbase.com/careers/positions/8221238?gh_jid=8221238"
     },
@@ -687,7 +747,7 @@
       "title": "Internal Audit Intern",
       "location": "Hybrid - New York, NY",
       "country": "United States",
-      "date_found": "2026-10-19",
+      "date_found": "2026-10-20",
       "source": "Greenhouse",
       "url": "https://www.coinbase.com/careers/positions/8175432?gh_jid=8175432"
     },
@@ -697,7 +757,7 @@
       "title": "Learning & Development Intern",
       "location": "Hybrid - New York, NY",
       "country": "United States",
-      "date_found": "2026-10-19",
+      "date_found": "2026-10-20",
       "source": "Greenhouse",
       "url": "https://www.coinbase.com/careers/positions/8175514?gh_jid=8175514"
     },
@@ -707,7 +767,7 @@
       "title": "Machine Learning Engineer Intern",
       "location": "Hybrid - San Francisco, CA",
       "country": "United States",
-      "date_found": "2026-10-19",
+      "date_found": "2026-10-20",
       "source": "Greenhouse",
       "url": "https://www.coinbase.com/careers/positions/8175441?gh_jid=8175441"
     },
@@ -717,7 +777,7 @@
       "title": "Payment Risk Intern",
       "location": "Hybrid - New York, NY",
       "country": "United States",
-      "date_found": "2026-10-19",
+      "date_found": "2026-10-20",
       "source": "Greenhouse",
       "url": "https://www.coinbase.com/careers/positions/8175447?gh_jid=8175447"
     },
@@ -727,7 +787,7 @@
       "title": "People Analytics Intern",
       "location": "Hybrid - New York, NY",
       "country": "United States",
-      "date_found": "2026-10-19",
+      "date_found": "2026-10-20",
       "source": "Greenhouse",
       "url": "https://www.coinbase.com/careers/positions/8175517?gh_jid=8175517"
     },
@@ -737,7 +797,7 @@
       "title": "Policy Intern",
       "location": "Hybrid - New York, NY",
       "country": "United States",
-      "date_found": "2026-10-19",
+      "date_found": "2026-10-20",
       "source": "Greenhouse",
       "url": "https://www.coinbase.com/careers/positions/8175556?gh_jid=8175556"
     },
@@ -747,7 +807,7 @@
       "title": "Product Design Intern",
       "location": "Hybrid - San Francisco, CA",
       "country": "United States",
-      "date_found": "2026-10-19",
+      "date_found": "2026-10-20",
       "source": "Greenhouse",
       "url": "https://www.coinbase.com/careers/positions/8175339?gh_jid=8175339"
     },
@@ -757,7 +817,7 @@
       "title": "Real Estate & Builds Intern",
       "location": "Hybrid - New York, NY",
       "country": "United States",
-      "date_found": "2026-10-19",
+      "date_found": "2026-10-20",
       "source": "Greenhouse",
       "url": "https://www.coinbase.com/careers/positions/8175507?gh_jid=8175507"
     },
@@ -767,7 +827,7 @@
       "title": "Sales Intern",
       "location": "Hybrid - New York, NY",
       "country": "United States",
-      "date_found": "2026-10-19",
+      "date_found": "2026-10-20",
       "source": "Greenhouse",
       "url": "https://www.coinbase.com/careers/positions/8187551?gh_jid=8187551"
     },
@@ -777,7 +837,7 @@
       "title": "Software Engineer Intern",
       "location": "Hybrid - San Francisco, CA",
       "country": "United States",
-      "date_found": "2026-10-19",
+      "date_found": "2026-10-20",
       "source": "Greenhouse",
       "url": "https://www.coinbase.com/careers/positions/8168315?gh_jid=8168315"
     },
@@ -787,7 +847,7 @@
       "title": "Strategic Finance Intern",
       "location": "Hybrid - New York, NY",
       "country": "United States",
-      "date_found": "2026-10-19",
+      "date_found": "2026-10-20",
       "source": "Greenhouse",
       "url": "https://www.coinbase.com/careers/positions/8175438?gh_jid=8175438"
     },
@@ -797,7 +857,7 @@
       "title": "Tax Information Reporting Intern",
       "location": "Hybrid - New York, NY",
       "country": "United States",
-      "date_found": "2026-10-19",
+      "date_found": "2026-10-20",
       "source": "Greenhouse",
       "url": "https://www.coinbase.com/careers/positions/8221241?gh_jid=8221241"
     },
@@ -807,7 +867,7 @@
       "title": "Tax Operations Intern",
       "location": "Hybrid - New York, NY",
       "country": "United States",
-      "date_found": "2026-10-19",
+      "date_found": "2026-10-20",
       "source": "Greenhouse",
       "url": "https://www.coinbase.com/careers/positions/8175453?gh_jid=8175453"
     },
@@ -817,27 +877,37 @@
       "title": "User Research Intern",
       "location": "Hybrid - San Francisco, CA",
       "country": "United States",
-      "date_found": "2026-10-19",
+      "date_found": "2026-10-20",
       "source": "Greenhouse",
       "url": "https://www.coinbase.com/careers/positions/8175360?gh_jid=8175360"
     },
     {
-      "id": "4e5d7640617f",
-      "company": "Clera",
-      "title": "Computer Vision & Robotics Intern",
-      "location": "San Francisco, CA",
+      "id": "841ff2dd2e7f",
+      "company": "CenturyLink",
+      "title": "Data Intern, Analytics & Decision Science",
+      "location": "Remote in USA",
       "country": "United States",
-      "date_found": "2026-10-19",
+      "date_found": "2026-10-20",
       "source": "GitHub",
       "url": ""
     },
     {
-      "id": "db701f00e2c9",
-      "company": "Aquatic",
-      "title": "Software Engineer Intern",
-      "location": "Chicago, IL",
+      "id": "e4256cbc2f60",
+      "company": "Boston Scientific",
+      "title": "AI/Data Science Intern",
+      "location": "Maple Grove, MN",
       "country": "United States",
-      "date_found": "2026-10-19",
+      "date_found": "2026-10-20",
+      "source": "GitHub",
+      "url": ""
+    },
+    {
+      "id": "24417ac281b7",
+      "company": "Apple",
+      "title": "SoC Machine Learning Software Engineer Intern",
+      "location": "Sunnyvale, CA",
+      "country": "United States",
+      "date_found": "2026-10-20",
       "source": "GitHub",
       "url": ""
     },
@@ -847,9 +917,19 @@
       "title": "Strategic Finance & Analytics Intern (MBA)",
       "location": "United States",
       "country": "United States",
-      "date_found": "2026-10-19",
+      "date_found": "2026-10-20",
       "source": "Greenhouse",
       "url": "https://careers.airbnb.com/positions/8285171?gh_jid=8285171"
+    },
+    {
+      "id": "1a096653ae4f",
+      "company": "AGCO",
+      "title": "Embedded Software Engineer Intern",
+      "location": "Hesston, KS</br>Jackson, MN",
+      "country": "United States",
+      "date_found": "2026-10-20",
+      "source": "GitHub",
+      "url": ""
     },
     {
       "id": "4650437c9f30",
@@ -857,7 +937,7 @@
       "title": "IT Engineer Intern (Early Careers Summer 2027)",
       "location": "San Francisco, California, United States",
       "country": "United States",
-      "date_found": "2026-10-19",
+      "date_found": "2026-10-20",
       "source": "Greenhouse",
       "url": "https://job-boards.greenhouse.io/affirm/jobs/8011375003"
     },
@@ -867,7 +947,7 @@
       "title": "Software Engineer Intern (Summer 2027)",
       "location": "San Francisco, California, United States",
       "country": "United States",
-      "date_found": "2026-10-19",
+      "date_found": "2026-10-20",
       "source": "Greenhouse",
       "url": "https://job-boards.greenhouse.io/affirm/jobs/8011590003"
     },
@@ -877,9 +957,569 @@
       "title": "Software Engineer (Machine Learning) Intern (Summer 2027)",
       "location": "San Francisco, California, United States",
       "country": "United States",
-      "date_found": "2026-10-19",
+      "date_found": "2026-10-20",
       "source": "Greenhouse",
       "url": "https://job-boards.greenhouse.io/affirm/jobs/8008645003"
+    },
+    {
+      "id": "0044798da8e4",
+      "company": "ZS",
+      "title": "Decision Analytics Associate Intern",
+      "location": "London, UK",
+      "country": "United Kingdom",
+      "date_found": "2026-10-19",
+      "source": "Simplify",
+      "url": "https://jobs.zs.com/jobs/68243?icims=1"
+    },
+    {
+      "id": "6945d0c1106d",
+      "company": "Zebra Technologies",
+      "title": "Business Analytics Intern",
+      "location": "Holtsville, NY",
+      "country": "United States",
+      "date_found": "2026-10-19",
+      "source": "Simplify",
+      "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Business-Analytics_JR103642"
+    },
+    {
+      "id": "b0c0ebcf8929",
+      "company": "Wise",
+      "title": "Software Engineer Intern",
+      "location": "London, UK",
+      "country": "United Kingdom",
+      "date_found": "2026-10-19",
+      "source": "Simplify",
+      "url": "https://jobs.smartrecruiters.com/Wise/744000156266767"
+    },
+    {
+      "id": "798181d26b7b",
+      "company": "Wise",
+      "title": "Analytics Intern",
+      "location": "London, UK",
+      "country": "United Kingdom",
+      "date_found": "2026-10-19",
+      "source": "Simplify",
+      "url": "https://jobs.smartrecruiters.com/Wise/744000156269320"
+    },
+    {
+      "id": "9ea7c17cbc93",
+      "company": "Wise",
+      "title": "Data Science Intern",
+      "location": "London, UK",
+      "country": "United Kingdom",
+      "date_found": "2026-10-19",
+      "source": "Simplify",
+      "url": "https://jobs.smartrecruiters.com/Wise/744000156265544"
+    },
+    {
+      "id": "c9ad42f77746",
+      "company": "Westinghouse Electric Company",
+      "title": "Software Development Intern",
+      "location": "Cranberry Township, PA",
+      "country": "United States",
+      "date_found": "2026-10-19",
+      "source": "Simplify",
+      "url": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Summer-Intern-Software-Development-NC/1441279500/?ats=successfactors"
+    },
+    {
+      "id": "6cfc2e61e71b",
+      "company": "Waymo",
+      "title": "Machine Learning Intern - Simulation & Closed-Loop Training",
+      "location": "Mountain View, CA",
+      "country": "United States",
+      "date_found": "2026-10-19",
+      "source": "Simplify",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8283558"
+    },
+    {
+      "id": "59768d0a942d",
+      "company": "Ursa Major",
+      "title": "Avionics Electrical Engineer Intern",
+      "location": "Berthoud, CO",
+      "country": "United States",
+      "date_found": "2026-10-19",
+      "source": "Simplify",
+      "url": "https://ursamajor.com/careers/?gh_jid=4745125005"
+    },
+    {
+      "id": "b559ecc6f0bd",
+      "company": "Tyler Technologies",
+      "title": "Software Developer Intern",
+      "location": "Orono, ME",
+      "country": "United States",
+      "date_found": "2026-10-19",
+      "source": "Simplify",
+      "url": "https://jobs.jobvite.com/tylertech/job/ouQXAfwB?nl=1&nl=1&fr=false"
+    },
+    {
+      "id": "d074b1b06820",
+      "company": "The Toro Company",
+      "title": "Cloud Software Developer Intern",
+      "location": "Frederick, CO",
+      "country": "United States",
+      "date_found": "2026-10-19",
+      "source": "Simplify",
+      "url": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Frederick-CO/Cloud-Software-Development-Intern---The-Toro-Company_JR17498"
+    },
+    {
+      "id": "35c171c46eaa",
+      "company": "The Allen Institute for AI",
+      "title": "Research Intern - AI for Science",
+      "location": "Seattle, WA",
+      "country": "United States",
+      "date_found": "2026-10-19",
+      "source": "Simplify",
+      "url": "https://job-boards.greenhouse.io/thealleninstitute/jobs/8293615"
+    },
+    {
+      "id": "f04df3b615d8",
+      "company": "Scale AI",
+      "title": "Machine Learning Research Intern",
+      "location": "SF",
+      "country": "United States",
+      "date_found": "2026-10-19",
+      "source": "Simplify",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4735665005"
+    },
+    {
+      "id": "23e94cd8748a",
+      "company": "Rothesay",
+      "title": "Software Engineer Intern",
+      "location": "London, UK",
+      "country": "United Kingdom",
+      "date_found": "2026-10-19",
+      "source": "Simplify",
+      "url": "https://job-boards.greenhouse.io/rothesaygraduates/jobs/8811551002"
+    },
+    {
+      "id": "ae4231a7563c",
+      "company": "Rogue Fitness",
+      "title": "AI Engineer Intern",
+      "location": "Columbus, OH",
+      "country": "United States",
+      "date_found": "2026-10-19",
+      "source": "Simplify",
+      "url": "https://roguefitness.wd1.myworkdayjobs.com/RogueFitness_External_Careers/job/Columbus-Ohio/AI-Engineer-Intern_R-103005"
+    },
+    {
+      "id": "e43c7a0e2b35",
+      "company": "Robert Bosch Venture Capital",
+      "title": "AI Research Intern: Wireless Foundation Models",
+      "location": "Pittsburgh, PA",
+      "country": "United States",
+      "date_found": "2026-10-19",
+      "source": "Simplify",
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000156323136"
+    },
+    {
+      "id": "3627cb036cc8",
+      "company": "Qualcomm",
+      "title": "Machine Learning AISW Intern",
+      "location": "Markham, ON, Canada",
+      "country": "Canada",
+      "date_found": "2026-10-19",
+      "source": "Simplify",
+      "url": "https://qualcomm.eightfold.ai/careers/job/446721636765"
+    },
+    {
+      "id": "437fb58090ec",
+      "company": "Qualcomm",
+      "title": "QDSP Hardware Physical Design Intern",
+      "location": "Markham, ON, Canada",
+      "country": "Canada",
+      "date_found": "2026-10-19",
+      "source": "Simplify",
+      "url": "https://qualcomm.eightfold.ai/careers/job/446721636316"
+    },
+    {
+      "id": "2b51aa7aeffa",
+      "company": "QTS",
+      "title": "People Services Data Analytics Intern",
+      "location": "Ashburn, VA",
+      "country": "United States",
+      "date_found": "2026-10-19",
+      "source": "Simplify",
+      "url": "https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/US-VA-Ashburn-1-DC1/Summer-2027-Internship--People-Services-Data-Analytics_R2026-2307"
+    },
+    {
+      "id": "6f3451ab2bc2",
+      "company": "Patreon",
+      "title": "Software Engineer Intern",
+      "location": "SF",
+      "country": "United States",
+      "date_found": "2026-10-19",
+      "source": "Simplify",
+      "url": "https://jobs.ashbyhq.com/patreon/71f644bc-0873-4d62-a599-bd64405d6587/application?embed=true"
+    },
+    {
+      "id": "c09cb41e1bfc",
+      "company": "NVIDIA",
+      "title": "Product Manager MBA Intern - Enterprise AI",
+      "location": "Santa Clara, CA",
+      "country": "United States",
+      "date_found": "2026-10-19",
+      "source": "Simplify",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Manager-MBA-Intern--Enterprise-AI---Summer-2027_JR2026707"
+    },
+    {
+      "id": "15b8059f5600",
+      "company": "NVIDIA",
+      "title": "ASIC Verification Intern",
+      "location": "Toronto, ON, Canada",
+      "country": "Canada",
+      "date_found": "2026-10-19",
+      "source": "Simplify",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/ASIC-Verification-Intern---Summer-2027_JR2027982"
+    },
+    {
+      "id": "7c4efc21cb42",
+      "company": "Nuovo Photography",
+      "title": "Software Developer Intern",
+      "location": "Montreal, QC, Canada",
+      "country": "Canada",
+      "date_found": "2026-10-19",
+      "source": "Simplify",
+      "url": "https://apply.workable.com/nuovophotography/j/7DE79BE9A8/apply"
+    },
+    {
+      "id": "d1d6f41e2dcb",
+      "company": "Nubank",
+      "title": "AI Core PhD Research Intern",
+      "location": "Palo Alto, CA",
+      "country": "United States",
+      "date_found": "2026-10-19",
+      "source": "Simplify",
+      "url": "https://jobs.ashbyhq.com/nubank/3835ec58-5e5a-4bd4-a076-4a8f89490011/application?embed=true"
+    },
+    {
+      "id": "bf0c520dbcd2",
+      "company": "NetApp",
+      "title": "Software Engineer Intern",
+      "location": "Wichita, KS",
+      "country": "United States",
+      "date_found": "2026-10-19",
+      "source": "Simplify",
+      "url": "https://jobs.netapp.com/job/Wichita-Software-Engineer-Intern-KS-67208/1441378400/?ats=successfactors"
+    },
+    {
+      "id": "6f9884963eff",
+      "company": "Navy Federal",
+      "title": "AI Engineering Intern",
+      "location": "Vienna, VA",
+      "country": "United States",
+      "date_found": "2026-10-19",
+      "source": "Simplify",
+      "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32645"
+    },
+    {
+      "id": "fff75786e5da",
+      "company": "Meta",
+      "title": "Research Scientist Intern - Smart Glasses in Wearables AI",
+      "location": "Burlingame, CA",
+      "country": "United States",
+      "date_found": "2026-10-19",
+      "source": "Simplify",
+      "url": "https://www.metacareers.com/jobs/1584033410435097"
+    },
+    {
+      "id": "7f3824eb82fb",
+      "company": "Meta",
+      "title": "Research Scientist Intern - On-Device AI Model Optimization",
+      "location": "Burlingame, CA",
+      "country": "United States",
+      "date_found": "2026-10-19",
+      "source": "Simplify",
+      "url": "https://www.metacareers.com/jobs/4455569504707135"
+    },
+    {
+      "id": "1c0b0f5ec067",
+      "company": "Meta",
+      "title": "Optical Engineering AI and Data Analytics Intern",
+      "location": "Sunnyvale, CA",
+      "country": "United States",
+      "date_found": "2026-10-19",
+      "source": "Simplify",
+      "url": "https://www.metacareers.com/jobs/1851348099357899"
+    },
+    {
+      "id": "ac1d6e2a40b9",
+      "company": "Meta",
+      "title": "Research Scientist Intern - Robotics Hardware",
+      "location": "Redmond, WA",
+      "country": "United States",
+      "date_found": "2026-10-19",
+      "source": "Simplify",
+      "url": "https://www.metacareers.com/jobs/2105411693413958"
+    },
+    {
+      "id": "642fa6d8d5bc",
+      "company": "Meta",
+      "title": "Research Scientist Intern - 3D-grounded Generalist Model for Robotics",
+      "location": "Redmond, WA",
+      "country": "United States",
+      "date_found": "2026-10-19",
+      "source": "Simplify",
+      "url": "https://www.metacareers.com/jobs/2267351860492630"
+    },
+    {
+      "id": "12e7da1753e2",
+      "company": "Meta",
+      "title": "Research Scientist Intern - Multimodal LLM and Speech-to-Speech Translation - PhD",
+      "location": "Redmond, WA",
+      "country": "United States",
+      "date_found": "2026-10-19",
+      "source": "Simplify",
+      "url": "https://www.metacareers.com/jobs/4723409617931131"
+    },
+    {
+      "id": "cc26e038d1d1",
+      "company": "Marvell",
+      "title": "AI Data Science Intern",
+      "location": "Santa Clara, CA",
+      "country": "United States",
+      "date_found": "2026-10-19",
+      "source": "Simplify",
+      "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/AI-Data-Science-Intern--MS---Summer-2027_2603846"
+    },
+    {
+      "id": "a1940f443d7b",
+      "company": "Manulife Financial",
+      "title": "AI Intern - AI",
+      "location": "Toronto, ON, Canada",
+      "country": "Canada",
+      "date_found": "2026-10-19",
+      "source": "Simplify",
+      "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Summer-Intern-2027---AI_JR26081688-1"
+    },
+    {
+      "id": "a03f29411f56",
+      "company": "Keysight Technologies",
+      "title": "Optical Design Software & Automation Engineer Intern",
+      "location": "Pasadena, CA",
+      "country": "United States",
+      "date_found": "2026-10-19",
+      "source": "Simplify",
+      "url": "https://jobs.keysight.com/jobs/54614?icims=1"
+    },
+    {
+      "id": "10d4d63ebbf1",
+      "company": "Keysight Technologies",
+      "title": "Photonics Design Software & Automation Engineer Intern",
+      "location": "Pasadena, CA",
+      "country": "United States",
+      "date_found": "2026-10-19",
+      "source": "Simplify",
+      "url": "https://jobs.keysight.com/jobs/54619?icims=1"
+    },
+    {
+      "id": "06579f39f801",
+      "company": "Keysight Technologies",
+      "title": "R&D Hardware Engineer Intern",
+      "location": "Santa Clara, CA",
+      "country": "United States",
+      "date_found": "2026-10-19",
+      "source": "Simplify",
+      "url": "https://jobs.keysight.com/jobs/54804?icims=1"
+    },
+    {
+      "id": "a3d705497b92",
+      "company": "Inversion Space",
+      "title": "AI & Internal Tools Software Engineer Intern",
+      "location": "Playa Vista, LA",
+      "country": "United States",
+      "date_found": "2026-10-19",
+      "source": "Simplify",
+      "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4745076005"
+    },
+    {
+      "id": "175f4422fa3a",
+      "company": "Inversion Space",
+      "title": "Vehicle Software Engineer Intern",
+      "location": "Playa Vista, LA",
+      "country": "United States",
+      "date_found": "2026-10-19",
+      "source": "Simplify",
+      "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4745083005"
+    },
+    {
+      "id": "ab6a2c0e75d1",
+      "company": "Intel",
+      "title": "Software Applications Engineering PhD Intern",
+      "location": "Hillsboro, OR",
+      "country": "United States",
+      "date_found": "2026-10-19",
+      "source": "Simplify",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Cloud-Analytics---Application-PhD-Intern_JR0288170"
+    },
+    {
+      "id": "595437599af2",
+      "company": "Highmark Health",
+      "title": "Data Science Research and Development Graduate Intern",
+      "location": "New Mexico",
+      "country": "United States",
+      "date_found": "2026-10-19",
+      "source": "Simplify",
+      "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Data-Science-R-D-Graduate-Intern_J287175"
+    },
+    {
+      "id": "8119e5b654e1",
+      "company": "HeyGen",
+      "title": "Software Engineer Intern",
+      "location": "Toronto, ON, Canada",
+      "country": "Canada",
+      "date_found": "2026-10-19",
+      "source": "Simplify",
+      "url": "https://job-boards.greenhouse.io/heygen/jobs/4540716007"
+    },
+    {
+      "id": "12177a97b866",
+      "company": "Heron Power",
+      "title": "Firmware Engineer Intern",
+      "location": "Scotts Valley, CA",
+      "country": "United States",
+      "date_found": "2026-10-19",
+      "source": "Simplify",
+      "url": "http://jobs.ashbyhq.com/heron-power/5dbf22e3-41ba-40de-b428-6fab9934d6da/application?embed=true"
+    },
+    {
+      "id": "23e26afa3a22",
+      "company": "GM financial",
+      "title": "Portfolio Analytics Intern",
+      "location": "Fort Worth, TX",
+      "country": "United States",
+      "date_found": "2026-10-19",
+      "source": "Simplify",
+      "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260773"
+    },
+    {
+      "id": "1d7d9c1688da",
+      "company": "GlobalFoundries",
+      "title": "AI/ML Systems Engineering Intern",
+      "location": "Richardson, TX",
+      "country": "United States",
+      "date_found": "2026-10-19",
+      "source": "Simplify",
+      "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/AI-ML-Systems-Engineering-Intern--Summer-2027-_JR-2604051"
+    },
+    {
+      "id": "50dcef289c56",
+      "company": "General Dynamics Information Technology",
+      "title": "Software Developer Intern",
+      "location": "Egg Harbor Township, NJ",
+      "country": "United States",
+      "date_found": "2026-10-19",
+      "source": "Simplify",
+      "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-NJ-Egg-Harbor-Township/GDIT-Summer-Internship-Program---Summer-2027-Software-Development-Internship--_RQ230643"
+    },
+    {
+      "id": "be630d56d07b",
+      "company": "Creative Artists Agency",
+      "title": "Data Analytics Intern",
+      "location": "Denver, CO",
+      "country": "United States",
+      "date_found": "2026-10-19",
+      "source": "Simplify",
+      "url": "https://caa.wd1.myworkdayjobs.com/en-US/Careers/job/Denver-CO/CAA-ICON-Data-Analytics-Intern---Summer-2027--Denver--CO-_JR9391"
+    },
+    {
+      "id": "1dc9353260be",
+      "company": "Cognex",
+      "title": "Software Engineer Intern",
+      "location": "Wauwatosa, WI",
+      "country": "United States",
+      "date_found": "2026-10-19",
+      "source": "Simplify",
+      "url": "https://cognex.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/Wauwatosa-Wisconsin/Software-Engineering-Intern_R0012549"
+    },
+    {
+      "id": "7dff77e1ecc1",
+      "company": "Citco",
+      "title": "Software Engineer Intern",
+      "location": "Toronto, ON, Canada",
+      "country": "Canada",
+      "date_found": "2026-10-19",
+      "source": "Simplify",
+      "url": "https://fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/18964"
+    },
+    {
+      "id": "46061acac326",
+      "company": "Ciena",
+      "title": "Services Business Intelligence & Analytics Intern",
+      "location": "Montreal, QC, Canada",
+      "country": "Canada",
+      "date_found": "2026-10-19",
+      "source": "Simplify",
+      "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Montreal/Services-Business-Intelligence---Analytics-Intern_R031851"
+    },
+    {
+      "id": "32c372e395a6",
+      "company": "Braze",
+      "title": "Software Engineer Intern",
+      "location": "NYC",
+      "country": "United States",
+      "date_found": "2026-10-19",
+      "source": "Simplify",
+      "url": "https://job-boards.greenhouse.io/braze/jobs/8301086"
+    },
+    {
+      "id": "d0165734fa7f",
+      "company": "Autodesk",
+      "title": "Software Engineer Intern",
+      "location": "Cambridge, UK",
+      "country": "United Kingdom",
+      "date_found": "2026-10-19",
+      "source": "Simplify",
+      "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Cambridge-GBR/Intern--Software-Engineer_26WD101105"
+    },
+    {
+      "id": "ebd4a527a2b0",
+      "company": "Autodesk",
+      "title": "Research Intern - Context and Knowledge Systems for AI",
+      "location": "Remote in UK",
+      "country": "United States",
+      "date_found": "2026-10-19",
+      "source": "Simplify",
+      "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/United-Kingdom---Remote/Intern--Research---Context-and-Knowledge-Systems-for-AI_26WD101097-2"
+    },
+    {
+      "id": "5dfb1ae1c72c",
+      "company": "Amplify",
+      "title": "AI Scientist Intern",
+      "location": "Remote in USA",
+      "country": "United States",
+      "date_found": "2026-10-19",
+      "source": "Simplify",
+      "url": "https://jobs.ashbyhq.com/amplify/bb45b7f6-dd7e-40e5-84e6-52e21650a7b8/application?embed=true"
+    },
+    {
+      "id": "dd832327bd46",
+      "company": "Amplify",
+      "title": "Software Engineer Intern",
+      "location": "Remote in USA",
+      "country": "United States",
+      "date_found": "2026-10-19",
+      "source": "Simplify",
+      "url": "https://jobs.ashbyhq.com/amplify/855d22a3-f15e-49f6-854c-29e505653efa/application?embed=true"
+    },
+    {
+      "id": "846f218c8fdf",
+      "company": "Amplify",
+      "title": "Data Analytics Intern",
+      "location": "Remote in USA",
+      "country": "United States",
+      "date_found": "2026-10-19",
+      "source": "Simplify",
+      "url": "https://jobs.ashbyhq.com/amplify/7b859cc1-1354-43c5-bbd4-0571e85f7c51/application?embed=true"
+    },
+    {
+      "id": "c8d06a0ec3e4",
+      "company": "American Fidelity",
+      "title": "Software Developer Intern",
+      "location": "Oklahoma City, OK",
+      "country": "United States",
+      "date_found": "2026-10-19",
+      "source": "Simplify",
+      "url": "https://americanfidelity.wd5.myworkdayjobs.com/External/job/Oklahoma-City-Oklahoma/Software-Developer-Innovation-Internship_JR1118"
     },
     {
       "id": "e4a49e598340",
@@ -1072,16 +1712,6 @@
       "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Intern--Firmware-Engineering_R26-7922-1"
     },
     {
-      "id": "8f164e5b557a",
-      "company": "Nutanix",
-      "title": "Support Analytics & Operations Intern",
-      "location": "Durham, NC",
-      "country": "United States",
-      "date_found": "2026-10-16",
-      "source": "Simplify",
-      "url": "https://jobs.jobvite.com/nutanix/job/oqjOAfwR?nl=1&nl=1&fr=false"
-    },
-    {
       "id": "b4c01c9e44d2",
       "company": "Northrop Grumman",
       "title": "Software Engineering Intern",
@@ -1192,26 +1822,6 @@
       "url": "https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/Boston-Massachusetts/Quantitative-Intern---Portfolio-Engineering-and-Analytics_R-15665-1"
     },
     {
-      "id": "08ebda40a827",
-      "company": "Inversion Space",
-      "title": "Avionics Embedded Software Engineer Intern",
-      "location": "Playa Vista, LA",
-      "country": "United States",
-      "date_found": "2026-10-16",
-      "source": "Simplify",
-      "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4744391005"
-    },
-    {
-      "id": "8b6066b51920",
-      "company": "Impulse Space",
-      "title": "Enterprise Software Engineer Intern",
-      "location": "Redondo Beach, CA",
-      "country": "United States",
-      "date_found": "2026-10-16",
-      "source": "Simplify",
-      "url": "https://impulsespace.pinpointhq.com/en/postings/66981a77-8e79-4050-9818-4ed4209c5579?ats=pinpointhq"
-    },
-    {
       "id": "97946d6a947e",
       "company": "Hilb Group",
       "title": "Benefits Analytics Intern",
@@ -1220,16 +1830,6 @@
       "date_found": "2026-10-16",
       "source": "Simplify",
       "url": "https://hilbgroup.wd5.myworkdayjobs.com/HG-Careers/job/Hunt-Valley-MD/Benefits-Analytics-Intern_JR100866"
-    },
-    {
-      "id": "0cc8a9b52d67",
-      "company": "Healthpeak Properties",
-      "title": "Forward Deployed Software Engineer Intern",
-      "location": "NYC",
-      "country": "United States",
-      "date_found": "2026-10-16",
-      "source": "Simplify",
-      "url": "https://healthpeak.applytojob.com/apply/ss4v1Qi95q/Forward-Deployed-Software-Engineer-Internship"
     },
     {
       "id": "fee2820f4f83",
@@ -1302,16 +1902,6 @@
       "url": "https://bostonscientific.eightfold.ai/careers/job/563602813777926"
     },
     {
-      "id": "e4256cbc2f60",
-      "company": "Boston Scientific",
-      "title": "AI/Data Science Intern",
-      "location": "Maple Grove, MN",
-      "country": "United States",
-      "date_found": "2026-10-16",
-      "source": "Simplify",
-      "url": "https://bostonscientific.eightfold.ai/careers/job/563602813519129"
-    },
-    {
       "id": "e374d963d2fa",
       "company": "Boston Scientific",
       "title": "Electrical Hardware Engineer Intern",
@@ -1340,16 +1930,6 @@
       "date_found": "2026-10-16",
       "source": "Simplify",
       "url": "https://jobs.ashbyhq.com/assorthealth/3d8a2c74-8d0c-40be-9624-afc3678654ee/application?embed=true"
-    },
-    {
-      "id": "24417ac281b7",
-      "company": "Apple",
-      "title": "SoC Machine Learning Software Engineer Intern",
-      "location": "Sunnyvale, CA",
-      "country": "United States",
-      "date_found": "2026-10-16",
-      "source": "Simplify",
-      "url": "https://jobs.apple.com/en-us/details/200689488"
     },
     {
       "id": "268e503e49ca",
@@ -1400,16 +1980,6 @@
       "date_found": "2026-10-16",
       "source": "Simplify",
       "url": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Engineer----Intern_R03320"
-    },
-    {
-      "id": "1a096653ae4f",
-      "company": "AGCO",
-      "title": "Embedded Software Engineer Intern",
-      "location": "Hesston, KS",
-      "country": "United States",
-      "date_found": "2026-10-16",
-      "source": "Simplify",
-      "url": "https://careers.agcocorp.com/job/Hesston-Embedded-Software-Engineering-Intern-Summer-2027-KS-67062/1440993300/?ats=successfactors"
     },
     {
       "id": "bd5ece028e71",
@@ -1632,16 +2202,6 @@
       "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--Onboard-Autonomy--Embodied-AI--Masters-_JR-202622543"
     },
     {
-      "id": "4603889d0c26",
-      "company": "General Motors",
-      "title": "Seam Intern - Embodied AI",
-      "location": "Sunnyvale, CA",
-      "country": "United States",
-      "date_found": "2026-10-15",
-      "source": "Simplify",
-      "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--SEAM--Embodied-AI--Masters-_JR-202622537"
-    },
-    {
       "id": "16fd26eb5ba6",
       "company": "Duolingo",
       "title": "Data Scientist Intern",
@@ -1700,16 +2260,6 @@
       "date_found": "2026-10-15",
       "source": "Simplify",
       "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Wavelogic-Embedded-Software-Developer-Intern--Winter-2027-_R031890"
-    },
-    {
-      "id": "cd2a154d6b70",
-      "company": "Carrier Global",
-      "title": "Software Engineer Intern",
-      "location": "East Syracuse, NY",
-      "country": "United States",
-      "date_found": "2026-10-15",
-      "source": "Simplify",
-      "url": "https://carrier.wd5.myworkdayjobs.com/jobs/job/CANHQ-CCS-HQ---Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Software-Engineering-Intern---Summer_30220161"
     },
     {
       "id": "aa35ce284070",
@@ -1772,6 +2322,16 @@
       "url": "https://lifeattiktok.com/search/7694365861943953717"
     },
     {
+      "id": "8504a459925e",
+      "company": "Skydio",
+      "title": "Software Engineer Intern",
+      "location": "San Mateo, CA",
+      "country": "United States",
+      "date_found": "2026-10-14",
+      "source": "Simplify",
+      "url": "https://jobs.ashbyhq.com/skydio/79fdda46-4ff5-42c7-b208-55f2084cdb8c/application?embed=true"
+    },
+    {
       "id": "c26709009e58",
       "company": "Skydio",
       "title": "Manufacturing Software Engineer Intern",
@@ -1780,16 +2340,6 @@
       "date_found": "2026-10-14",
       "source": "Simplify",
       "url": "https://jobs.ashbyhq.com/skydio/ffc665c1-2aa6-4c2f-b04b-93a6fb7b5feb/application?embed=true"
-    },
-    {
-      "id": "3bc51ff24d99",
-      "company": "RTX",
-      "title": "Electro-Optics Systems Engineer Intern",
-      "location": "Goleta, CA",
-      "country": "United States",
-      "date_found": "2026-10-14",
-      "source": "Simplify",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/Electro-Optics-Systems-Engineer-Intern--Summer-2027-_01880960"
     },
     {
       "id": "ca197858f7f6",
@@ -2020,16 +2570,6 @@
       "date_found": "2026-10-14",
       "source": "Simplify",
       "url": "https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/New-York-City-United-States/Intern---Software-Engineer_R0124266-1"
-    },
-    {
-      "id": "a4dd58c834a6",
-      "company": "L3Harris Technologies",
-      "title": "Associate Software Engineering Intern",
-      "location": "Chantilly, VA",
-      "country": "United States",
-      "date_found": "2026-10-14",
-      "source": "Simplify",
-      "url": "https://jobs.l3harris.com/job/Chantilly-Associate,-Software-Engineering-VA-20151/1439514100/?ats=successfactors"
     },
     {
       "id": "ee5b1d1aad15",
@@ -2382,16 +2922,6 @@
       "url": "https://unitytech.wd1.myworkdayjobs.com/Unity/job/Mountain-View-CA-USA/XMLNAME--Req-6087--Software-Developer_JOBREQ-2615965"
     },
     {
-      "id": "b08bed93f3ac",
-      "company": "Sun Life",
-      "title": "AI Developer Student Intern",
-      "location": "Toronto, ON, Canada",
-      "country": "Canada",
-      "date_found": "2026-10-13",
-      "source": "Simplify",
-      "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/AI-Developer-Co-op_JR00128581-1"
-    },
-    {
       "id": "fe7e6d99ad58",
       "company": "SOTI",
       "title": "Software Developer Intern",
@@ -2640,16 +3170,6 @@
       "date_found": "2026-10-13",
       "source": "Simplify",
       "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Research-Scientist-Intern---Coating-Characterization_2642033-2"
-    },
-    {
-      "id": "06579f39f801",
-      "company": "Keysight Technologies",
-      "title": "R&D Hardware Engineer Intern",
-      "location": "Santa Rosa, CA",
-      "country": "United States",
-      "date_found": "2026-10-13",
-      "source": "Simplify",
-      "url": "https://jobs.keysight.com/jobs/54670?icims=1"
     },
     {
       "id": "82c3c92a05f8",
@@ -3062,16 +3582,6 @@
       "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154992819"
     },
     {
-      "id": "a53ee3893eeb",
-      "company": "AtkinsR\u00e9alis",
-      "title": "Software Developer Intern",
-      "location": "Denver, CO",
-      "country": "United States",
-      "date_found": "2026-10-12",
-      "source": "Simplify",
-      "url": "https://slihrms.wd3.myworkdayjobs.com/careers/job/USCODenver/Software-Developer-Intern---Summer-2027_R-161580-1"
-    },
-    {
       "id": "0d5a75347eed",
       "company": "Ascension",
       "title": "Integrated Participant Solutions Analytics Intern",
@@ -3160,6 +3670,16 @@
       "date_found": "2026-10-10",
       "source": "Simplify",
       "url": "https://lifeattiktok.com/search/7670689681491364101"
+    },
+    {
+      "id": "014b0044558c",
+      "company": "Meter",
+      "title": "Hardware Engineer Intern",
+      "location": "SF",
+      "country": "United States",
+      "date_found": "2026-10-10",
+      "source": "Simplify",
+      "url": "https://jobs.ashbyhq.com/meter/a5f1e4c3-2930-4933-ab38-8f600486494b/application?embed=true"
     },
     {
       "id": "a36fcc5f0309",
@@ -3392,6 +3912,16 @@
       "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Data-Scaling--Embodied-AI_JR-202622132"
     },
     {
+      "id": "4603889d0c26",
+      "company": "General Motors",
+      "title": "Seam Intern - Embodied AI",
+      "location": "Sunnyvale, CA",
+      "country": "United States",
+      "date_found": "2026-10-09",
+      "source": "Simplify",
+      "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--SEAM--Embodied-AI_JR-202622143"
+    },
+    {
       "id": "a44189d7e9b0",
       "company": "GCM Grosvenor",
       "title": "Software Engineer Intern",
@@ -3430,16 +3960,6 @@
       "date_found": "2026-10-09",
       "source": "Simplify",
       "url": "https://elanco.wd5.myworkdayjobs.com/en-US/External_Career/job/Indianapolis-IN/US-Pet-Health-Sales-Excellence-Intern---AI-Innovation---Enablement--Summer-2027-_R0027467"
-    },
-    {
-      "id": "67f42ef81d30",
-      "company": "Denver",
-      "title": "Data Analytics College Intern - Analytics and Innovation",
-      "location": "Denver, CO",
-      "country": "United States",
-      "date_found": "2026-10-09",
-      "source": "Simplify",
-      "url": "https://denver.wd1.myworkdayjobs.com/CCD-denver-denvergov-CSC_Jobs-Civil_service_jobs-Police_Jobs-Fire_Jobs/job/Denver-International-Airport/Data-Analytics-and-Innovation-College-Internship---Analytics-and-Innovation---Denver-International-Airport--4-months-_R0083221-1"
     },
     {
       "id": "f1eeb6afc4df",
@@ -3772,16 +4292,6 @@
       "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4962456101"
     },
     {
-      "id": "fef12ca3db33",
-      "company": "Humanoid",
-      "title": "Spatial AI and Navigation Intern - Spatial AI and Navigation",
-      "location": "London, UK",
-      "country": "United Kingdom",
-      "date_found": "2026-10-08",
-      "source": "Simplify",
-      "url": "https://jobs.ashbyhq.com/humanoid/72741997-0fbc-413c-88a8-a273272641d1/application?embed=true"
-    },
-    {
       "id": "6b46ef3894c7",
       "company": "Hitachi Energy",
       "title": "Software Analyst Intern",
@@ -4050,6 +4560,16 @@
       "date_found": "2026-10-07",
       "source": "Simplify",
       "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--AI-Aided-Engineering---2027_JR2026940"
+    },
+    {
+      "id": "614123af120f",
+      "company": "Nordson",
+      "title": "Electrical Engineer Intern",
+      "location": "East Providence, RI",
+      "country": "United States",
+      "date_found": "2026-10-07",
+      "source": "Simplify",
+      "url": "https://nordsonhcm.wd501.myworkdayjobs.com/nordsoncareers/job/USA---Rhode-Island---East-Providence/Electrical-Engineering-Intern_REQ53005"
     },
     {
       "id": "2737b770729b",
@@ -4562,16 +5082,6 @@
       "url": "https://www.kkr.com/careers/student-careers/student-career-opportunities/post?gh_jid=6200944004"
     },
     {
-      "id": "b35f3f1cc852",
-      "company": "Keysight Technologies",
-      "title": "R&D Software Engineer Intern",
-      "location": "Colorado Springs, CO",
-      "country": "United States",
-      "date_found": "2026-10-06",
-      "source": "Simplify",
-      "url": "https://jobs.keysight.com/jobs/54724?icims=1"
-    },
-    {
       "id": "f103284e15e9",
       "company": "Keysight Technologies",
       "title": "Enterprise Software Development Intern - EDA Tools",
@@ -4992,26 +5502,6 @@
       "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Data-Scientist--Intern--Jan-2027-12-Months-_R10571"
     },
     {
-      "id": "f4e29e6d962f",
-      "company": "Royal Bank of Canada",
-      "title": "AI Developer Intern - Innovation & AI Center of Excellence",
-      "location": "Toronto, ON, Canada",
-      "country": "Canada",
-      "date_found": "2026-10-05",
-      "source": "Simplify",
-      "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--AI-Developer-Intern---Innovation---AI-Center-of-Excellence--4-Months-_R-0000188001"
-    },
-    {
-      "id": "7df5105661a8",
-      "company": "Royal Bank of Canada",
-      "title": "AI Developer Intern - Grm - Innovation & AI Center of Excellence",
-      "location": "Toronto, ON, Canada",
-      "country": "Canada",
-      "date_found": "2026-10-05",
-      "source": "Simplify",
-      "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--AI-Developer-Intern---Innovation---AI-Center-of-Excellence--4-Months-_R-0000188001-1"
-    },
-    {
       "id": "02d2223f77bf",
       "company": "Rivian",
       "title": "Software Engineer Intern Co-op - Embedded Software",
@@ -5030,16 +5520,6 @@
       "date_found": "2026-10-05",
       "source": "Simplify",
       "url": "https://quantumsignalai.applytojob.com/apply/MWrhQD8Hn9/Software-Engineering-Intern-Tools-And-Prototypes"
-    },
-    {
-      "id": "814d424f3dbb",
-      "company": "NVIDIA",
-      "title": "Software Engineer Intern",
-      "location": "Santa Clara, CA",
-      "country": "United States",
-      "date_found": "2026-10-05",
-      "source": "Simplify",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Software-Engineering_JR2026958"
     },
     {
       "id": "78acc43ab911",
@@ -5302,36 +5782,6 @@
       "url": "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Electronics-Hardware-Design-Intern_R2026-3941"
     },
     {
-      "id": "a02679592a3d",
-      "company": "Autodesk",
-      "title": "PhD Researcher Intern - Machine Learning for Construction",
-      "location": "Boston, MA",
-      "country": "United States",
-      "date_found": "2026-10-05",
-      "source": "Simplify",
-      "url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Boston-MA-USA/Phd-Researcher--Machine-Learning-for-Construction_26WD101430"
-    },
-    {
-      "id": "ad45290e8344",
-      "company": "Autodesk",
-      "title": "Research Intern - Multimodal AI for Human Experience",
-      "location": "Boston, MA",
-      "country": "United States",
-      "date_found": "2026-10-05",
-      "source": "Simplify",
-      "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Boston-MA-USA/PhD-Researcher--Multimodal-AI-for-Human-Experience_26WD101433-1"
-    },
-    {
-      "id": "fc89d4c9918a",
-      "company": "Autodesk",
-      "title": "Researcher Intern - Machine Learning for Construction",
-      "location": "Boston, MA",
-      "country": "United States",
-      "date_found": "2026-10-05",
-      "source": "Simplify",
-      "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Boston-MA-USA/Phd-Researcher--Machine-Learning-for-Construction_26WD101430-1"
-    },
-    {
       "id": "0b4e7941d020",
       "company": "Atoms",
       "title": "Electrical Engineer Intern",
@@ -5340,16 +5790,6 @@
       "date_found": "2026-10-05",
       "source": "Simplify",
       "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8869098002"
-    },
-    {
-      "id": "ed6e46ae941c",
-      "company": "Atoms",
-      "title": "Machine Learning Engineer Intern",
-      "location": "SF",
-      "country": "United States",
-      "date_found": "2026-10-05",
-      "source": "Simplify",
-      "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8869106002"
     },
     {
       "id": "f6fb825fa26b",
@@ -6312,16 +6752,6 @@
       "url": "https://cswg.wd1.myworkdayjobs.com/cs_careers/job/Houston-TX/IS-Internship---Web-Applications_R-268964"
     },
     {
-      "id": "4ff71d02b7d6",
-      "company": "Autodesk",
-      "title": "AI Data Developer Intern - Winter",
-      "location": "Toronto, ON, Canada",
-      "country": "Canada",
-      "date_found": "2026-10-01",
-      "source": "Simplify",
-      "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Intern--AI-Data-Developer--Winter-_26WD101082-1"
-    },
-    {
       "id": "bac38e3fbf44",
       "company": "Autodesk",
       "title": "Software Development Intern",
@@ -6330,16 +6760,6 @@
       "date_found": "2026-10-01",
       "source": "Simplify",
       "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Software-Development-Internship--Summer-2027-_26WD101436-1"
-    },
-    {
-      "id": "6d730a447088",
-      "company": "Autodesk",
-      "title": "AI/ML Platform Intern",
-      "location": "Toronto, ON, Canada",
-      "country": "Canada",
-      "date_found": "2026-10-01",
-      "source": "Simplify",
-      "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Intern--AI-ML-Platform--Winter-_26WD101061-1"
     },
     {
       "id": "31f822bc440d",
@@ -6752,26 +7172,6 @@
       "url": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Cary-North-Carolina/XMLNAME-2027-Summer-Internship---Machine-Learning-Engineer_REQ-12800"
     },
     {
-      "id": "db3b1570e5cf",
-      "company": "Perchwell",
-      "title": "Software Engineer Intern",
-      "location": "NYC",
-      "country": "United States",
-      "date_found": "2026-09-29",
-      "source": "Simplify",
-      "url": "https://jobs.ashbyhq.com/Perchwell/194eec78-26db-4d8e-850f-a99ea2733e9f/application?embed=true"
-    },
-    {
-      "id": "7100f7be8922",
-      "company": "Perchwell",
-      "title": "Data Analytics Engineering Intern",
-      "location": "NYC",
-      "country": "United States",
-      "date_found": "2026-09-29",
-      "source": "Simplify",
-      "url": "https://jobs.ashbyhq.com/Perchwell/9d34fc9d-e235-44fc-bdf9-42e75223839a/application?embed=true"
-    },
-    {
       "id": "7f61b2c3605b",
       "company": "NVIDIA",
       "title": "PhD Research Intern - AI Accelerator Design and VLSI",
@@ -6800,16 +7200,6 @@
       "date_found": "2026-09-29",
       "source": "Simplify",
       "url": "https://jobs.lever.co/neighbor/b5f73774-1d5a-4edc-a184-d1734731cd9c/apply"
-    },
-    {
-      "id": "55a887c62d53",
-      "company": "Moog",
-      "title": "Software Engineer Intern",
-      "location": "Torrance, CA",
-      "country": "United States",
-      "date_found": "2026-09-29",
-      "source": "Simplify",
-      "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Torrance-CA/Intern--Software-Engineering_R-26-19948"
     },
     {
       "id": "5d8e3622286e",
@@ -7802,6 +8192,16 @@
       "url": "https://jobs.ashbyhq.com/brightstar-ai/a72ffc7e-38ba-4d7c-8d08-cac6b9974024/application?embed=true"
     },
     {
+      "id": "23cd375850a9",
+      "company": "Boston Scientific",
+      "title": "Software Engineer Intern - R&D",
+      "location": "Arden Hills, MN",
+      "country": "United States",
+      "date_found": "2026-09-24",
+      "source": "Simplify",
+      "url": "https://bostonscientific.eightfold.ai/careers/job/563602813542900"
+    },
+    {
       "id": "412cb0ccaf5f",
       "company": "Astranis",
       "title": "FPGA Intern - Winter 2027",
@@ -8582,16 +8982,6 @@
       "url": "https://emcins.wd5.myworkdayjobs.com/EMC_Internships/job/Iowa/Intern---Software-Engineering_R6557"
     },
     {
-      "id": "181dbc303b94",
-      "company": "Electronic Arts",
-      "title": "Analytics Intern",
-      "location": "Orlando, FL",
-      "country": "United States",
-      "date_found": "2026-09-22",
-      "source": "Simplify",
-      "url": "https://jobs.ea.com/en_US/careers/JobDetail/Analytics-Intern/216252"
-    },
-    {
       "id": "704573f9fc40",
       "company": "Electronic Arts",
       "title": "AI Engineer Intern - Creative Innovations - Character Pipelines",
@@ -8942,16 +9332,6 @@
       "url": "https://careers.amd.com/jobs/90910?icims=1"
     },
     {
-      "id": "614123af120f",
-      "company": "Nordson",
-      "title": "Electrical Engineer Intern",
-      "location": "Minneapolis, MN",
-      "country": "United States",
-      "date_found": "2026-09-20",
-      "source": "Simplify",
-      "url": "https://nordsonhcm.wd501.myworkdayjobs.com/nordsoncareers/job/USA---Minnesota---Minneapolis---5900-Golden-Hills-Drive/Electrical-Engineering-Intern_REQ52913"
-    },
-    {
       "id": "c595ec6abc57",
       "company": "Bot Auto",
       "title": "Software Engineer Intern - AI Agents",
@@ -9190,16 +9570,6 @@
       "date_found": "2026-09-18",
       "source": "Simplify",
       "url": "https://micron.wd1.myworkdayjobs.com/External/job/Minneapolis-MN/Intern---ASIC-Digital-Design_JR112163"
-    },
-    {
-      "id": "d1d54ec25238",
-      "company": "MetOx International",
-      "title": "Data Science Intern - Spring 2027",
-      "location": "Houston, TX",
-      "country": "United States",
-      "date_found": "2026-09-18",
-      "source": "Simplify",
-      "url": "https://job-boards.greenhouse.io/metoxinternationalinc/jobs/5427064008"
     },
     {
       "id": "aa83789cabe6",
@@ -9560,16 +9930,6 @@
       "date_found": "2026-09-17",
       "source": "Simplify",
       "url": "https://uscareers-lennox.icims.com/jobs/54888/job?mobile=true&needsRedirect=false"
-    },
-    {
-      "id": "43a457ab6184",
-      "company": "Keysight Technologies",
-      "title": "Software Engineer Intern - R&D",
-      "location": "Colorado Springs, CO",
-      "country": "United States",
-      "date_found": "2026-09-17",
-      "source": "Simplify",
-      "url": "https://jobs.keysight.com/jobs/54327?icims=1"
     },
     {
       "id": "a72c2139fe82",
@@ -11130,16 +11490,6 @@
       "date_found": "2026-09-14",
       "source": "Simplify",
       "url": "https://jobs.ashbyhq.com/cyvl/3590960d-4d02-48bb-a335-cb82e121a01e/application?embed=true"
-    },
-    {
-      "id": "84c23ee05579",
-      "company": "CSC Generation",
-      "title": "Software Engineer Intern/Part Time - Legacy Applications & Modernization",
-      "location": "Houston, TX",
-      "country": "United States",
-      "date_found": "2026-09-14",
-      "source": "Simplify",
-      "url": "https://jobs.lever.co/cscgeneration-2/3a04b45f-a2eb-438a-a8ac-b07324223813/apply"
     },
     {
       "id": "823d6ace6e1f",
@@ -12752,6 +13102,16 @@
       "url": "https://www.american-equity.com/about/careers/openings?gh_jid=5233724007"
     },
     {
+      "id": "eb9ae8206de9",
+      "company": "Allegion",
+      "title": "Firmware Engineer Intern",
+      "location": "Indianapolis, IN",
+      "country": "United States",
+      "date_found": "2026-09-09",
+      "source": "Simplify",
+      "url": "https://allegion.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Firmware-Engineer_JR37333-1"
+    },
+    {
       "id": "0b74bb668481",
       "company": "Viam",
       "title": "Software Engineer Intern",
@@ -12810,6 +13170,26 @@
       "date_found": "2026-09-08",
       "source": "Simplify",
       "url": "https://twosigma.avature.net/careers/JobDetail/14016"
+    },
+    {
+      "id": "6c8adc262d29",
+      "company": "Trimble",
+      "title": "Software Engineer Intern",
+      "location": "Dayton, OH",
+      "country": "United States",
+      "date_found": "2026-09-08",
+      "source": "Simplify",
+      "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Software-Engineering-Intern_R57676"
+    },
+    {
+      "id": "c39569b500e6",
+      "company": "Trimble",
+      "title": "Hardware/Software Testing Intern",
+      "location": "Dayton, OH",
+      "country": "United States",
+      "date_found": "2026-09-08",
+      "source": "Simplify",
+      "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Hardware-Software-Testing-Intern_R57677-1"
     },
     {
       "id": "036d3e12f104",
@@ -13310,16 +13690,6 @@
       "date_found": "2026-09-08",
       "source": "Simplify",
       "url": "https://allegion.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Hardware-Engineer--Advanced-Development-_JR37459-1"
-    },
-    {
-      "id": "eb9ae8206de9",
-      "company": "Allegion",
-      "title": "Firmware Engineer Intern",
-      "location": "Farmington, CT",
-      "country": "United States",
-      "date_found": "2026-09-08",
-      "source": "Simplify",
-      "url": "https://allegion.wd5.myworkdayjobs.com/careers/job/Farmington-CT/Firmware-Engineer-Intern_JR37449-1"
     },
     {
       "id": "db0868d4bc55",
@@ -13942,16 +14312,6 @@
       "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Folsom-CA/Software-Engineering-Intern--Summer-2027-_R0030761-1"
     },
     {
-      "id": "cf34fa500cda",
-      "company": "Sierra Nevada Corporation",
-      "title": "Software Engineer Intern - Summer 2027",
-      "location": "Lone Tree, CO",
-      "country": "United States",
-      "date_found": "2026-09-03",
-      "source": "Simplify",
-      "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineering-Intern--Summer-2027-_R0030757"
-    },
-    {
       "id": "b45d8e4b11f5",
       "company": "Shure",
       "title": "Automated Test Engineer Intern - Hardware",
@@ -14472,14 +14832,14 @@
       "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Weston-Florida/Electrical-Engineering-Intern---Weston--FL_R572740"
     },
     {
-      "id": "e8ae61224f1b",
-      "company": "Panasonic Holdings",
-      "title": "Data Engineering Intern",
-      "location": "Bridgeton, MO",
+      "id": "9f7a276cbf2d",
+      "company": "Northrop Grumman",
+      "title": "Software Engineer Intern",
+      "location": "Linthicum Heights, MD",
       "country": "United States",
       "date_found": "2026-09-02",
       "source": "Simplify",
-      "url": "https://careers.na.panasonic.com/jobs/50772?icims=1"
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Software-Engineer-Intern---Linthicum-Maryland_R10248910"
     },
     {
       "id": "ff151dac1253",
@@ -14842,16 +15202,6 @@
       "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342550"
     },
     {
-      "id": "347d0748e7da",
-      "company": "Textron",
-      "title": "Software Engineer Intern - Sea Systems",
-      "location": "Hunt Valley, Cockeysville, MD",
-      "country": "United States",
-      "date_found": "2026-09-01",
-      "source": "Simplify",
-      "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342935"
-    },
-    {
       "id": "45ca38e9b561",
       "company": "Textron",
       "title": "Software Engineer Intern - Crewed Land",
@@ -15202,16 +15552,6 @@
       "url": "https://jobs.lever.co/hermeus/445db430-6f81-41cf-847a-56a947afb936/apply"
     },
     {
-      "id": "14cd5120799d",
-      "company": "Grass Valley",
-      "title": "Software Development Intern",
-      "location": "Montreal, QC, Canada",
-      "country": "Canada",
-      "date_found": "2026-09-01",
-      "source": "Simplify",
-      "url": "https://grassvalley.applytojob.com/apply/8vAlbSBZpB/Stagiaire-Dveloppement-De-Logiciel-Intern-Software-Development"
-    },
-    {
       "id": "0f955d69938e",
       "company": "Geotab",
       "title": "Vehicle Systems Engineering Intern - Winter/January 2027 - 4, 8 Months",
@@ -15370,16 +15710,6 @@
       "date_found": "2026-09-01",
       "source": "Simplify",
       "url": "https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---Seattle/Gen-AI-Intern_R12193"
-    },
-    {
-      "id": "4f9021e08287",
-      "company": "Clarios",
-      "title": "IT Digital/AI Intern - Summer 2027",
-      "location": "Milwaukee, WI",
-      "country": "United States",
-      "date_found": "2026-09-01",
-      "source": "Simplify",
-      "url": "https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Wisconsin-Milwaukee/IT-Digital-AI-Intern--Summer-2027-_WD49910"
     },
     {
       "id": "77d5ec114529",
@@ -16120,16 +16450,6 @@
       "date_found": "2026-08-31",
       "source": "Simplify",
       "url": "https://nebraskablue.wd1.myworkdayjobs.com/BCBSNE/job/Omaha-NE/Data-Intern--Summer-2027_JR101406"
-    },
-    {
-      "id": "9c453e17074e",
-      "company": "Arch Capital Group",
-      "title": "Data and Analytics Intern",
-      "location": "Farmington, CT",
-      "country": "United States",
-      "date_found": "2026-08-31",
-      "source": "Simplify",
-      "url": "https://archgroup.wd1.myworkdayjobs.com/careers/job/Farmington-CT-United-States-of-America/Data-and-Analytics-Intern_R26_845"
     },
     {
       "id": "9cc9438fea39",
@@ -19222,26 +19542,6 @@
       "url": "https://www.tesla.com/careers/search/job/278630"
     },
     {
-      "id": "ec94b2c1af23",
-      "company": "PNC Financial Services",
-      "title": "Data and Analytics Intern - Modeling",
-      "location": "Pittsburgh, PA",
-      "country": "United States",
-      "date_found": "2026-08-04",
-      "source": "Simplify",
-      "url": "https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Data--Modeling--and-Analytics-Undergraduate-Intern_R231526-1"
-    },
-    {
-      "id": "fdad64d5489d",
-      "company": "NBT Bank",
-      "title": "Data Warehouse & Analytics Intern",
-      "location": "Williamsville, NY",
-      "country": "United States",
-      "date_found": "2026-08-04",
-      "source": "Simplify",
-      "url": "https://nbtbancorp.wd12.myworkdayjobs.com/NBT-B/job/Williamsville-NY/Internship---Data-Warehouse---Analytics-Consultant_JR4868"
-    },
-    {
       "id": "c6940384d5a1",
       "company": "ByteDance",
       "title": "Software Engineer Intern - AI Platform",
@@ -19892,16 +20192,6 @@
       "url": "https://sifive.wd1.myworkdayjobs.com/en-US/sifivecareers/job/Santa-Clara-California-United-States/Intern---Design-Verification-Infrastructure-Engineer---Platform_R-101291-1"
     },
     {
-      "id": "dda09888506d",
-      "company": "Medtronic",
-      "title": "Software Engineer Intern",
-      "location": "Boston, MA",
-      "country": "United States",
-      "date_found": "2026-08-01",
-      "source": "Simplify",
-      "url": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Fridley-Minnesota-United-States-of-America/Software-Engineering-Intern---Summer-2027_R73630"
-    },
-    {
       "id": "5fedfbb23a92",
       "company": "HPR (Hyannis Port Research)",
       "title": "Software Engineer Intern",
@@ -20242,16 +20532,6 @@
       "url": "https://jobs.ashbyhq.com/bild-ai/b333f0f7-0ca6-4509-8697-9303396b5364/application?embed=true"
     },
     {
-      "id": "bb1091194cc3",
-      "company": "Aptura",
-      "title": "Investment Banking Intern - AI Evaluation",
-      "location": "London, UK",
-      "country": "United Kingdom",
-      "date_found": "2026-07-21",
-      "source": "Simplify",
-      "url": "https://jobs.ashbyhq.com/aptura/44d8b5f7-bbb9-434b-8374-7ea1a9426910/application?embed=true"
-    },
-    {
       "id": "e13f7a07192f",
       "company": "GE Healthcare",
       "title": "Engineering Development Program Intern - Hardware",
@@ -20340,16 +20620,6 @@
       "date_found": "2026-07-16",
       "source": "Simplify",
       "url": "https://chevron.wd5.myworkdayjobs.com/University/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027-Information-Technology---Software-Engineer---Intern_R000072398-1"
-    },
-    {
-      "id": "c64a04715aec",
-      "company": "Old Mission",
-      "title": "Software Engineer Intern",
-      "location": "Chicago, IL",
-      "country": "United States",
-      "date_found": "2026-07-15",
-      "source": "Simplify",
-      "url": "https://www.oldmissioncapital.com/careers/?gh_jid=7796180003"
     },
     {
       "id": "93ac159a5727",
@@ -20510,16 +20780,6 @@
       "date_found": "2026-07-13",
       "source": "Simplify",
       "url": "https://www.akunacapital.com/careers/job/8018893/?gh_jid=8018893"
-    },
-    {
-      "id": "ae5dea441d9b",
-      "company": "Akuna Capital University",
-      "title": "Software Engineer Intern - Python",
-      "location": "Chicago, IL",
-      "country": "United States",
-      "date_found": "2026-07-13",
-      "source": "Simplify",
-      "url": "https://www.akunacapital.com/careers/job/8018853/?gh_jid=8018853"
     },
     {
       "id": "037f29a55f84",
@@ -21122,26 +21382,6 @@
       "url": "https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Hub/BLP-Intern---Data-Analytics_2601688"
     },
     {
-      "id": "6dab90a4e81f",
-      "company": "Palantir",
-      "title": "Forward Deployed Software Engineer Intern - Defense Tech",
-      "location": "Washington, DC",
-      "country": "United States",
-      "date_found": "2026-06-16",
-      "source": "Simplify",
-      "url": "https://jobs.lever.co/palantir/cccfe1bd-f15b-4fe5-b044-c793e7961c1b/apply"
-    },
-    {
-      "id": "c5158e47ed3c",
-      "company": "Palantir",
-      "title": "Forward Deployed Software Engineer Intern - US Government",
-      "location": "Washington, DC",
-      "country": "United States",
-      "date_found": "2026-06-16",
-      "source": "Simplify",
-      "url": "https://jobs.lever.co/palantir/e6ff8bf2-135e-474d-ad37-24f490ae1dd2/apply"
-    },
-    {
       "id": "d92b0ac6f318",
       "company": "TikTok",
       "title": "Data Scientist Intern - TikTok Shop User Product DS",
@@ -21240,16 +21480,6 @@
       "date_found": "2026-06-14",
       "source": "Simplify",
       "url": "https://careers.bcg.com/global/en/job/56634"
-    },
-    {
-      "id": "9f7a276cbf2d",
-      "company": "Northrop Grumman",
-      "title": "Software Engineer Intern",
-      "location": "Wright-Patterson AFB, OH",
-      "country": "United States",
-      "date_found": "2026-06-13",
-      "source": "Simplify",
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Wright-Patterson-AFB/Software-Engineer---CLOUDworks--SkillBridge-_R10211395"
     },
     {
       "id": "92fe82d58fc1",
@@ -21850,16 +22080,6 @@
       "date_found": "2026-05-07",
       "source": "Simplify",
       "url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771"
-    },
-    {
-      "id": "8b060a72715f",
-      "company": "Cresta",
-      "title": "Data Science Intern - Customer Success",
-      "location": "Remote in USA",
-      "country": "United States",
-      "date_found": "2026-05-07",
-      "source": "Simplify",
-      "url": "https://job-boards.greenhouse.io/cresta/jobs/5213417008"
     },
     {
       "id": "b9afd37270ad",
