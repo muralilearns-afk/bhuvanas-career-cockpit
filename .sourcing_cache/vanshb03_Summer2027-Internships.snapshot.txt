@@ -21,7 +21,7 @@
 | AMD | Senior Systems Design Engineer Intern | Markham, Canada | 🔒 | Nov 04 |
 | AMD | Software Test Engineering Co-op | Austin, TX | 🔒 | Aug 24 |
 | APEX Analytix | Data Science Intern | Greensboro, NC | 🔒 | Nov 05 |
-| AQR Capital Management | Arbitrage Research Analyst Intern, Arbitrage | Greenwich, CT | <a href="https://go.vansh.nyc/Qr?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
+| AQR Capital Management | Arbitrage Research Analyst Intern, Arbitrage | Greenwich, CT | 🔒 | Aug 25 |
 | ASM | Product Intelligence Engineering Intern, AI/ML | Phoenix, AZ | <a href="https://go.vansh.nyc/1jZ?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | ASML | Data Scientist Intern | Wilton, CT | <a href="https://go.vansh.nyc/1yl?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | ASML | EUV Data Science and Analytics Intern | Austin, TX | <a href="https://go.vansh.nyc/1yZ?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
@@ -50,7 +50,8 @@
 | Adobe | Machine Learning Engineer Intern | <details><summary>**7 locations**</summary>San Jose, CA</br>Waltham, MA</br>San Francisco, CA</br>Austin, TX</br>Seattle, WA</br>Lehi, UT</br>New York, NY</details> | <a href="https://go.vansh.nyc/BO?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 24 |
 | Adobe | Security Engineer Intern | Lehi, UT | <a href="https://go.vansh.nyc/bk?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
 | Adobe | Security Engineer Intern | San Jose, CA | <a href="https://go.vansh.nyc/cM?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 20 |
-| Aechelon Technology | Junior Software Engineer Intern | Overland Park, KS | <a href="https://go.vansh.nyc/1m2?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 13 |
+| Aechelon Technology | Junior Software Engineer Intern | Overland Park, KS | 🔒 | Aug 13 |
+| Aechelon Technology | Junior Software Engineer Intern, RTK | Farmer's Branch, TX | <a href="https://go.vansh.nyc/1m3?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 13 |
 | AeroVect | Autonomy Intern | San Francisco, CA | <a href="https://go.vansh.nyc/18I?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 31 |
 | AeroVironment | Autonomy & Robotics Engineer Intern | <details><summary>**14 locations**</summary>Germantown, MD</br>Dayton, OH</br>Pottstown, PA</br>Albuquerque, NM</br>Sunrise, FL</br>Arlington, VA</br>Melbourne, FL</br>Petaluma, CA</br>Minneapolis, MN</br>Herndon, VA</br>Huntsville, AL</br>San Diego, CA</br>Moorpark, CA</br>Simi Valley, CA</details> | <a href="https://go.vansh.nyc/G2?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 07 |
 | AeroVironment | Embedded Software Engineer Intern | <details><summary>**16 locations**</summary>Dayton, OH</br>Annapolis Junction, MD</br>Pottstown, PA</br>Albuquerque, NM</br>Sunrise, FL</br>Arlington, VA</br>Melbourne, FL</br>Petaluma, CA</br>Centreville, VA</br>Lawrence, KS</br>Minneapolis, MN</br>San Luis Obispo, CA</br>Huntsville, AL</br>San Diego, CA</br>Moorpark, CA</br>Simi Valley, CA</details> | <a href="https://go.vansh.nyc/Ly?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 31 |
@@ -92,6 +93,7 @@
 | Allen Control Systems | Android Developer Intern | Austin, TX | <a href="https://go.vansh.nyc/fK?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | Alliance Laundry Systems | Embedded Firmware Co-op | Ripon, WI | <a href="https://go.vansh.nyc/1nC?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
 | AllianceBernstein | Software Development Intern 🇺🇸 | Nashville, TN | 🔒 | Nov 02 |
+| Allied Consultants | AI/ML Engineer Intern | Austin, TX | <a href="https://go.vansh.nyc/1D1?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | Allison Transmission | IT Security Analyst Intern | Indianapolis, IN | <a href="https://go.vansh.nyc/Hl?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
 | Allstate | Data Analytics Engineer Intern | Remote</br>United States | <a href="https://go.vansh.nyc/fe?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 21 |
 | Allstate | Software Engineer Intern | North Carolina | 🔒 | Oct 19 |
@@ -148,13 +150,14 @@
 | Americo Financial Life and Annuity | Artificial Intelligence Intern | Kansas City, MO | <a href="https://go.vansh.nyc/Qh?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
 | Amperesand | AI/ML Engineer Intern | Sunnyvale, CA | 🔒 | Oct 23 |
 | Amperesand | Technical Program Manager Intern | Reno, NV | 🔒 | Oct 12 |
+| Amperity | Software Development Engineer Intern | Seattle, WA | <a href="https://go.vansh.nyc/1CY?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | Amplify | AI Scientist Intern | Remote in USA | <a href="https://go.vansh.nyc/c5?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
 | Amplify | Product Management Intern | Remote in USA | 🔒 | Oct 19 |
 | AnaVation | Computer Science Intern 🇺🇸 | Chantilly, VA | <a href="https://go.vansh.nyc/1eJ?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
 | AnaVation | Computer Science Intern 🇺🇸 | San Antonio, TX | <a href="https://go.vansh.nyc/1eE?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
 | Analog Devices | Embedded Hardware & Firmware Intern, Health Solutions | Wilmington, MA | <a href="https://go.vansh.nyc/1Bm?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
 | Analog Devices | Embedded Software Engineer Intern | Toronto, Canada</br>Vancouver, Canada | <a href="https://go.vansh.nyc/Jm?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 22 |
-| Analog Devices | Information Technology Intern | Wilmington, MA</br>Camas, WA | <a href="https://go.vansh.nyc/Q2?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 15 |
+| Analog Devices | Information Technology Intern | Wilmington, MA</br>Camas, WA | 🔒 | Sep 15 |
 | Anduril | Firmware Engineer Intern | Costa Mesa, CA | <a href="https://go.vansh.nyc/Cl?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 13 |
 | Anduril | Machine Learning Engineer Intern | Santa Ana, CA | <a href="https://go.vansh.nyc/1Bo?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | Anduril | Software Engineer Intern | <details><summary>**6 locations**</summary>Atlanta, GA</br>Boston, MA</br>Costa Mesa, CA</br>Irvine, CA</br>Reston, VA</br>Seattle, WA</details> | <a href="https://go.vansh.nyc/3h?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 07 |
@@ -184,6 +187,7 @@
 | Aptiv | Cloud Software Engineer Intern | Kanata, Canada</br>Ottawa, Canada | <a href="https://go.vansh.nyc/hZ?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | Aptiv | Compiler Intern, Compiler Team | Walnut Creek, CA | <a href="https://go.vansh.nyc/1ny?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 08 |
 | Aptiv | HVP/Certification Engineer Intern | Kanata, Canada | <a href="https://go.vansh.nyc/f8?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 21 |
+| Aptiv | Software Engineering Intern | CAN Kanata, ON | 🔒 | Oct 13 |
 | Aquatic Capital | Software Engineer Intern | Chicago, IL | <a href="https://go.vansh.nyc/35?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 22 |
 | Aquatic | Software Engineer Intern | Chicago, IL | 🔒 | Jul 07 |
 | Aramco Americas | AI/ML Engineering Intern | Houston, TX | <a href="https://go.vansh.nyc/Mo?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
@@ -295,6 +299,7 @@
 | Bloomberg Industry Group | Data Analyst Intern | Arlington, VA | <a href="https://go.vansh.nyc/1AF?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
 | Bloomberg Industry Group | Engineering Intern | Arlington, VA | <a href="https://go.vansh.nyc/1yW?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
 | Blue Cross Blue Shield of Michigan | Data Science / Biostatistician Intern | Detroit, MI | <a href="https://go.vansh.nyc/1xL?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
+| Blue Cross Blue Shield of Michigan | Object Oriented Programming Intern | Detroit, MI | <a href="https://go.vansh.nyc/1DG?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | BlueCross BlueShield of Nebraska | Data Intern, Healthcare | Omaha, NE | 🔒 | Nov 03 |
 | Bobyard | Computer Vision Research Engineer Intern | San Francisco, CA | <a href="https://go.vansh.nyc/ES?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 05 |
 | Boeing | Data Analytics Intern 🛂 | <details><summary>**31 locations**</summary>Everett, WA</br>Saint Charles, MO</br>Huntsville, AL</br>Charleston, SC</br>Oklahoma City, OK</br>Berkeley, MO</br>Huntington Beach, CA</br>Hazelwood, MO</br>El Segundo, CA</br>Herndon, VA</br>Plano, TX</br>Arlington, VA</br>Ridley Park, PA</br>Tukwila, WA</br>North Charleston, SC</br>Fairfax, VA</br>Colorado Springs, CO</br>Chicago, IL</br>Seal Beach, CA</br>Mukilteo, WA</br>Long Beach, CA</br>Atlanta, GA</br>Renton, WA</br>Dallas, TX</br>Seattle, WA</br>Auburn, WA</br>Bellevue, WA</br>San Antonio, TX</br>Kent, WA</br>Mesa, AZ</br>Tukwila, WA</details> | <a href="https://go.vansh.nyc/6y?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 05 |
@@ -313,6 +318,7 @@
 | BorgWarner | Software Test Intern | Auburn Hills, MI | 🔒 | Nov 05 |
 | BorgWarner | Systems Test Automation Engineering Intern | Kokomo, IN | 🔒 | Oct 26 |
 | Bosch | Calibration Process Optimization Intern | Farmington Hills, MI | 🔒 | Oct 20 |
+| Bosch | ERP/IT Intern | Lincolnshire, IL | 🔒 | Oct 12 |
 | Bosch | Embedded AI Software Engineering Co-op | Fountain Inn, SC | <a href="https://go.vansh.nyc/1tK?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
 | Bosch | Information Security and Privacy Intern | Farmington Hills, MI | <a href="https://go.vansh.nyc/8w?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 13 |
 | Bosch | Robotics Research Intern | Sunnyvale, CA | <a href="https://go.vansh.nyc/86?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 12 |
@@ -326,6 +332,7 @@
 | Brain Co. | AI Platform Engineer Intern | San Francisco, CA | 🔒 | Sep 12 |
 | Brain Co. | Machine Learning Engineer Intern, Applied AI | San Francisco, CA | 🔒 | Sep 14 |
 | Braze | Software Engineering Intern | New York, NY | <a href="https://go.vansh.nyc/12D?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
+| Bread Financial | Cybersecurity Intern | Columbus, OH | <a href="https://go.vansh.nyc/1CF?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
 | Bread Financial | Software Engineering Intern | <details><summary>**5 locations**</summary>Columbus, OH</br>Chadds Ford, PA</br>Frisco, TX</br>Draper, UT</br>Wilmington, DE</details> | <a href="https://go.vansh.nyc/1Bz?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
 | Brex | Software Engineer Intern | San Francisco, CA | 🔒 | Nov 11 |
 | Bristol Myers Squibb | Undergrad Data Science Intern | Remote</br>United States | <a href="https://go.vansh.nyc/1Ck?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
@@ -403,6 +410,7 @@
 | Carnegie Mellon University | AI Engineer Intern, Mission Innovation Lab 🛂 | Pittsburgh, PA | <a href="https://go.vansh.nyc/1Az?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
 | Carnegie Mellon University | Advanced Computing Lab Intern 🛂 | Pittsburgh, PA | 🔒 | Nov 09 |
 | Carnegie Mellon University | Enabling Mission Capability at Scale Intern 🛂 | Pittsburgh, PA | <a href="https://go.vansh.nyc/110?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
+| Carnival Corporation | BI Report Developer Intern, Crew Operations | Seattle, WA | <a href="https://go.vansh.nyc/1CV?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
 | Carnival Corporation | Data Analytics Intern | Miami, FL | <a href="https://go.vansh.nyc/1Av?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 15 |
 | Carrier Global | Software Engineer Intern | East Syracuse, NY | 🔒 | Oct 22 |
 | Castleton Commodities International | Data Engineering Intern | Stamford, CT</br>Houston, TX</br>New York City, NY | 🔒 | Jul 31 |
@@ -464,7 +472,7 @@
 | CoStar Group | Product Intern | Richmond, VA | 🔒 | Oct 13 |
 | CoStar Group | Security Engineer Intern | Arlington, VA | 🔒 | Oct 20 |
 | CoStar Group | Technology Intern | Sunnyvale, CA | 🔒 | Sep 30 |
-| CoStar Group | Vision & Learning Intern | Sunnyvale, CA | <a href="https://go.vansh.nyc/1yq?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
+| CoStar Group | Vision & Learning Intern | Sunnyvale, CA | 🔒 | Nov 12 |
 | CoVar | Machine Learning Intern | Durham, NC | <a href="https://go.vansh.nyc/1g3?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 16 |
 | Cognex | Software Engineer Intern | Wauwatosa, WI | 🔒 | Oct 18 |
 | Cohen & Steers | Associate Intern, Information Security | New York, NY | 🔒 | Oct 30 |
@@ -474,9 +482,10 @@
 | Coinbase | Forward Deployed Engineer Intern, HR Technology | New York, NY | <a href="https://go.vansh.nyc/Gv?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
 | Colonist | Product Developer Intern | Remote</br>United States</br>Canada | <a href="https://go.vansh.nyc/1ek?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 22 |
 | Company | Role | Location | Application/Link | Date Posted |
+| Compassion International | Data and Software Engineering Intern | United States | <a href="https://go.vansh.nyc/1DA?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | Compeer Financial | Data Analytics Intern 🛂 | <details><summary>**5 locations**</summary>Lakeville, MN</br>Mankato, MN</br>Rochester, MN</br>Eau Claire, WI</br>Bloomington, IL</details> | 🔒 | Nov 10 |
 | Compeer Financial | Engineering Intern | Sun Prairie, WI</br>Mankato, MN</br>Bloomington, IL | <a href="https://go.vansh.nyc/Ov?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
-| Compeer Financial | Infrastructure Engineering Intern 🛂 | Lakeville, MN | <a href="https://go.vansh.nyc/Nd?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 11 |
+| Compeer Financial | Infrastructure Engineering Intern 🛂 | Lakeville, MN | 🔒 | Sep 11 |
 | Concord Advice | Data Scientist Intern | Florham Park, NJ | 🔒 | Nov 05 |
 | ConductorAI | Software Engineer Intern 🇺🇸 | New York, NY | <a href="https://go.vansh.nyc/1eM?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |
 | Conifer Health Solutions | BI Developer Intern | Dallas, TX | 🔒 | Sep 20 |
@@ -563,6 +572,7 @@
 | Divergent Technologies | Production Business Intelligence Intern | Torrance, CA | <a href="https://go.vansh.nyc/1bi?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | Diversified Gas & Oil Corporation | Information Technology Intern | Birmingham, AL | <a href="https://go.vansh.nyc/1xe?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | DocuSign | AI Platform Engineer Intern 🛂 | San Francisco, CA | 🔒 | Oct 22 |
+| DocuSign | Product Data Science Intern 🛂 | San Francisco, CA | <a href="https://go.vansh.nyc/1D2?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | DocuSign | Security Intern 🛂 | San Francisco, CA | <a href="https://go.vansh.nyc/D2?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
 | DocuSign | Software Developer Intern 🛂 | San Francisco, CA | 🔒 | Oct 23 |
 | DocuSign | Software Engineer Intern | Chicago, IL | <a href="https://go.vansh.nyc/Gw?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
@@ -687,7 +697,9 @@
 | Florida Atlantic University | Data Analyst Intern | Boca Raton, FL | 🔒 | Oct 27 |
 | Flowai | Senior Back-End Engineer Intern | Remote</br>United States</br>Canada | 🔒 | Nov 10 |
 | Fonds de solidarité FTQ | Business Intelligence and M365 Solutions Intern | Montreal, Canada | <a href="https://go.vansh.nyc/1yJ?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
+| Ford Motor Company | Vehicle Access System Engineering Intern, Advanced EV | Allen Park, MI | <a href="https://go.vansh.nyc/1DN?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | FormFactor | Electrical Design Automation Intern, AI & EDA Automation | Livermore, CA | <a href="https://go.vansh.nyc/Y8?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
+| Formlabs | API & Automation Intern | Somerville, MA | <a href="https://go.vansh.nyc/1DS?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | Formulary Financial | Software Engineer Intern | New York, NY | <a href="https://go.vansh.nyc/1sP?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 07 |
 | Framatome | AI and Software Innovation Intern | Lynchburg, VA | <a href="https://go.vansh.nyc/1m6?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 07 |
 | Freeform | Software Engineering Intern | Los Angeles, CA | <a href="https://go.vansh.nyc/7o?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 21 |
@@ -702,8 +714,8 @@
 | GEI Consultants | Web Developer Intern | Rancho Cordova, CA | <a href="https://go.vansh.nyc/1BP?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | GM Financial | Cloud Engineer Intern | Irving, TX | <a href="https://go.vansh.nyc/1hc?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | GM Financial | Data Engineer Intern | Arlington, TX | <a href="https://go.vansh.nyc/Zs?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
-| GM Financial | Software Development Engineer Intern | Arlington, TX | <a href="https://go.vansh.nyc/1BZ?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
 | GM Financial | Software Development Engineer Intern | Arlington, TX | <a href="https://go.vansh.nyc/1kZ?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
+| GM Financial | Software Development Engineer Intern | Arlington, TX | 🔒 | Nov 16 |
 | GTI Energy | Data Science Intern | Des Plaines, IL | <a href="https://go.vansh.nyc/12t?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | Galaxy | Cybersecurity Intern | Remote</br>United States | 🔒 | Oct 20 |
 | Gallup | Data Engineering Intern | San Francisco, CA | 🔒 | Oct 13 |
@@ -721,6 +733,7 @@
 | Garmin | Software Engineer Intern | Olathe, KS | <a href="https://go.vansh.nyc/Oq?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 24 |
 | Garmin | Software Engineer Intern | Tucson, AZ | <a href="https://go.vansh.nyc/Fz?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
 | Garmin | Software Engineer Intern, Real Time Aviation Data | Chanhassen, MN | <a href="https://go.vansh.nyc/1Bs?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
+| Garmin | Software Engineering Intern | Manhattan, KS | <a href="https://go.vansh.nyc/1CN?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | Gauss Management Research & Engineering | Web Application Developer Intern 🇺🇸 | South Ogden, UT | 🔒 | Oct 27 |
 | Gecko Robotics | Embedded Software Engineer Intern, RoboSPLAT Field Infra | Pittsburgh, PA | <a href="https://go.vansh.nyc/It?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 15 |
 | GenMD | Member of Technical Staff Intern, Applied AI | Palo Alto, CA | <a href="https://go.vansh.nyc/1bK?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
@@ -737,6 +750,7 @@
 | General Dynamics Mission Systems | Cyber Engineering Intern 🇺🇸 | Middletown, RI | <a href="https://go.vansh.nyc/8E?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 13 |
 | General Dynamics Mission Systems | DevOps Engineer Intern 🇺🇸 | Pittsburgh, PA | <a href="https://go.vansh.nyc/12S?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | General Dynamics Mission Systems | Electrical Engineering Intern, FPGA | Middletown, RI | <a href="https://go.vansh.nyc/1hW?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
+| General Dynamics Mission Systems | FPGA Engineer Intern | Manassas, VA | <a href="https://go.vansh.nyc/1i0?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
 | General Dynamics Mission Systems | Software Engineer Intern | Manassas, VA | <a href="https://go.vansh.nyc/1pI?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 08 |
 | General Dynamics Mission Systems | Software Engineer Intern | Port Orchard, WA | <a href="https://go.vansh.nyc/1hX?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | General Dynamics Mission Systems | Software Engineer Intern 🇺🇸 | Pittsburgh, PA | 🔒 | Oct 20 |
@@ -744,8 +758,7 @@
 | General Dynamics Mission Systems | Software Engineer Intern, CWL | Manassas, VA | <a href="https://go.vansh.nyc/1nV?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 05 |
 | General Dynamics Mission Systems | Software Engineer Intern, Crypto & Cross Domain Solutions 🇺🇸 | Scottsdale, AZ | <a href="https://go.vansh.nyc/98?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
 | General Dynamics Mission Systems | Software Engineer Intern, Crypto and Cross Domain Solutions 🇺🇸 | Taunton, MA | 🔒 | Oct 14 |
-| General Dynamics Mission Systems | Software Engineering Intern | Lakewood, OH | 🔒 | Nov 04 |
-| General Dynamics Mission Systems | Software Engineering Intern | Manassas, VA | <a href="https://go.vansh.nyc/1mA?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
+| General Dynamics Mission Systems | Software Engineering Intern | Manassas, VA | 🔒 | Nov 04 |
 | General Dynamics Mission Systems | Software Test Engineer Intern 🇺🇸 | Pittsburgh, PA | <a href="https://go.vansh.nyc/T5?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 25 |
 | General Dynamics Mission Systems | Systems and Software Development Intern | San Antonio, TX</br>Scottsdale, AZ | <a href="https://go.vansh.nyc/1qB?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
 | General Dynamics Mission Systems, Inc. | ASIC/FPGA Engineer Intern 🇺🇸 | Scottsdale, AZ | 🔒 | Nov 10 |
@@ -831,6 +844,7 @@
 | Headstarter | Software Engineering Intern, Agents & FE | New York, NY | <a href="https://go.vansh.nyc/1qO?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | Healthpeak Properties | Forward Deployed Software Engineer Intern | NYC | <a href="https://go.vansh.nyc/aJ?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
 | Hearst | Software Engineer Intern | Carmel, IN | <a href="https://go.vansh.nyc/1iE?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
+| HeartFlow | Platform Engineering Intern | San Francisco, CA | <a href="https://go.vansh.nyc/1Ds?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | Heliux | Software Engineer Intern 🇺🇸 | San Francisco, CA | <a href="https://go.vansh.nyc/5D?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 03 |
 | Hermeus | Flight Software Engineering Intern, Simulation/Hardware-In-The-Loop | Los Angeles, CA | <a href="https://go.vansh.nyc/fR?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 28 |
 | Heron Power | Firmware Engineering Intern | Scotts Valley, CA | <a href="https://go.vansh.nyc/by?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
@@ -870,7 +884,7 @@
 | Highmark Health | Provider Delivery Software Engineer Intern | Remote</br>United States | 🔒 | Oct 25 |
 | Highmark Health | Software Engineer Intern | Remote</br>United States | 🔒 | Oct 26 |
 | Highmark Health | Technical Analyst Intern, enGen Undergraduate | Pittsburgh, PA | <a href="https://go.vansh.nyc/1AK?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
-| Highmark Health | Vulnerability Management Analyst Undergraduate Intern | Remote</br>United States | <a href="https://go.vansh.nyc/1e9?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
+| Highmark Health | Vulnerability Management Analyst Undergraduate Intern | Remote</br>United States | 🔒 | Nov 03 |
 | Hitachi | Full Stack Developer Intern | Dallas, TX | 🔒 | Nov 06 |
 | Hitachi | Test Engineering Intern | Norman, OK | <a href="https://go.vansh.nyc/ex?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | Hive Financial Systems | Analytics Intern | Atlanta, GA | <a href="https://go.vansh.nyc/Xk?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
@@ -885,6 +899,7 @@
 | Hook Music | Machine Learning Engineering Intern, Recommendation Systems | Remote</br>United States | <a href="https://go.vansh.nyc/1sf?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | Horace Mann | Software Engineer Intern | Springfield, IL | 🔒 | Apr 28 |
 | Horizon Industries | Appian Intern | Vienna, VA | <a href="https://go.vansh.nyc/cg?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
+| Horizon Trading Solutions | Java Developer Intern | Montreal, Canada | <a href="https://go.vansh.nyc/1Dt?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | Horizon3.ai | Research Intern, Adversarial Intelligence | Chicago, IL</br>West Lafayette, IN | <a href="https://go.vansh.nyc/1zk?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
 | Howmet Aerospace | Cybersecurity Intern | Pittsburgh, PA | <a href="https://go.vansh.nyc/1h7?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | Hudson River Trading | Data Scientist Intern | New York, NY | <a href="https://go.vansh.nyc/1A5?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 05 |
@@ -929,9 +944,10 @@
 | ITT | Data Analytics / AI Intern | Irvine, CA | <a href="https://go.vansh.nyc/1kq?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | IXL Learning | Software Engineer Intern | San Mateo, CA | <a href="https://go.vansh.nyc/17D?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 07 |
 | Idaho National Laboratory | Computer Security Research Intern | Idaho Falls, ID | <a href="https://go.vansh.nyc/1jX?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 21 |
-| Idaho National Laboratory | Cybersecurity Operations Intern | Idaho Falls, ID | <a href="https://go.vansh.nyc/1Am?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 15 |
-| Idaho National Laboratory | Cybersecurity Vulnerability Assessment Intern | Idaho Falls, ID | <a href="https://go.vansh.nyc/1xM?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
+| Idaho National Laboratory | Cybersecurity Operations Intern | Idaho Falls, ID | 🔒 | Nov 15 |
+| Idaho National Laboratory | Cybersecurity Vulnerability Assessment Intern | Idaho Falls, ID | 🔒 | Nov 11 |
 | Idaho National Laboratory | Electric Vehicle Charging Data Analysis Intern | Idaho Falls, ID | <a href="https://go.vansh.nyc/1B6?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
+| Idaho National Laboratory | PSION Development Intern | Idaho Falls, ID | <a href="https://go.vansh.nyc/1Dz?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
 | Illinois Tool Works | Software Engineer Intern | United States | <a href="https://go.vansh.nyc/1wD?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 29 |
 | Illinois Tool Works | Software Engineer Intern, Application Software | Eden Prairie, MN | <a href="https://go.vansh.nyc/1wE?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
 | Illumio | Engineering Intern, Product Security | Sunnyvale, CA | 🔒 | Oct 20 |
@@ -974,7 +990,7 @@
 | International | Artificial Intelligence/Machine Learning Intern | Lisle, IL | <a href="https://go.vansh.nyc/1sz?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | Interstates | Cyber Security Intern | Sioux Falls, SD | <a href="https://go.vansh.nyc/1tI?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
 | Intuit | Software Engineering Intern, Full Stack | United States | <a href="https://go.vansh.nyc/17H?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
-| Intuitive | AI/ML Engineer Intern | Sunnyvale, CA | <a href="https://go.vansh.nyc/19B?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
+| Intuitive | Data Science Intern | Sunnyvale, CA | 🔒 | Nov 02 |
 | Intuitive | Robotics Engineering Intern | Sunnyvale, CA | <a href="https://go.vansh.nyc/1tN?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | Inversion Space | AI & Internal Tools Software Engineer Intern | Playa Vista, CA | <a href="https://go.vansh.nyc/ch?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
 | Inversion Space | Avionics Embedded Software Engineer Intern | Playa Vista, CA | <a href="https://go.vansh.nyc/aM?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
@@ -1000,7 +1016,7 @@
 | JPMorganChase | Machine Learning Intern, NLP | New York, NY | <a href="https://go.vansh.nyc/bI?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 20 |
 | Jabil | AI Agent Developer Intern, Supply Chain IT - AI & Enablement | St. Petersburg, FL</br>Tampa, FL | 🔒 | Nov 10 |
 | Jain Global | Compliance Technology Intern | New York, NY | 🔒 | Oct 13 |
-| Jane Street | Network Engineer Intern | New York, NY | 🔒 | Jul 24 |
+| Jane Street | Hardware Engineer (FPGA/ASIC) Intern | New York, NY | 🔒 | Jul 24 |
 | Jane Street | Software Engineer Intern | New York, NY | <a href="https://go.vansh.nyc/4c?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | Jobs at UHS | Information Security Analyst Intern | Tredyffrin, PA | <a href="https://go.vansh.nyc/1yv?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | John Deere | Process Automation Intern, Data and Analytics | Greeneville, TN | <a href="https://go.vansh.nyc/1nf?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 16 |
@@ -1080,13 +1096,13 @@
 | Kudu Dynamics | AI/Automation Development Intern, Assessment & Authorization 🇺🇸 | Remote</br>United States | <a href="https://go.vansh.nyc/1l3?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | Kudu Dynamics | Cybersecurity Analyst Intern 🇺🇸 | Odenton, MD | 🔒 | Nov 09 |
 | Kudu Dynamics | Cybersecurity Intern 🇺🇸 | Arlington, VA</br>Washington, DC</br>Camp Springs, MD | 🔒 | Oct 27 |
-| Kudu Dynamics | Junior Software Engineer/Data Scientist Intern 🇺🇸 | Tucson, AZ | <a href="https://go.vansh.nyc/1xK?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
+| Kudu Dynamics | Junior Software Engineer/Data Scientist Intern 🇺🇸 | Tucson, AZ | 🔒 | Nov 11 |
 | Kudu Dynamics | Software Engineer Intern | Chantilly, VA | 🔒 | May 22 |
 | Kudu Dynamics | Software Engineering & AI Intern 🇺🇸 | <details><summary>**4 locations**</summary>Remote</br>United States</br>Odenton, MD</br>Shiloh, IL</details> | 🔒 | Nov 04 |
 | L.L.Bean | Business Analyst/Data Analyst Intern | Freeport, ME | 🔒 | Nov 05 |
 | L.L.Bean | Quality Assurance Analyst Intern | Freeport, ME | <a href="https://go.vansh.nyc/1lF?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | L3Harris Technologies | Data Architect Intern | Huntsville, AL | <a href="https://go.vansh.nyc/1lH?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
-| L3Harris Technologies | FPGA Software Tool Developer Co-op | Waterdown, Canada | <a href="https://go.vansh.nyc/10n?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
+| L3Harris Technologies | FPGA Software Tool Developer Co-op | Waterdown, Canada | 🔒 | Oct 29 |
 | L3Harris Technologies | Image Processing Engineer Intern | Tulsa, OK | <a href="https://go.vansh.nyc/er?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | L3Harris Technologies | Software Engineer Intern | Clinton, MD</br>Clifton, NJ | <a href="https://go.vansh.nyc/DP?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 28 |
 | L3Harris Technologies | Software Engineer Intern | Nashville, TN | 🔒 | Nov 04 |
@@ -1094,12 +1110,12 @@
 | L3Harris Technologies | Software Engineer Intern | Salt Lake City, UT | <a href="https://go.vansh.nyc/dR?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 21 |
 | L3Harris Technologies | Software Engineer Intern | Tulsa, OK | 🔒 | Oct 22 |
 | L3Harris Technologies | Software Engineering Intern | Salt Lake City, UT | 🔒 | Oct 19 |
-| L3Harris Technologies | Software Engineering Intern 🇺🇸 | Bristol, PA | 🔒 | Oct 29 |
 | L3Harris Technologies | Software Engineering Intern 🇺🇸 | Carlsbad, CA | <a href="https://go.vansh.nyc/YO?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | L3Harris Technologies | Software Engineering Intern 🇺🇸 | Rochester, NY | <a href="https://go.vansh.nyc/1pY?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
 | LAXIR | Junior Full-Stack Engineer Intern | Remote</br>United States | <a href="https://go.vansh.nyc/Qx?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 2022 |
 | LG AI Research | AI Scientist/Engineer Intern | Ann Arbor, MI | <a href="https://go.vansh.nyc/1q2?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 28 |
 | LLNL | Computing Undergraduate Intern - DevOps | Livermore, CA | <a href="https://go.vansh.nyc/1ts?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 18 |
+| LLNL | Computing Undergraduate Student Intern | Livermore, CA | <a href="https://go.vansh.nyc/1DL?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | LLNL | Cybersecurity Undergraduate Intern, Cyber and Critical Infrastructure | Livermore, CA | <a href="https://go.vansh.nyc/1fR?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | LLNL | Data Science Institute Undergraduate Intern | Livermore, CA | <a href="https://go.vansh.nyc/1tp?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 15 |
 | LLNL | HPC Cluster Engineer Intern | Livermore, CA | <a href="https://go.vansh.nyc/ak?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 16 |
@@ -1109,6 +1125,7 @@
 | LSEG | Finance Engineer Intern | New York, NY | 🔒 | Oct 13 |
 | LabCorp | Bioinformatics Intern | Baltimore, MD | 🔒 | Oct 22 |
 | Laminar | Technical Intern | San Francisco, CA | <a href="https://go.vansh.nyc/13c?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
+| Lawrence Livermore National Laboratory (LLNL) | Cybersecurity Undergraduate Intern, Cyber and Critical Infrastructure | Livermore, CA | <a href="https://go.vansh.nyc/1DP?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | Lawrence Livermore National Laboratory (LLNL) | Power Systems Undergraduate Intern, Cyber and Critical Infrastructure | Livermore, CA | <a href="https://go.vansh.nyc/gj?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
 | Lean TECHniques | Software Engineer Intern | Johnston, IA | <a href="https://go.vansh.nyc/1BI?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
 | Legend Biotech | Data Intern | Bridgewater, NJ | <a href="https://go.vansh.nyc/bz?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
@@ -1121,6 +1138,7 @@
 | Leidos | Network Site Design Intern | Remote in USA | <a href="https://go.vansh.nyc/ea?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 21 |
 | Leidos | Performance Enablement AI/ML Intern | Remote</br>United States | 🔒 | Oct 14 |
 | Leidos | Software Developer Intern 🇺🇸 | Annapolis Junction, MD | 🔒 | Oct 28 |
+| Leidos | Software Developer Intern, AI Project 🇺🇸 | Colorado Springs, CO | <a href="https://go.vansh.nyc/1CT?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
 | Leidos | Software Engineer Intern | Arlington, VA | 🔒 | Nov 01 |
 | Leidos | Systems Integration and Software Engineer Intern | Atlantic City, NJ | <a href="https://go.vansh.nyc/1ns?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 07 |
 | Life Fitness | Android Software Engineer Intern | Schaumburg, IL | <a href="https://go.vansh.nyc/GK?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 11 |
@@ -1138,13 +1156,17 @@
 | Lockheed Martin | Software Development Intern | Bethesda, MD</br>Rockville, MD | <a href="https://go.vansh.nyc/1pZ?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
 | Lockheed Martin | Software Engineer Intern | Huntsville, AL | <a href="https://go.vansh.nyc/UC?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
 | Lockheed Martin | Software Engineer Intern 🇺🇸 | Littleton, CO | <a href="https://go.vansh.nyc/XV?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
+| Lockheed Martin | Software Engineer Intern 🇺🇸 | Owego, NY | <a href="https://go.vansh.nyc/1CG?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
 | Logiqal | Quantum Error Correction and Architecture Intern | Princeton, NJ | <a href="https://go.vansh.nyc/1hg?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | Los Alamos National Laboratory | High Performance Computing Undergraduate Intern 🇺🇸 | United States | <a href="https://go.vansh.nyc/Ri?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
+| Lucid Motors | Product Security Engineering Intern | Newark, CA | <a href="https://go.vansh.nyc/1DW?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
+| Lucid Motors | Software Engineer Intern, SDET | Newark, CA | <a href="https://go.vansh.nyc/1Dw?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
 | Lumbermen's | Software Developer Intern | Grand Rapids, MI | 🔒 | Nov 04 |
 | Lumentum | Data Science & Analytics Intern | San Jose, CA | <a href="https://go.vansh.nyc/1AP?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
 | Lumentum | Optical Algorithms and Analytics Engineering Co-op | Ottawa, ON | 🔒 | Oct 19 |
 | Lumentum | SW Developer Support Intern, Program Management Office | San Jose, CA | <a href="https://go.vansh.nyc/1BA?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | Lunar Outpost | Simulation Engineering Intern | Golden, CO | <a href="https://go.vansh.nyc/1sW?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 15 |
+| Lutron | Embedded Firmware Engineering Intern | Boston, MA | <a href="https://go.vansh.nyc/1Db?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | Lyft | Data Engineer Intern | Toronto, Canada | <a href="https://go.vansh.nyc/Ql?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 11 |
 | Lyft | Software Engineer Intern, Test Automation | Montreal, Canada | <a href="https://go.vansh.nyc/RT?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
 | Lynco Products | Front End Development Intern | West Milan, IL | <a href="https://go.vansh.nyc/1x8?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
@@ -1242,6 +1264,7 @@
 | Microsoft | Data Scientist Intern, CoreAI | Redmond, WA | <a href="https://go.vansh.nyc/1wj?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | Microsoft | First-Year Explore Program Engineering Intern | Redmond, WA | <a href="https://go.vansh.nyc/199?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
 | Microsoft | Product Manager Intern | Remote | <a href="https://go.vansh.nyc/5Y?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 04 |
+| Microsoft | Research Intern, AI/Machine Learning Numerics & Efficiency | Redmond, WA</br>Mountain View, CA | <a href="https://go.vansh.nyc/1Dx?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | Microsoft | Research Intern, Computer Vision and Deep Learning | Redmond, WA | <a href="https://go.vansh.nyc/1Cv?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
 | Microsoft | Research Intern, Firmware Security | Redmond, WA | <a href="https://go.vansh.nyc/1BR?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | Microsoft | Security Research Intern | Redmond, WA | <a href="https://go.vansh.nyc/eB?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
@@ -1274,7 +1297,7 @@
 | Motorola Solutions | Embedded SW Engineering Intern 🇺🇸 | Schaumburg, IL | <a href="https://go.vansh.nyc/1vC?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | Motorola Solutions | RFIC Design Engineer Intern 🇺🇸 | Plantation, FL</br>Schaumburg, IL | <a href="https://go.vansh.nyc/1Cl?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | Motorola Solutions | Software Engineer Intern, Cybersecurity Services 🇺🇸 | <details><summary>**7 locations**</summary>Remote</br>United States</br>Chicago, IL</br>Ashburn, VA</br>Plantation, FL</br>Schaumburg, IL</br>Salt Lake City, UT</details> | 🔒 | Nov 02 |
-| Motorola | FPGA Design Engineering Intern | Schaumburg, IL | <a href="https://go.vansh.nyc/Mq?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
+| Motorola | FPGA Design Engineering Intern | Schaumburg, IL | 🔒 | Sep 08 |
 | Motorola | Software Engineering Intern | Schaumburg, IL | <a href="https://go.vansh.nyc/1vh?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | Multiply Labs | Software Intern | San Francisco, CA | <a href="https://go.vansh.nyc/hG?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
 | Mum Industries | Business Intelligence & Data Analytics Intern | Mentor, OH | <a href="https://go.vansh.nyc/1x5?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
@@ -1402,7 +1425,7 @@
 | Octaura | Data Engineer Intern | New York, NY | <a href="https://go.vansh.nyc/1A6?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
 | Odys Aviation | Robotics & Embedded Systems Intern | Long Beach, CA | <a href="https://go.vansh.nyc/1ev?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 26 |
 | Old Mission | Software Engineer Intern | Chicago, IL | <a href="https://go.vansh.nyc/4C?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
-| Old Mission | Software Engineer Intern | Chicago, IL | <a href="https://go.vansh.nyc/QB?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 15 |
+| Old Mission | Software Engineer Intern | Chicago, IL | 🔒 | Jul 15 |
 | One Robot | Machine Learning Intern | San Francisco, CA | <a href="https://go.vansh.nyc/13h?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | OneAmerica Financial | Cyber Security Intern | Indianapolis, IN | <a href="https://go.vansh.nyc/1qx?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | OpenArt AI | Early Adopter & Product Builder Intern, Creative AI | San Carlos, CA | <a href="https://go.vansh.nyc/ej?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 21 |
@@ -1470,6 +1493,7 @@
 | Pattern | Data Science Intern | Lehi, UT | 🔒 | Oct 22 |
 | PayPal | Cybersecurity Intern 🛂 | <details><summary>**4 locations**</summary>San Jose, CA</br>Scottsdale, AZ</br>Chicago, IL</br>Austin, TX</details> | <a href="https://go.vansh.nyc/1iu?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | PayPal | Software Engineer Intern | <details><summary>**5 locations**</summary>Austin, TX</br>San Jose, CA</br>Chicago, IL</br>Omaha, NE</br>Scottsdale, AZ</details> | <a href="https://go.vansh.nyc/1hw?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
+| Pebl | DevSecOps Intern | Palo Alto, CA | <a href="https://go.vansh.nyc/1CP?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
 | Pebl | Software Engineering Intern | Toronto, Canada | 🔒 | Oct 13 |
 | Penn Engineering | AI & Data Intern | United States | <a href="https://go.vansh.nyc/1v0?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | PennState University | Cyber Security Engineer Intern 🇺🇸 | University Park, PA | <a href="https://go.vansh.nyc/ON?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 27 |
@@ -1486,7 +1510,9 @@
 | Picton Mahoney Asset Management | Data Engineer Intern | Toronto, ON, Canada | <a href="https://go.vansh.nyc/dc?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 20 |
 | Pika | Applied AI Engineer Intern, Creative Experiences | Palo Alto, CA | <a href="https://go.vansh.nyc/1pR?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
 | Pilot Company | Data Governance Intern | Knoxville, TN | 🔒 | Sep 09 |
+| Piper Sandler | Data Engineering Intern | Minneapolis, MN | <a href="https://go.vansh.nyc/1D8?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | Pivotal Aero | Software Engineering Intern | Palo Alto, CA | <a href="https://go.vansh.nyc/1px?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
+| Pivotal Software | Autonomy Intern, Path Planning | Palo Alto, CA | <a href="https://go.vansh.nyc/1DE?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | Plusgrade | Applied AI Test Engineer Intern | Toronto, Canada | <a href="https://go.vansh.nyc/1gu?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
 | Plusgrade | Data Science Intern | Toronto, Canada | 🔒 | Nov 04 |
 | Podium | Software Engineering Intern | Lehi, UT | 🔒 | May 19 |
@@ -1497,7 +1523,7 @@
 | Powertown | Forward Deployed Engineer Intern | Boston, MA | <a href="https://go.vansh.nyc/17w?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 05 |
 | Powertown | Machine Learning Engineer Intern | Boston, MA | <a href="https://go.vansh.nyc/13k?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | Principal Financial Group | Quantitative Analyst Intern, Quantitative Research | Des Moines, IA</br>New York, NY | 🔒 | Oct 01 |
-| Procter & Gamble (P&G) | IT Security Intern | Cincinnati, OH | <a href="https://go.vansh.nyc/OT?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 30 |
+| Procter & Gamble (P&G) | IT Security Intern | Cincinnati, OH | 🔒 | Sep 30 |
 | Prologis | AI and Automation Intern, IT | Denver, CO | <a href="https://go.vansh.nyc/1gr?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | Prometheus Group | Web Development Intern | Raleigh, NC | <a href="https://go.vansh.nyc/1Bh?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | Propio | Product Manager Intern | Overland Park, KS | <a href="https://go.vansh.nyc/gi?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
@@ -1511,7 +1537,7 @@
 | Q2 | Software Engineer Intern 🛂 | Austin, TX | <a href="https://go.vansh.nyc/1dc?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | QTS | Information Security Operations Analyst Intern 🇺🇸 | US GA Atlanta Suwanee 1 DC1 | 🔒 | Oct 14 |
 | Qorvo | Digital Systems Engineer Intern | Greensboro, NC | 🔒 | Sep 21 |
-| Quadric | Design Verification Intern | Burlingame, CA | 🔒 | Oct 22 |
+| Quadric | Deep Learning Compiler Intern | Burlingame, CA | 🔒 | Oct 22 |
 | Quadric | RTL Intern | Burlingame, CA | <a href="https://go.vansh.nyc/1n2?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | Quadrillion Labs | Software Engineering Intern | New York, NY | <a href="https://go.vansh.nyc/4K?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 26 |
 | Qualcomm | AI and DSP Applications Engineer Intern | Markham, Canada | <a href="https://go.vansh.nyc/fy?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
@@ -1574,9 +1600,10 @@
 | RTX | Software Engineering Co-op | Cedar Rapids, IA | 🔒 | Oct 18 |
 | RTX | Software Engineering Co-op 🇺🇸 | Cedar Rapids, IA | 🔒 | Oct 15 |
 | RTX | Software Engineering Co-op 🇺🇸 | Richardson, TX | <a href="https://go.vansh.nyc/1zb?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
-| RTX | Software Engineering Intern | Melbourne, FL | <a href="https://go.vansh.nyc/1yk?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
+| RTX | Software Engineering Intern | Melbourne, FL | 🔒 | Nov 12 |
 | RTX | Software Engineering Intern 🇺🇸 | El Segundo, CA | <a href="https://go.vansh.nyc/1A3?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 15 |
 | RTX | Software Engineering Intern 🇺🇸 | Largo, FL | 🔒 | Nov 09 |
+| RTX | Software Security Intern 🇺🇸 | Cedar Rapids, IA | <a href="https://go.vansh.nyc/1CS?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
 | RTX | Sustainment Data and Analytics Intern 🇺🇸 | East Hartford, CT | 🔒 | Oct 29 |
 | RTX | System Administrator Intern 🇺🇸 | Middletown, RI | <a href="https://go.vansh.nyc/9O?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
 | RTX | Systems Security Engineer Intern 🇺🇸 | Tewksbury, MA | 🔒 | Nov 05 |
@@ -1586,6 +1613,8 @@
 | Radix Trading | Quantitative Technologist Intern, C++ | Chicago, IL | <a href="https://go.vansh.nyc/3R?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | Raft Company Website | Data Engineering Intern 🇺🇸 | McLean, VA | <a href="https://go.vansh.nyc/1jU?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | Rakuten International | Software Engineer Intern | San Mateo, California | 🔒 | Jul 09 |
+| Ralliant | Software Engineer Intern | Beaverton, OR | <a href="https://go.vansh.nyc/1Du?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
+| Ralliant | Software Engineering Intern | Beaverton, OR | <a href="https://go.vansh.nyc/1CW?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
 | Rambus | CAD Engineer Intern | San Jose, CA | <a href="https://go.vansh.nyc/1sx?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
 | Rambus | Digital Design Intern | Johns Creek, GA | 🔒 | Nov 06 |
 | Range | Software Engineering Intern | McLean, VA | <a href="https://go.vansh.nyc/13l?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
@@ -1654,7 +1683,8 @@
 | Ryan | Application Engineering Intern | Plano, TX | <a href="https://go.vansh.nyc/cX?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
 | Ryan | Software Engineer Intern | North York, Canada | <a href="https://go.vansh.nyc/1mO?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | Ryder System | IT Intern | Coral Gables, FL | 🔒 | Nov 03 |
-| S&P Global | Machine Learning Engineer Intern | Cambridge, MA</br>New York, NY | <a href="https://go.vansh.nyc/1C7?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
+| S&P Global | Machine Learning Engineer Intern | Cambridge, MA</br>New York, NY | 🔒 | Nov 17 |
+| SAS | Cybersecurity Compliance and AI Automation Intern | Cary, NC | <a href="https://go.vansh.nyc/1Dy?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | SAS | Data Science Research Intern | Bloomington, MN | <a href="https://go.vansh.nyc/H0?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 29 |
 | SAS | JMP Software Testing Intern | Cary, NC | 🔒 | Oct 20 |
 | SAS | Software Developer Intern, Go/Golang | Cary, NC | 🔒 | Nov 13 |
@@ -1714,6 +1744,8 @@
 | Scotiabank | Global Analytic Financial Engineering (GAFE) Co-op, Global Banking and Markets | Toronto, Canada | <a href="https://go.vansh.nyc/1Ch?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
 | Scout AI | AI Engineer Intern, Fury Team | Sunnyvale, CA | <a href="https://go.vansh.nyc/hV?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
 | Scout Motors Inc. | Digital Products Intern | Charlotte, NC | <a href="https://go.vansh.nyc/1oV?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
+| Scout Space | Computer Vision Engineer Intern, AI/ML | Reston, VA | <a href="https://go.vansh.nyc/1CQ?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
+| Scout Space | Embedded Firmware Engineering Intern 🇺🇸 | Reston, VA</br>Remote</br>United States | <a href="https://go.vansh.nyc/1CU?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
 | Seagate Technology | Recording Media R&D Intern, AI & Data Science | Fremont, CA | 🔒 | Oct 18 |
 | Seagate Technology | Software and Data Analytics Development Intern, AFM | Bloomington, MN | <a href="https://go.vansh.nyc/Sq?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
 | SeatGeek | Data Analyst - Internship | New York, NY | 🔒 | Oct 28 |
@@ -1751,9 +1783,10 @@
 | Siemens Digital Industries Software | Strategic Student Program Digital Enterprise Software Applications Intern | Charlotte, MI | <a href="https://go.vansh.nyc/18U?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
 | Siemens | Python Backend Developer Intern, Energy Flexibility Platform | Princeton, NJ | <a href="https://go.vansh.nyc/hM?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
 | Sierra Nevada Corporation | Cybersecurity Analyst Intern 🇺🇸 | Sparks, NV | 🔒 | Oct 27 |
+| Sierra Nevada Corporation | DevOps Engineer Intern 🇺🇸 | Southern Pines, NC | <a href="https://go.vansh.nyc/19u?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | Sierra Nevada Corporation | Firmware Engineer Intern 🇺🇸 | Sparks, NV | <a href="https://go.vansh.nyc/1iR?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | Sierra Nevada Corporation | Firmware Engineering Intern 🇺🇸 | Folsom, CA | 🔒 | Oct 30 |
-| Sierra Nevada Corporation | Software Engineer Intern 🇺🇸 | Southern Pines, NC | <a href="https://go.vansh.nyc/1dz?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
+| Sierra Nevada Corporation | Software Engineer Intern 🇺🇸 | Southern Pines, NC | 🔒 | Nov 02 |
 | Sierra Space | Flight Software Engineer Intern | Louisville, CO | 🔒 | Oct 20 |
 | Sierra | Software Engineer Intern, Agent | San Francisco, CA</br>New York, NY | <a href="https://go.vansh.nyc/1ln?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 31 |
 | SigIQ.ai | Machine Learning Intern/Resident | Berkeley, CA | <a href="https://go.vansh.nyc/1rw?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
@@ -1776,6 +1809,7 @@
 | Smith+Nephew | Data Science Intern, AI Center of Excellence | Pittsburgh, PA | 🔒 | Nov 04 |
 | Smith+Nephew | Embedded Software Engineering Intern | Andover, MA | 🔒 | Oct 21 |
 | Snap | Generative Media Research Intern | Los Angeles, CA | <a href="https://go.vansh.nyc/9o?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
+| Snowflake | Software Engineer Intern, Database Engineering | Menlo Park, CA</br>Bellevue, WA | <a href="https://go.vansh.nyc/1Dp?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
 | Solarity | Software Engineer Intern | Sioux Falls, SD | <a href="https://go.vansh.nyc/Zh?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
 | Solidigm | Software Development & Firmware Engineering Intern | Rancho Cordova, CA</br>Longmont, CO</br>Sacramento, CA | <a href="https://go.vansh.nyc/Mi?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 04 |
 | Sonos | Data Quality Intern 🛂 | Boston, MA | 🔒 | Oct 27 |
@@ -1786,6 +1820,7 @@
 | Soros Fund Management | Quantitative Strategist Intern | New York, NY | 🔒 | Nov 17 |
 | Soros Fund Management | Trading Intern, Middle and Back Office Dev | New York, NY | 🔒 | Nov 13 |
 | SouthState Bank | Quantitative Intern | Remote</br>United States | <a href="https://go.vansh.nyc/1cH?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
+| Southern Mississippi Trading | AI and Business Analytics Intern | Waynesboro, MS | <a href="https://go.vansh.nyc/1DV?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | Space Dynamics Laboratory | AI-Enabled Requirements Engineering Intern | North Logan, UT | 🔒 | Oct 20 |
 | Space Dynamics Laboratory | FPGA Electrical Engineer Intern, Civil & Commercial Space | North Logan, UT | 🔒 | Oct 01 |
 | Space Dynamics Laboratory | Software Engineer Intern | Logan, UT | 🔒 | Oct 26 |
@@ -1823,7 +1858,7 @@
 | Sycamore | Member of Technical Staff Intern | Palo Alto, CA | <a href="https://go.vansh.nyc/18S?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 31 |
 | Sycamore | Member of Technical Staff Intern, Infrastructure | Palo Alto, CA | 🔒 | Oct 20 |
 | Symbotic | Robot Manipulation Intern | Wilmington, MA | <a href="https://go.vansh.nyc/bt?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
-| Syngenta Group | Data Science Intern | Greensboro, NC | <a href="https://go.vansh.nyc/1Co?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
+| Syngenta Group | Data Science Intern | Greensboro, NC | 🔒 | Nov 18 |
 | Synopsys | Engineering Documentation and AI Automation Co-op | Nepean, Canada | <a href="https://go.vansh.nyc/1uz?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | Synopsys | Technical Engineer Intern | Ottawa, Canada | <a href="https://go.vansh.nyc/10b?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
 | Syntiant | DevOps Machine Learning Infrastructure Intern | Irvine, CA | <a href="https://go.vansh.nyc/11V?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
@@ -1954,7 +1989,7 @@
 | Trimble | Software Engineer Intern | Lake Oswego, OR | <a href="https://go.vansh.nyc/1pD?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
 | Trimble | Software Engineer Intern, Firmware | Richmond Hill, Canada | 🔒 | Apr 24 |
 | Trimble | Software Engineering Intern | Knoxville, TN | <a href="https://go.vansh.nyc/1rP?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
-| Trinity Life Sciences | Data Science Intern | Waltham, MA</br>New York, NY | <a href="https://go.vansh.nyc/1wF?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
+| Trinity Life Sciences | Data Science Intern | Waltham, MA</br>New York, NY | 🔒 | Oct 26 |
 | TruStage | IT Intern, Innovation & AI Technology | Madison, WI | <a href="https://go.vansh.nyc/1fm?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | TruStage | Information Technology Development and Infrastructure Intern | Madison, WI | <a href="https://go.vansh.nyc/Ms?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
 | Twilio | Software Engineer Intern | Remote | 🔒 | Apr 24 |
@@ -2024,6 +2059,7 @@
 | Versant | Technology, Product, Design & Engineering Intern, GolfNow, Full Swing, Rotten Tomatoes, Fandango 🛂 | North Hollywood, CA | 🔒 | Nov 04 |
 | Versant3 | Technology, Product, Design & Engineering Intern 🛂 | North Hollywood, CA | 🔒 | Oct 12 |
 | Versant3 | Technology, Product, Design & Engineering Intern 🛂 | Orlando, FL | 🔒 | Oct 07 |
+| Vertiv | AI Intern | Westerville, OH</br>Fort Lauderdale, FL</br>Huntsville, AL | <a href="https://go.vansh.nyc/1DF?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | Vertiv | Data Analytics Intern | Delaware, OH | 🔒 | Oct 13 |
 | Vertiv | Design Engineering Intern | Delaware, OH</br>Fort Lauderdale, FL | <a href="https://go.vansh.nyc/Et?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 02 |
 | Vertiv | Product Management Intern 🛂 | Westerville, OH | 🔒 | Aug 21 |
@@ -2036,8 +2072,8 @@
 | Viavi Solutions | Digital Hardware Engineering Intern | Lenexa, KS | <a href="https://go.vansh.nyc/1oU?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
 | Viavi Solutions | Robotics Intern | Bothell, WA | <a href="https://go.vansh.nyc/1Ci?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
 | Vibrantz Technologies | Applied AI & Automation Intern | Houston, TX | <a href="https://go.vansh.nyc/1Ct?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
-| Viget | Project & Product Manager Intern 🛂 | Boulder, CO | <a href="https://go.vansh.nyc/g9?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 07 |
-| Viget | Software Developer Intern | Boulder, CO | <a href="https://go.vansh.nyc/Gb?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 08 |
+| Viget | Project & Product Manager Intern 🛂 | Boulder, CO | 🔒 | Oct 07 |
+| Viget | Software Developer Intern | Boulder, CO | 🔒 | Oct 08 |
 | Virginia Tech Applied Research Corporation | Research Intern, Applied AI & Software Development | Arlington, VA | <a href="https://go.vansh.nyc/12r?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
 | Virtu Financial | Frontend & User Experience Intern | New York, NY | 🔒 | Jul 30 |
 | Virtu Financial | Software Engineer Intern | Austin, TX</br>New York | <a href="https://go.vansh.nyc/4Q?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 26 |
@@ -2049,14 +2085,14 @@
 | Voyager Technologies | Software Engineering Intern 🇺🇸 | Long Beach, CA | <a href="https://go.vansh.nyc/fP?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 27 |
 | W.R. Berkley | Software Developer Intern, .NET | Urbandale, IA | <a href="https://go.vansh.nyc/1k4?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | WSP | Software Developer Intern | Dallas, TX | 🔒 | May 12 |
-| WTW | Data Analyst Intern | New York, NY | <a href="https://go.vansh.nyc/1yK?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
+| WTW | Data Analyst Intern | New York, NY | 🔒 | Nov 13 |
 | WTW | Risk & Analytics Core Intern 🛂 | New York, NY | <a href="https://go.vansh.nyc/8T?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 13 |
 | Waabi | Safety Methodologies Co-op | Toronto, ON, Canada</br>SF</br>Pittsburgh, PA | <a href="https://go.vansh.nyc/b5?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 16 |
 | Wabtec | LEAD Information Technology Intern | Pittsburgh, PA | <a href="https://go.vansh.nyc/13u?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | Waggoner Financial | Software Engineer Intern | Lansing, MI | <a href="https://go.vansh.nyc/109?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
 | Walleye Capital | Equity Volatility Quant Researcher Intern | Miami, FL | 🔒 | Jul 24 |
 | Walmart | Automation, Product Manager, Corporate Intern | Lancaster, TX | 🔒 | Oct 22 |
-| Walmart | Data & Tech Transformation Intern | Bentonville, AR | <a href="https://go.vansh.nyc/ZW?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
+| Walmart | Data & Tech Transformation Intern | Bentonville, AR | 🔒 | Oct 28 |
 | Walmart | Data Science & Data Analytics Intern, Last Mile Delivery | Bentonville, AR | <a href="https://go.vansh.nyc/1sh?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
 | Walmart | Data Science Intern, Last Mile Delivery | Bentonville, AR | <a href="https://go.vansh.nyc/1jy?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | Walrus | Full Stack Developer Intern | NYC | <a href="https://go.vansh.nyc/dZ?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 21 |
@@ -2130,6 +2166,7 @@
 | Zurn Elkay Water Solutions | Embedded Hardware Intern | Milwaukee, WI | <a href="https://go.vansh.nyc/MW?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 24 |
 | chathamfinancial | Software Engineering Intern | Denver, CO | <a href="https://go.vansh.nyc/X5?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
 | empirical | Software Engineering Intern | Dakota Dunes, SD | 🔒 | Nov 07 |
+| enGen | Data Engineer & Analyst Undergraduate Intern | Pittsburgh, PA | <a href="https://go.vansh.nyc/1DQ?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | fab2 | Rust Software Engineering Intern, Chip Design Tools | Austin, TX</br>San Francisco, CA | <a href="https://go.vansh.nyc/1lo?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 05 |
 | getIntro | Software Engineering Intern | Remote</br>United States</br>Canada | 🔒 | Nov 10 |
 | i3 | Data Management Intern 🇺🇸 | Huntsville, AL | <a href="https://go.vansh.nyc/1pN?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
@@ -2146,6 +2183,7 @@
 | ↳ | ADAS Software Engineer Intern | Milford, MI</br>Warren, MI | <a href="https://go.vansh.nyc/EG?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 04 |
 | ↳ | AGS Libraries Co-op | Calgary, Canada | 🔒 | Sep 01 |
 | ↳ | AI & Architecture Intern | San Jose, CA | <a href="https://go.vansh.nyc/bu?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
+| ↳ | AI & Data Intern, Applied AI/Machine Learning | Newark, CA | <a href="https://go.vansh.nyc/1DI?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | ↳ | AI & Data Science Intern, Analytic Capabilities | United States | <a href="https://go.vansh.nyc/1xh?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | ↳ | AI & Machine Learning Intern, Digital & Technology | New York, NY</br>Bethlehem, PA</br>Holmdel, NJ | 🔒 | Nov 02 |
 | ↳ | AI / Data Science Intern | San Jose, CA | 🔒 | Oct 18 |
@@ -2202,6 +2240,7 @@
 | ↳ | AI/ML & Data Engineering Intern | <details><summary>**5 locations**</summary>Cambridge, MA</br>Armonk, NY</br>Warren, NJ</br>Sleepy Hollow, NY</br>Tarrytown, NY</details> | 🔒 | Oct 27 |
 | ↳ | AI/ML Data Science and Engineering Intern 🇺🇸 | Bossier City, LA | <a href="https://go.vansh.nyc/1hS?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | ↳ | AI/ML Engineer Intern | Remote</br>United States</br>Canada | 🔒 | Nov 10 |
+| ↳ | AI/ML Engineer Intern | Sunnyvale, CA | 🔒 | Nov 02 |
 | ↳ | AI/ML Engineer Intern, Autonomous Vehicle ML Infrastructure | Sunnyvale, CA | <a href="https://go.vansh.nyc/9L?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
 | ↳ | AI/ML Research Intern | Montréal | <a href="https://go.vansh.nyc/5o?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 31 |
 | ↳ | AI/ML Software Development and Engineering Intern 🇺🇸 | Bossier City, LA | <a href="https://go.vansh.nyc/1hT?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
@@ -2294,6 +2333,7 @@
 | ↳ | Computer Vision Intern | Dallas, TX | <a href="https://go.vansh.nyc/1B8?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | ↳ | Computer Vision Intern | Mississauga, Canada | <a href="https://go.vansh.nyc/1AY?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
 | ↳ | Computer Vision Software Engineering Intern | Andover, MA | 🔒 | Oct 21 |
+| ↳ | Computing Undergraduate Student Intern, DevOps | Livermore, CA | <a href="https://go.vansh.nyc/1DM?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | ↳ | Consulting Software Engineer Intern | Richmond, VA | 🔒 | Oct 12 |
 | ↳ | Content Publishing Developer Intern | Cincinnati, OH | <a href="https://go.vansh.nyc/Ze?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
 | ↳ | Corporate Intern, Digital and Analytics | Peoria, IL</br>Chicago, IL</br>Irving, TX | 🔒 | Sep 02 |
@@ -2359,12 +2399,14 @@
 | ↳ | Data Engineering Intern | Alexandria, VA | <a href="https://go.vansh.nyc/1xq?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | ↳ | Data Engineering Intern | Atlanta, GA | 🔒 | Nov 02 |
 | ↳ | Data Engineering Intern | Cincinnati, OH | <a href="https://go.vansh.nyc/Wd?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
+| ↳ | Data Engineering Intern | Coopersburg, PA | <a href="https://go.vansh.nyc/1Dm?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | ↳ | Data Engineering Intern | Deerfield Beach, FL | 🔒 | Nov 05 |
 | ↳ | Data Engineering Intern | Frisco, TX</br>Atlanta, GA | 🔒 | Nov 06 |
 | ↳ | Data Engineering Intern | Greensboro, NC | 🔒 | Nov 05 |
 | ↳ | Data Engineering Intern | Indianapolis, IN | <a href="https://go.vansh.nyc/1ft?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | ↳ | Data Engineering Intern | New York, NY | <a href="https://go.vansh.nyc/1rY?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | ↳ | Data Engineering Intern | Newport Beach, CA | <a href="https://go.vansh.nyc/JC?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 24 |
+| ↳ | Data Engineering Intern | Philadelphia, PA | <a href="https://go.vansh.nyc/1Dk?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | ↳ | Data Engineering Intern | Phoenix, AZ</br>Fairfield, IA | <a href="https://go.vansh.nyc/1cj?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | ↳ | Data Engineering Intern, AI & Analytics | Palo Alto, CA</br>Irvine, CA | <a href="https://go.vansh.nyc/fI?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | ↳ | Data Engineering Intern, Innovation & Technology | New York, NY | 🔒 | Oct 21 |
@@ -2388,7 +2430,6 @@
 | ↳ | Data Science Intern | New York, NY | <a href="https://go.vansh.nyc/11U?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | ↳ | Data Science Intern | San Jose, CA | <a href="https://go.vansh.nyc/1vm?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | ↳ | Data Science Intern | Smyrna, TN | <a href="https://go.vansh.nyc/GJ?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 11 |
-| ↳ | Data Science Intern | Sunnyvale, CA | <a href="https://go.vansh.nyc/19w?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | ↳ | Data Science Intern | Tempe, AZ</br>Dallas, TX | <a href="https://go.vansh.nyc/1ct?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | ↳ | Data Science Intern 🛂 | Austin, TX | <a href="https://go.vansh.nyc/1dd?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | ↳ | Data Science Intern 🛂 | Cary, NC | <a href="https://go.vansh.nyc/1dg?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
@@ -2401,6 +2442,8 @@
 | ↳ | Data Science Machine Learning Intern | Stamford, CT</br>Houston, TX</br>New York City, NY | 🔒 | Jul 31 |
 | ↳ | Data Science Project Intern, Advertisement | San Jose, CA | <a href="https://go.vansh.nyc/18k?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
 | ↳ | Data Science and Engineering Intern 🇺🇸 | McLean, VA | <a href="https://go.vansh.nyc/10t?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
+| ↳ | Data Science and Machine Learning Intern | Boston, MA | <a href="https://go.vansh.nyc/1Dn?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
+| ↳ | Data Science and Machine Learning Intern | Philadelphia, PA | <a href="https://go.vansh.nyc/1Dl?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | ↳ | Data Scientist Intern | Colorado Springs, CO | <a href="https://go.vansh.nyc/1bW?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | ↳ | Data Scientist Intern | Detroit, MI | <a href="https://go.vansh.nyc/19s?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | ↳ | Data Scientist Intern | Memphis, TN | 🔒 | Oct 21 |
@@ -2417,7 +2460,6 @@
 | ↳ | Data, AI & Machine Learning Intern, Media Tech | New York, NY | <a href="https://go.vansh.nyc/1oE?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
 | ↳ | Data, AI & Machine Learning Intern, Media Tech | Universal City, CA | <a href="https://go.vansh.nyc/1oD?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
 | ↳ | Data, AI, and Genome Sciences, Foundation Models Intern | Cambridge, MA | 🔒 | Oct 23 |
-| ↳ | Deep Learning Compiler Intern | Burlingame, CA | <a href="https://go.vansh.nyc/1n4?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | ↳ | Deep Learning Intern | Santa Clara, CA | <a href="https://go.vansh.nyc/12j?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 31 |
 | ↳ | Deep Learning Research Intern, Embodied AI Systems | Markham, Canada | <a href="https://go.vansh.nyc/ZM?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
 | ↳ | Design Architecture Engineer Intern | San Jose, CA | <a href="https://go.vansh.nyc/Fe?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 05 |
@@ -2426,9 +2468,9 @@
 | ↳ | Design Engineer Intern, Pathfinding | San Jose, CA</br>Folsom, CA | <a href="https://go.vansh.nyc/d7?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
 | ↳ | Design Verification Engineer Intern | San Jose, CA | <a href="https://go.vansh.nyc/C9?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 13 |
 | ↳ | Design Verification Engineer Intern | Toronto, Canada | <a href="https://go.vansh.nyc/Fg?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 05 |
+| ↳ | Design Verification Intern | Burlingame, CA | 🔒 | Oct 22 |
 | ↳ | Design-for-Test Engineer Intern | Toronto, Canada</br>San Jose, CA | <a href="https://go.vansh.nyc/Fj?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 05 |
 | ↳ | DevOps Engineer Intern | Remote</br>United States</br>Canada | 🔒 | Nov 10 |
-| ↳ | DevOps Engineer Intern 🇺🇸 | Southern Pines, NC | <a href="https://go.vansh.nyc/19u?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | ↳ | DevOps Engineering Intern 🇺🇸 | McLean, VA | <a href="https://go.vansh.nyc/1jT?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | ↳ | DevOps Intern | San Antonio, TX | <a href="https://go.vansh.nyc/1cJ?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | ↳ | DevOps Software Engineering Intern 🇺🇸 | Roy, UT | 🔒 | Nov 04 |
@@ -2449,11 +2491,12 @@
 | ↳ | Digital Twin Eng Apps Intern | Ann Arbor, MI | 🔒 | Nov 02 |
 | ↳ | Display IP FPGA Emulation Intern | Markham, Canada | <a href="https://go.vansh.nyc/1hp?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
 | ↳ | Display Systems Engineer Intern | Markham, ON, Canada | <a href="https://go.vansh.nyc/dX?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 21 |
-| ↳ | ERP/IT Intern | Lincolnshire, IL | <a href="https://go.vansh.nyc/87?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 12 |
 | ↳ | Edge AI and Display Hardware Architecture Intern | Markham, ON, Canada | <a href="https://go.vansh.nyc/dY?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 21 |
 | ↳ | Electrical Engineering Intern, FPGA | Melbourne, FL | <a href="https://go.vansh.nyc/1ow?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
 | ↳ | Embedded Engineering Intern 🇺🇸 | United States | <a href="https://go.vansh.nyc/OQ?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 28 |
 | ↳ | Embedded Engineering Intern 🛂 | United States | <a href="https://go.vansh.nyc/1ws?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 27 |
+| ↳ | Embedded Firmware Engineering Intern | Austin, TX | <a href="https://go.vansh.nyc/1Dc?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
+| ↳ | Embedded Firmware Engineering Intern | Boynton Beach, FL | <a href="https://go.vansh.nyc/1Dd?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | ↳ | Embedded Firmware Intern | Dallas, TX | <a href="https://go.vansh.nyc/1bJ?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | ↳ | Embedded Flight Software Intern | Longmont, CO | 🔒 | Oct 22 |
 | ↳ | Embedded Hardware Engineer Intern, FPGA Design | West Lafayette, IN | <a href="https://go.vansh.nyc/1qS?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
@@ -2467,7 +2510,10 @@
 | ↳ | Embedded Software Engineer Intern | Walnut Creek, CA | <a href="https://go.vansh.nyc/Ge?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 08 |
 | ↳ | Embedded Software Engineering Intern | Austin, TX</br>San Francisco, CA | <a href="https://go.vansh.nyc/1lr?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 05 |
 | ↳ | Embedded Software Engineering Intern | Bloomington, MN | <a href="https://go.vansh.nyc/1wx?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
+| ↳ | Embedded Software Engineering Intern | Cincinnati, OH | <a href="https://go.vansh.nyc/1De?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
+| ↳ | Embedded Software Intern | Newark, CA | <a href="https://go.vansh.nyc/1Dv?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | ↳ | Embedded Software Intern 🛂 | Niles, IL | <a href="https://go.vansh.nyc/1ka?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
+| ↳ | Embedded Software Intern, BSP/Platform, ADAS/Autonomous Driving | Newark, CA | <a href="https://go.vansh.nyc/1DT?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | ↳ | Emerging Technology Intern | Cincinnati, OH | <a href="https://go.vansh.nyc/Wh?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
 | ↳ | Emulation Engineer Intern | San Jose, CA | <a href="https://go.vansh.nyc/Fl?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 05 |
 | ↳ | Engine Programmer Intern | Cary, NC | <a href="https://go.vansh.nyc/1t6?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 21 |
@@ -2483,7 +2529,6 @@
 | ↳ | Enterprise Technology & Data Software Engineering Intern | Orlando, FL | 🔒 | Oct 28 |
 | ↳ | Execution & Topology Software Engineering Intern | Palo Alto, CA | <a href="https://go.vansh.nyc/1tF?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 12 |
 | ↳ | Extreme Programming Engineer Intern | Cincinnati, OH | <a href="https://go.vansh.nyc/Zd?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
-| ↳ | FPGA Engineer Intern | Manassas, VA | <a href="https://go.vansh.nyc/1i0?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
 | ↳ | FPGA IP Design Engineer Intern | Toronto, ON, Canada | 🔒 | Oct 19 |
 | ↳ | FPGA Intern | Chicago, IL | <a href="https://go.vansh.nyc/5n?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 31 |
 | ↳ | Fab Software Engineering Intern | Austin, TX</br>San Francisco, CA | <a href="https://go.vansh.nyc/1lq?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 05 |
@@ -2544,7 +2589,6 @@
 | ↳ | Hardware Design Engineer Co-op | Markham, Canada | 🔒 | Sep 01 |
 | ↳ | Hardware Design Engineer Co-op | Vancouver, Canada | 🔒 | Sep 01 |
 | ↳ | Hardware Design Engineer Intern | Toronto, Canada | 🔒 | Oct 30 |
-| ↳ | Hardware Engineer (FPGA/ASIC) Intern | New York, NY | <a href="https://go.vansh.nyc/44?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | ↳ | Hardware Engineer Intern | Chicago, IL | 🔒 | Jul 24 |
 | ↳ | Hardware Engineer Intern 🇺🇸 | Chicago, IL | 🔒 | Jul 24 |
 | ↳ | Hardware Engineering Intern | San Jose, CA | <a href="https://go.vansh.nyc/1sa?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
@@ -2577,6 +2621,7 @@
 | ↳ | Information Security Intern | United States | 🔒 | Oct 20 |
 | ↳ | Information Security Intern 🛂 | Charlotte, NC | <a href="https://go.vansh.nyc/ef?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 21 |
 | ↳ | Information Security Systems Engineer Intern 🇺🇸 | Salt Lake City, UT | <a href="https://go.vansh.nyc/XU?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
+| ↳ | Infotainment Software Intern | Newark, CA | <a href="https://go.vansh.nyc/1DU?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | ↳ | Infrastructure Development & Automation Intern | Atlanta, GA | <a href="https://go.vansh.nyc/1lE?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | ↳ | Infrastructure Intern | San Jose, CA | 🔒 | May 22 |
 | ↳ | Infrastructure Software Engineering Intern | Austin, TX</br>San Francisco, CA | <a href="https://go.vansh.nyc/1lp?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 05 |
@@ -2584,7 +2629,6 @@
 | ↳ | Integration Intern | Jacksonville, FL | <a href="https://go.vansh.nyc/1mT?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
 | ↳ | Intelligent Automation Developer Intern 🛂 | Lansing, MI | <a href="https://go.vansh.nyc/1c5?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | ↳ | Investment Data Science Intern | New York, NY | 🔒 | Jul 24 |
-| ↳ | Junior Software Engineer Intern, RTK | Farmer's Branch, TX | <a href="https://go.vansh.nyc/1m3?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 13 |
 | ↳ | LLM Inference Acceleration Architecture Intern, Distributed Memory-Centric Accelerators | San Jose, CA | <a href="https://go.vansh.nyc/1Cw?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
 | ↳ | Linux Automation Intern, Linux Integration and Test Engineer 🇺🇸 | San Antonio, TX | <a href="https://go.vansh.nyc/1qr?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
 | ↳ | Linux Engineer Intern | New York, NY | <a href="https://go.vansh.nyc/45?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
@@ -2642,10 +2686,12 @@
 | ↳ | Mobile Software Engineer Intern | Austin, TX | 🔒 | Nov 02 |
 | ↳ | Multi-Cloud CDN Scheduling Platform Engineer Intern, CDN Platform | San Jose, CA | <a href="https://go.vansh.nyc/15G?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
 | ↳ | Multi-Cloud CDN Scheduling Platform Engineer Intern, CDN Platform | Seattle, WA | <a href="https://go.vansh.nyc/14q?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
+| ↳ | Network Engineer Intern | New York, NY | 🔒 | Jul 24 |
 | ↳ | Network Software Development Engineer Intern, Network Observation | San Jose, CA | <a href="https://go.vansh.nyc/14x?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
 | ↳ | Network Software Development Engineer Intern, Network Switch | San Jose, CA | <a href="https://go.vansh.nyc/14y?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
 | ↳ | Network and Security Engineering Intern 🛂 | Ashburn, VA | 🔒 | Oct 26 |
 | ↳ | Network and Security Engineering Intern 🛂 | Denver, CO | 🔒 | Oct 26 |
+| ↳ | OTA Test and Validation Automation Intern | Newark, CA | <a href="https://go.vansh.nyc/1DJ?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | ↳ | Offensive Security Intern | Deerfield Beach, FL | 🔒 | Nov 02 |
 | ↳ | Onboard Infrastructure Engineer Intern, ML Inference | San Francisco, CA | <a href="https://go.vansh.nyc/1eG?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 10 |
 | ↳ | Onshape SysOps Intern | Boston, MA | <a href="https://go.vansh.nyc/Vg?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
@@ -2835,6 +2881,7 @@
 | ↳ | Software Engineer Intern, AI Features & Product Convergence | Kennesaw, GA | 🔒 | Nov 04 |
 | ↳ | Software Engineer Intern, AI Platform 🛂 | San Jose, CA | <a href="https://go.vansh.nyc/5Q?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 04 |
 | ↳ | Software Engineer Intern, AI/ML & LLM | Redmond, WA | <a href="https://go.vansh.nyc/5K?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 04 |
+| ↳ | Software Engineer Intern, AI/ML | Menlo Park, CA</br>Bellevue, WA | <a href="https://go.vansh.nyc/1Dr?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
 | ↳ | Software Engineer Intern, AML-Engine-Orchestration | San Jose, CA | <a href="https://go.vansh.nyc/14g?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
 | ↳ | Software Engineer Intern, AML-Engine-Orchestration | Seattle, WA | <a href="https://go.vansh.nyc/14i?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
 | ↳ | Software Engineer Intern, AWS Database | United States | <a href="https://go.vansh.nyc/gJ?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
@@ -2856,6 +2903,7 @@
 | ↳ | Software Engineer Intern, Connectivity Platform and Product | New York, NY | <a href="https://go.vansh.nyc/1rT?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
 | ↳ | Software Engineer Intern, Connectivity | Redmond, WA | <a href="https://go.vansh.nyc/12p?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | ↳ | Software Engineer Intern, Connectivity | San Francisco, CA | <a href="https://go.vansh.nyc/YC?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
+| ↳ | Software Engineer Intern, Core Infrastructure & Security | Menlo Park, CA</br>Bellevue, WA | <a href="https://go.vansh.nyc/1Dq?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
 | ↳ | Software Engineer Intern, CoreAI | Redmond, WA | <a href="https://go.vansh.nyc/19t?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | ↳ | Software Engineer Intern, Creative Intelligence and Brand Innovation | San Jose, CA | <a href="https://go.vansh.nyc/6q?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 04 |
 | ↳ | Software Engineer Intern, Data Arch - E-commerce | Seattle, WA | <a href="https://go.vansh.nyc/6n?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 04 |
@@ -2930,20 +2978,25 @@
 | ↳ | Software Engineering Intern | <details><summary>**8 locations**</summary>San Diego, CA</br>Austin, TX</br>Boxborough, MA</br>United States</br>Tempe, AZ</br>Irvine, CA</br>Louisville, KY</br>New York, NY</details> | <a href="https://go.vansh.nyc/Rs?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
 | ↳ | Software Engineering Intern | Ann Arbor, MI | 🔒 | Oct 13 |
 | ↳ | Software Engineering Intern | Atlanta, GA | 🔒 | Nov 03 |
+| ↳ | Software Engineering Intern | Austin, TX | <a href="https://go.vansh.nyc/1Di?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | ↳ | Software Engineering Intern | Austin, TX</br>Santa Clara, CA | <a href="https://go.vansh.nyc/Xo?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | ↳ | Software Engineering Intern | Bellevue, WA | 🔒 | Nov 06 |
-| ↳ | Software Engineering Intern | CAN Kanata, ON | <a href="https://go.vansh.nyc/8u?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 13 |
+| ↳ | Software Engineering Intern | Boston, MA | <a href="https://go.vansh.nyc/1Dh?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | ↳ | Software Engineering Intern | Calabasas, CA | 🔒 | Oct 18 |
 | ↳ | Software Engineering Intern | Cedar Rapids, IA | 🔒 | Oct 26 |
+| ↳ | Software Engineering Intern | Cincinnati, OH | <a href="https://go.vansh.nyc/1Dj?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
+| ↳ | Software Engineering Intern | Coopersburg, PA | <a href="https://go.vansh.nyc/1Df?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | ↳ | Software Engineering Intern | Golden, CO | <a href="https://go.vansh.nyc/1c3?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | ↳ | Software Engineering Intern | Jacksonville, FL | <a href="https://go.vansh.nyc/132?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | ↳ | Software Engineering Intern | Jacksonville, FL | <a href="https://go.vansh.nyc/1k6?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | ↳ | Software Engineering Intern | Kennett Square, PA | <a href="https://go.vansh.nyc/X6?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
+| ↳ | Software Engineering Intern | Lakewood, OH | 🔒 | Nov 04 |
 | ↳ | Software Engineering Intern | Long Island City, NY | <a href="https://go.vansh.nyc/1mf?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 07 |
 | ↳ | Software Engineering Intern | New York, NY | <a href="https://go.vansh.nyc/130?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | ↳ | Software Engineering Intern | New York, NY | <a href="https://go.vansh.nyc/1oA?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
 | ↳ | Software Engineering Intern | New York, NY | 🔒 | Nov 02 |
 | ↳ | Software Engineering Intern | Palo Alto, CA | <a href="https://go.vansh.nyc/1rg?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
+| ↳ | Software Engineering Intern | Philadelphia, PA | <a href="https://go.vansh.nyc/1Dg?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | ↳ | Software Engineering Intern | Reston, VA | <a href="https://go.vansh.nyc/17y?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 11 |
 | ↳ | Software Engineering Intern | San Jose, CA | 🔒 | Apr 24 |
 | ↳ | Software Engineering Intern | United States | <a href="https://go.vansh.nyc/1vj?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
@@ -2952,6 +3005,7 @@
 | ↳ | Software Engineering Intern 🇺🇸 | Aurora, CO | 🔒 | Nov 05 |
 | ↳ | Software Engineering Intern 🇺🇸 | Aurora, CO | 🔒 | Oct 16 |
 | ↳ | Software Engineering Intern 🇺🇸 | Beavercreek, OH | 🔒 | Oct 26 |
+| ↳ | Software Engineering Intern 🇺🇸 | Bristol, PA | 🔒 | Oct 29 |
 | ↳ | Software Engineering Intern 🇺🇸 | East Hartford, CT | 🔒 | Nov 02 |
 | ↳ | Software Engineering Intern 🇺🇸 | McKinney, TX | 🔒 | Nov 11 |
 | ↳ | Software Engineering Intern 🇺🇸 | Richardson, TX | 🔒 | Nov 10 |
@@ -2972,6 +3026,7 @@
 | ↳ | Software Engineering Intern, Defense & Intel (D&I) | <details><summary>**11 locations**</summary>Chantilly, VA</br>Ann Arbor, MI</br>Lexington, MA</br>Kihei, HI</br>Beavercreek, OH</br>Lexington Park, MD</br>King of Prussia, PA</br>Colorado Springs, CO</br>Huntsville, AL</br>El Segundo, CA</br>Orlando, FL</details> | <a href="https://go.vansh.nyc/1zz?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
 | ↳ | Software Engineering Intern, Embedded Platforms | Palo Alto, CA</br>Irvine, CA</br>Champaign, IL | <a href="https://go.vansh.nyc/fF?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | ↳ | Software Engineering Intern, Java | Jacksonville, FL | <a href="https://go.vansh.nyc/131?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
+| ↳ | Software Engineering Intern, Java/API Development for Neutronics Code | Idaho Falls, ID | <a href="https://go.vansh.nyc/1D6?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
 | ↳ | Software Engineering Intern, Masters | United States | <a href="https://go.vansh.nyc/32?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 22 |
 | ↳ | Software Engineering Intern, Medical Device & Healthcare Integration | Wilmington, MA | <a href="https://go.vansh.nyc/1AV?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
 | ↳ | Software Engineering Intern, Policy Engineering | San Jose, CA | 🔒 | May 09 |
@@ -2980,6 +3035,7 @@
 | ↳ | Software Engineering Intern, Vehicle Controls | Vancouver, Canada | <a href="https://go.vansh.nyc/gx?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
 | ↳ | Software Engineering Intern, iOS | New York, NY | <a href="https://go.vansh.nyc/1kQ?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | ↳ | Software Engineering: Data & Intelligence Intern, Innovation & Technology | New York, NY | <a href="https://go.vansh.nyc/fn?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 21 |
+| ↳ | Software QA Engineer Intern, Infotainment | Newark, CA | <a href="https://go.vansh.nyc/1DK?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | ↳ | Software Quality Assurance Intern | San Francisco, CA | <a href="https://go.vansh.nyc/YA?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
 | ↳ | Software Test Engineering Co-op | Markham, Canada | 🔒 | Sep 01 |
 | ↳ | Software Test Engineering Co-op | San Jose, CA | 🔒 | Aug 24 |
